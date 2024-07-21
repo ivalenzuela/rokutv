@@ -1,0 +1,265 @@
+EXTM3U
+#EXTINF:-1, tvg-logo="https://i.imgur.com/PU2cqzN.png" group-title="CanalesChilenos", TVN 24 PLAY
+http://mdstrm.com/live-stream-playlist/57d1a22064f5d85712b20dab.m3u8
+
+#EXTINF:-1, tvg-logo="https://i.imgur.com/AwzIEPu.png" group-title="CanalesChilenos", Tele Trece Noticias
+https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/t13/t13.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0SWgwab.jpg" group-title="CanalesChilenos", MEGANOTICIAS
+http://mdstrm.com/live-stream-playlist/561430ae330428c223687e1e.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/415_Puranoticia.png" group-title="CanalesChilenos", PURANOTICIAS
+https://pnt.janusmedia.tv/hls/pnt.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AmgUhiL.png" group-title="CanalesChilenos", Hispan TV  | Irán
+https://cdnlive.presstv.ir/live/live.smil/.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/VSQogJt.png" group-title="CanalesChilenos", RT Español | Rusia
+https://rt-esp.rttv.com/live/rtesp/playlist_2500Kb.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ILZeBjW.png" group-title="CanalesChilenos", CANAL 13
+https://marine2.miplay.cl/c13/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6UoixA8.png" group-title="CanalesChilenos", TV CHILE | Santiago 
+https://mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/a6m1yWP.png" group-title="CanalesChilenos", Mega | Santiago 
+https://unlimited1-cl-isp.dps.live/mega/mega.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/puJ88Pk.png" group-title="CanalesChilenos", La Red | Santiago
+https://unlimited1-cl-isp.dps.live/lared/lared.smil/playlist.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/KVKXRwQ.png" group-title="CanalesChilenos", 13 Cultura
+https://origin.dpsgo.com/ssai/event/GI-9cp_bT8KcerLpZwkuhw/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3lfGaqZ.png" group-title="CanalesChilenos", 13 Humor
+https://origin.dpsgo.com/ssai/event/cKWySXKgSK-SzlJmESkOWw/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1507_Chilevisual_Cultura.png" group-title="CanalesChilenos", Chilevisual Cultura
+https://stmv5.voxtvhd.com.br/chilevisualcultura/chilevisualcultura/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3eb0Hhn.png" group-title="CanalesChilenos", UCV  | Valparaíso
+https://unlimited2-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9Z6S3GQ.png" group-title="CanalesChilenos", TV+  | Valparaíso
+https://mdstrm.com/live-stream-playlist/5c0e8b19e4c87f3f2d3e6a59.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1195_La_Chilena_TV.png" group-title="CanalesChilenos", La Chilena TV
+https://vdochile.com:3134/hybrid/play.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nomlIR3.png" group-title="CanalesChilenos", Animales
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd834c66fe2ca0009303b8d/master.m3u8?advertisingId=&appName=web&appVersion=5.7.5-0b1674b626f5e5adc1f2b1d12b068e89a950fdf7&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=37c48206-1366-4672-9edf-577b06b7ce4f&deviceLat=-32.8833&deviceLon=-68.8167&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=29513be5-f696-11ea-bfbf-0242ac110002&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mGCtmcX.png" group-title="CanalesChilenos", Historia
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de5758e1a30dc00094fcd6c/master.m3u8?advertisingId=&appName=web&appVersion=5.7.1-a6476e5c6aae81513d57183396914e3b74493662&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=37c48206-1366-4672-9edf-577b06b7ce4f&deviceLat=-32.8836&deviceLon=-68.8141&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=16348462-ede5-11ea-ae94-0242ac110002&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ghKDRik.png" group-title="CanalesChilenos", Naturaleza
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd85eac039bba0009e86d1d/master.m3u8?advertisingId=&appName=web&appVersion=5.7.5-0b1674b626f5e5adc1f2b1d12b068e89a950fdf7&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=37c48206-1366-4672-9edf-577b06b7ce4f&deviceLat=-32.8833&deviceLon=-68.8167&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=97de34fa-f695-11ea-abc9-0242ac110002&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MhZkg1N.png" group-title="CanalesChilenos", Ciencia
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dd8364ea1d6780009929902/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&content_rating=ROKU_ADS_CONTENT_RATING
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dOt2Jo2.png" group-title="CanalesChilenos", Mundo
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d103f031154a4172d262b/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=959&deviceId=5d8d103f031154a4172d262b&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/X6Myhfe.png" group-title="CanalesChilenos", Chilevision Deportes | HD 
+https://r.mjh.nz/PlutoTV/638df6f8b63cf100075ccfa1-alt.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HjBqieO.png" group-title="CanalesChilenos", Chile Channel | Santiago
+https://v2.tustreaming.cl/chilechannel/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://i.imgur.com/R7vbQU0.jpg" group-title="RadiosConVideo", Agricultura Video| (92.1 FM)
+https://pantera1-100gb-cl-movistar.dps.live/921tv/921tv.smil/playlist.m3u8
+
+#EXTINF:-1, radio="true" tvg-logo="" group-title="RadiosConVideo", Agricultura Radio
+http://unlimited3-cl.dps.live/agricultura/aac/icecast.audio
+
+#EXTINF:-1, radio="true" tvg-logo="" group-title="RadiosConVideo", BIO BIO TV
+https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/bbtv/bbtv.smil/playlist.m3u8
+
+#EXTINF:-1, radio="true" tvg-logo="" group-title="RadiosConVideo", RADIO FESTIVAL
+https://stream.festival.cl/1
+
+#EXTINF:-1 tvg-logo="LSRwNhH.png" group-title="RadiosConVideo", Pudahuel | Providencia
+https://unlimited6-cl.dps.live/pudahueltv/pudahueltv.smil/pudahueltv/livestream3/chunks.m3u8
+
+#EXTINF:-1, tvg-logo="1Ct0fSh.png" group-title="RadiosConVideo", Radio Camila TV
+https://593b04c4c5670.streamlock.net/8142/8142/playlist.m3u8
+ 
+#EXTINF:-1, tvg-logo="https://i.imgur.com/TtrfkSG.png" group-title="RadiosConVideo", Radio Carolina (TV) | (99.3 FM)
+http://unlimited6-cl.dps.live/carolinatv/carolinatv.smil/playlist.m3u8
+ 
+#EXTINF:-1, tvg-logo="https://i.imgur.com/BT7EmIh.png" group-title="RadiosConVideo", Infinita (TV) | (100.1 FM)
+http://unlimited6-cl.dps.live/infinitatv/infinitatv.smil/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kffnZEj.png" group-title="RadiosConVideo", Radio Z | Las Condes
+https://unlimited6-cl.dps.live/radioztv/radioztv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7sQUpIn.png" group-title="RadiosConVideo", Romántica TV|Ñuñoa
+http://unlimited6-cl.dps.live/romanticatv/romanticatv.smil/romanticatv/livestream1/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Vi9orzr.png" group-title="RadiosConVideo", Ruidos TV| Santiago
+https://593b04c4c5670.streamlock.net/8038/8038/playlist.m3u8
+ 
+
+#EXTINF:-1, radio="true" tvg-logo="fKByJrs.png" group-title="RadiosChilenas", -[COLOR red]RadiosChilenas[/COLOR]-
+http://i.imgur.com/VWctVbq.mp4
+ 
+#EXTINF:-1, radio="true" tvg-logo="" group-title="RadiosChilenas", Agricultura VIDEO
+https://pantera1-100gb-cl-movistar.dps.live/921tv/921tv.smil/playlist.m3u8
+
+#EXTINF:-1, radio="true" tvg-logo="" group-title="RadiosChilenas", Agricultura Radio
+http://unlimited3-cl.dps.live/agricultura/aac/icecast.audio
+
+#EXTINF:-1, radio="true" tvg-logo="" group-title="RadiosChilenas", Radio Bio Bio Santiago (99.7 FM)
+http://unlimited11-cl.dps.live/biobiosantiago/aac/icecast.audio
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/koqFkUU.jpg" group-title="RadiosChilenas", El Conquistador (91.3 FM Santiago)
+https://redirector.rudo.video/hls-video/931b584451fa6dd1313ee66efbfd5802e3f3bcea/elconquistadortv/elconquistadortv.smil/playlist.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/HkJznx3.png" group-title="RadiosChilenas", Sonar
+https://mdstrm.com/audio/5c915724519bce27671c4d15/live.m3u8
+
+#EXTINF:-1, radio="true" tvg-logo="" group-title="RadiosChilenas", RADIO FESTIVAL
+https://stream.festival.cl/1
+
+#EXTINF:-1, radio="true" tvg-logo="" group-title="RadiosChilenas", Colo-colo Santiago
+http://audio2.tustreaming.cl:7040/stream
+
+#EXTINF:-1, radio="true" tvg-logo="" group-title="RadiosChilenas", Colo Colo 
+http://audio2.tustreaming.cl:7040/stream/;
+ 
+#EXTINF:-1, radio="true" tvg-logo="" group-title="RadiosChilenas", Radio Valparaiso
+http://200.24.229.253:8250/;
+
+#EXTINF:-1, radio="true" tvg-logo="" group-title="RadiosChilenas", Cooperativa (106.7 FM)
+http://unlimited3-cl.dps.live/cooperativafm/aac/icecast.audio
+
+#EXTINF:-1, radio="true" tvg-logo="https://i.imgur.com/muAbebc.png" group-title="RadiosChilenas", Radio Ritoque (Valparaiso)
+http://sonando.us.digitalproserver.com/ritoquefm_aac
+
+#EXTINF:-1, radio="true" tvg-logo="" group-title="RadiosChilenas", Radio Primavera | San Antonio
+http://server2.ejeserver.com/user/primavera
+
+#EXTINF:-1, radio="true" tvg-logo="" group-title="RadiosChilenas", Punto Siete (Valparaiso)
+http://unlimited3-cl.dps.live/p7valparaiso/aac/icecast.audio
+ 
+#EXTINF:-1, radio="true" tvg-logo="" group-title="RadiosChilenas", FM Okey (Valparaíso)
+http://streaming.fmokey.cl/FmOkValpo.mp3
+
+#EXTINF:-1, radio="true" tvg-logo="2iTGhqI.jpg" group-title="RadiosChilenas", Radio Mas
+http://us.listenlive.digital:7412/stream.mp3
+
+#EXTINF:-1, radio="true" tvg-logo="" group-title="RadiosChilenas", Radio Nostalgica (88.1 FM Copiapo)
+http://unlimited11-cl.dps.live/nostalgica/mp3/icecast.audio
+ 
+#EXTINF:-1, radio="true" tvg-logo="" group-title="RadiosChilenas", Radio Nostalgica Plus (88.1 FM Copiapo)
+http://unlimited11-cl.dps.live/nostalgicaplus/mp3/icecast.audio
+ 
+#EXTINF:-1, radio="true" tvg-logo="" group-title="RadiosChilenas", Radio Nostalgica Joven (88.1 FM Copiapo)
+https://redirector.dps.live/nostalgica/aac/icecast.audio
+
+#EXTINF:-1, radio="true" tvg-logo="" group-title="RadiosChilenas", Radio Nuevo Mundo (88.9 FM Ovalle)
+http://190.82.105.90:8012/stream/1/
+
+#EXTINF:-1, radio="true" tvg-logo="" group-title="RadiosChilenas", Duna (89.7 FM)
+http://unlimited11-cl.dps.live/duna/aac/icecast.audio
+
+#EXTINF:-1, radio="true" tvg-logo="" group-title="RadiosChilenas", Radio Carnaval (89.9 FM Vina del Mar)
+http://sonando.us.digitalproserver.com/carnaval_vinadelmar.aac
+
+#EXTINF:-1, radio="true" tvg-logo="" group-title="RadiosChilenas", Radio Bio Bio Valdivia (88.9 FM Valdivia)
+https://unlimited3-cl.dps.live/biobiovaldivia/aac/icecast.audio
+
+#EXTINF:-1, radio="true" tvg-logo="" group-title="RadiosChilenas", Radio Sur (92.1 FM Los Angeles)
+http://ww3.radiosur.cl:5074/rsur
+
+#EXTINF:-1, radio="true" tvg-logo="" group-title="RadiosChilenas", La Clave (92.9 FM)
+http://tunein.digitalproserver.com/laclavebb.aac
+ 
+#EXTINF:-1, radio="true" tvg-logo="" group-title="RadiosChilenas", Radio Magistral (93.9 FM Galvarino)
+http://www.magistralfm.cl:9110/galvarino
+
+#EXTINF:-1, radio="true" tvg-logo="" group-title="RadiosChilenas", Radio Genesis (94.1 FM Andacollo)
+http://archi-us.digitalproserver.com/genesis-fm.aac
+
+#EXTINF:-1, radio="true" tvg-logo="" group-title="RadiosChilenas", Radio Almeyda (94.3 FM Diego de Almagro)
+http://192.99.18.164:9974/stream
+ 
+#EXTINF:-1, radio="true" tvg-logo="" group-title="RadiosChilenas", Radio Bio Bio Valparaiso (96.7 FM Valparaiso)
+https://unlimited3-cl.dps.live/biobiovalparaiso/aac/icecast.audio
+ 
+#EXTINF:-1, radio="true" tvg-logo="" group-title="RadiosChilenas", Radio Bio Bio Puerto Montt (94.9 Puerto Montt)
+https://unlimited3-cl.dps.live/biobiopuertomontt/aac/icecast.audio
+
+#EXTINF:-1, radio="true" tvg-logo="" group-title="RadiosChilenas", FM Tiempo (95.9 FM)
+http://unlimited11-cl.dps.live/fmtiempo/mp3/icecast.audio
+
+#EXTINF:-1, radio="true" tvg-logo="" group-title="RadiosChilenas", Estilo (FM 95.9 Coyhaique)
+http://audio2.tustreaming.cl:8058/stream
+ 
+#EXTINF:-1, radio="true" tvg-logo="" group-title="RadiosChilenas", Beethoven (96.5 FM)
+http://unlimited3-cl.dps.live/beethovenfm/go/audio/now/livestream1.m3u8
+
+#EXTINF:-1, radio="true" tvg-logo="" group-title="RadiosChilenas", Radio Carnaval Antofagasta (96.5 FM)
+http://sonando.us.digitalproserver.com/carnaval_antofagasta.aac
+
+#EXTINF:-1, radio="true" tvg-logo="" group-title="RadiosChilenas", Radio Bio Bio Concepcion (98.1 FM Concepcion)
+https://unlimited3-cl.dps.live/biobioconcepcion/aac/icecast.audio
+
+#EXTINF:-1, radio="true" tvg-logo="" group-title="RadiosChilenas", Positiva (98.5 FM Temuco)
+http://mimix.mercurio.cl:8000/temuco2
+ 
+#EXTINF:-1, radio="true" tvg-logo="" group-title="RadiosChilenas", Radio El Conquistador (98.9 FM Concepcion)
+http://audio5.tustreaming.cl:8060/concepcion
+ 
+#EXTINF:-1, radio="true" tvg-logo="" group-title="RadiosChilenas", Radio Carolina (99.3 FM)
+http://unlimited3-cl.dps.live/carolinafm/aac/icecast.audio
+
+#EXTINF:-1, radio="true" tvg-logo="" group-title="RadiosChilenas", Radio Positiva (FM 99.5 Valdivia)
+http://mimix.mercurio.cl:8000/valdivia2
+ 
+#EXTINF:-1, radio="true" tvg-logo="" group-title="RadiosChilenas", Radio Bio Bio Santiago (99.7 FM)
+http://unlimited11-cl.dps.live/biobiosantiago/aac/icecast.audio
+ 
+#EXTINF:-1, radio="true" tvg-logo="" group-title="RadiosChilenas", Radio Universidad de Antofagasta (99.9 FM)
+http://185.105.4.100/proxy/radioua?mp=/stream
+ 
+#EXTINF:-1, radio="true" tvg-logo="" group-title="RadiosChilenas", Infinita (100.1 FM)
+http://unlimited1-us.dps.live/infinita/go/audio/now/livestream1.m3u8
+ 
+#EXTINF:-1, radio="true" tvg-logo="" group-title="RadiosChilenas", Paula FM (100.5 FM)
+http://unlimited1-us.dps.live/radiopaula/go/audio/now/livestream1.m3u8
+
+#EXTINF:-1, radio="true" tvg-logo="" group-title="RadiosChilenas", Montecarlo (102.7 FM)
+http://montecarloradiostation2.better-than.tv/stream/1/
+
+#EXTINF:-1, radio="true" tvg-logo="" group-title="RadiosChilenas", Radio Okey (103.1 FM Copiapo)
+http://streaming.fmokey.cl:8000/FmOkCP.mp3
+ 
+#EXTINF:-1, radio="true" tvg-logo="" group-title="RadiosChilenas", Radio UCV FM (103.5 FM Valparaiso)
+http://sonando.us.digitalproserver.com/ucvradio
+
+#EXTINF:-1, radio="true" tvg-logo="" group-title="RadiosChilenas", Romantica (104.1 FM)
+http://unlimited11-cl.dps.live/romantica/mp3/icecast.audio
+
+#EXTINF:-1, radio="true" tvg-logo="" group-title="RadiosChilenas", Radio Bio Bio Osorno (106.5 FM Osorno)
+https://unlimited3-cl.dps.live/biobioosorno/aac/icecast.audio
+ 
+#EXTINF:-1, radio="true" tvg-logo="" group-title="RadiosChilenas", Radio Galaxia (Online)
+http://sscl.denialstream.com:8830/;stream/1.mp3
+ 
+#EXTINF:-1, radio="true" tvg-logo="" group-title="RadiosChilenas", Radio Concepcion (Online)
+http://ip.audiostreaming.cl:9764/;
+
+#EXTINF:-1, radio="true" tvg-logo="" group-title="RadiosChilenas", Radio Camara de Diputados (Online)
+http://camara.03.wl.cdnz.cl/camara5/live/playlist.m3u8
+ 
+#EXTINF:-1, radio="true" tvg-logo="" group-title="RadiosChilenas", Nuevo Mundo (930 AM)
+http://190.82.105.90:8012/;
+ 
+#EXTINF:-1, radio="true" tvg-logo="" group-title="RadiosChilenas", Radio Llacolen (1600 AM Concepcion)
+http://sonando.us.digitalproserver.com/radiollacolen.aac
+ 
+#EXTINF:-1, radio="true" tvg-logo="" group-title="RadiosChilenas", Portales (1180 AM)
+http://s6.jcwebnew.com:8060/stream
