@@ -8,6 +8,9 @@ https://marine2.miplay.cl/c13/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/a6m1yWP.png" group-title="CanalesChilenos", Mega | Santiago 
 https://unlimited1-cl-isp.dps.live/mega/mega.smil/playlist.m3u8
 
+#EXTINF: -1 tvg-logo="https://i.imgur.com/a6m1yWP.png" group-title="CanalesChilenos", Mega | Santiago 
+https://unlimited1-cl-isp.dps.live/mega/mega.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/puJ88Pk.png" group-title="CanalesChilenos", La Red | Santiago
 https://unlimited1-cl-isp.dps.live/lared/lared.smil/playlist.m3u8
 
