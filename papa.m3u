@@ -1,12 +1,12 @@
 EXTM3U
+#EXTINF:-1 tvg-id="Contivision.cl" tvg-logo="https://i.imgur.com/Lz2OlKf.png" group-title="Canales Chilenos", Contivision
+https://unlimited6-cl.dps.live/cm/cm.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AwzIEPu.png" group-title="Canales Chilenos", TVN
 https://mdstrm.com/live-stream-playlist/57a498c4d7b86d600e5461cb.m3u8?uid=BUPihR7P8LWUWP5Sy1m7PYxpcsAyN9iy&an=tvn-play-app-lg-tv&access_token=VlwLcgKZ3vRkxQOtUKa565uRp42jOGs9r0kA9La3aciaQoGGJpUnnH0DLDo3MpIiSfM7xjrgl7g
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ILZeBjW.png" group-title="Canales Chilenos", CANAL 13
 https://marine2.miplay.cl/c13/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Contivision.cl" tvg-logo="https://i.imgur.com/Lz2OlKf.png" group-title="CanalesChilenos", Contivision
-https://unlimited6-cl.dps.live/cm/cm.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/a6m1yWP.png" group-title="Canales Chilenos", Mega HD
 http://tecnozone.site:8090/gaF-9837HA/BHAG-93gfHa/29
@@ -16,9 +16,6 @@ https://unlimited1-cl-isp.dps.live/mega/mega.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/puJ88Pk.png" group-title="Canales Chilenos", La Red
 http://tecnozone.site:8090/gaF-9837HA/BHAG-93gfHa/32
-
-#EXTINF:-1 tvg-id="Contivision.cl" tvg-logo="https://i.imgur.com/Lz2OlKf.png" group-title="Canales Chilenos", Contivision
-https://unlimited6-cl.dps.live/cm/cm.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PU2cqzN.png" group-title="Canales Chilenos", TVN 24 PLAY
 http://mdstrm.com/live-stream-playlist/57d1a22064f5d85712b20dab.m3u8
