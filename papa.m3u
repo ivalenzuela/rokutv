@@ -1,20 +1,20 @@
 EXTM3U
-#EXTINF:-1, tvg-logo="https://i.imgur.com/AwzIEPu.png" group-title="CanalesChilenos", TVN Online
+#EXTINF:-1, tvg-logo="https://i.imgur.com/AwzIEPu.png" group-title="CanalesChilenos", TVN
 https://mdstrm.com/live-stream-playlist/57a498c4d7b86d600e5461cb.m3u8?uid=BUPihR7P8LWUWP5Sy1m7PYxpcsAyN9iy&an=tvn-play-app-lg-tv&access_token=VlwLcgKZ3vRkxQOtUKa565uRp42jOGs9r0kA9La3aciaQoGGJpUnnH0DLDo3MpIiSfM7xjrgl7g
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ILZeBjW.png" group-title="CanalesChilenos", CANAL 13
 https://marine2.miplay.cl/c13/playlist.m3u8
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/a6m1yWP.png" group-title="CanalesChilenos", Mega | Santiago 
+#EXTINF: -1 tvg-logo="https://i.imgur.com/a6m1yWP.png" group-title="CanalesChilenos", Mega HD 
 https://mdstrm.com/live-stream-playlist/53d2c1a32640614e62a0e000.m3u8?uid=BUPihR7P8LWUWP5Sy1m7PYxpcsAyN9iy&an=screen&at=web-app&av=v6.0.21&access_token=A2s19n8PBJgpWmSVfuWCQ7n7PeDHKeQddKSP4ctIUtT7rUeV8U3ksGEhqDoMdR37D8IoRZ7bjwz&adInsertionSessionId=a849780c-7986-4c11-b50d-75a93e625a0f
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/a6m1yWP.png" group-title="CanalesChilenos", Mega | Santiago 
+#EXTINF: -1 tvg-logo="https://i.imgur.com/a6m1yWP.png" group-title="CanalesChilenos", Mega 
 https://unlimited1-cl-isp.dps.live/mega/mega.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/puJ88Pk.png" group-title="CanalesChilenos", La Red | Santiago
+#EXTINF:-1 tvg-logo="https://i.imgur.com/puJ88Pk.png" group-title="CanalesChilenos", La Red
 https://unlimited1-cl-isp.dps.live/lared/lared.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Contivision.cl" tvg-logo="https://i.imgur.com/Lz2OlKf.png" group-title="CanalesChilenos", Contivision (720p)
+#EXTINF:-1 tvg-id="Contivision.cl" tvg-logo="https://i.imgur.com/Lz2OlKf.png" group-title="CanalesChilenos", Contivision
 https://unlimited6-cl.dps.live/cm/cm.smil/playlist.m3u8
 
 #EXTINF:-1, tvg-logo="https://i.imgur.com/PU2cqzN.png" group-title="CanalesChilenos", TVN 24 PLAY
@@ -24,7 +24,7 @@ http://mdstrm.com/live-stream-playlist/57d1a22064f5d85712b20dab.m3u8
 https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/t13/t13.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0SWgwab.jpg" group-title="CanalesChilenos", MEGANOTICIAS
-http://mdstrm.com/live-stream-playlist/561430ae330428c223687e1e.m3u8
+http://mdstrm.com/live-stream-playlist/561430ae330428c223687e1e.m3u8?uid=BUPihR7P8LWUWP5Sy1m7PYxpcsAyN9iy&an=screen&at=web-app&av=v6.0.21&access_token=A2s19n8PBJgpWmSVfuWCQ7n7PeDHKeQddKSP4ctIUtT7rUeV8U3ksGEhqDoMdR37D8IoRZ7bjwz&adInsertionSessionId=a849780c-7986-4c11-b50d-75a93e625a0f
 
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/415_Puranoticia.png" group-title="CanalesChilenos", PURANOTICIAS
 https://pnt.janusmedia.tv/hls/pnt.m3u8
