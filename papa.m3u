@@ -1,4 +1,6 @@
 EXTM3U
+#EXTINF:-1 tvg-id="610DTSA.ar" tvg-name="STAR CHANNEL HD MX" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScvh1gcBNY4YUTvTLw6iSr4lMV1Gt5ILgZXlfSWvPDTcuyPVDR&s" group-title="CINE",STAR CHANNEL HD MX
+
 #EXTINF:-1, tvg-logo="https://i.imgur.com/AwzIEPu.png" group-title="CanalesChilenos", TVN
 https://mdstrm.com/live-stream-playlist/57a498c4d7b86d600e5461cb.m3u8?uid=BUPihR7P8LWUWP5Sy1m7PYxpcsAyN9iy&an=tvn-play-app-lg-tv&access_token=VlwLcgKZ3vRkxQOtUKa565uRp42jOGs9r0kA9La3aciaQoGGJpUnnH0DLDo3MpIiSfM7xjrgl7g
 
@@ -6,13 +8,13 @@ https://mdstrm.com/live-stream-playlist/57a498c4d7b86d600e5461cb.m3u8?uid=BUPihR
 https://marine2.miplay.cl/c13/playlist.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/a6m1yWP.png" group-title="CanalesChilenos", Mega HD
-https://mdstrm.com/live-stream-playlist/53d2c1a32640614e62a0e000.m3u8?uid=BUPihR7P8LWUWP5Sy1m7PYxpcsAyN9iy&an=screen&at=web-app&access_token=A2s19n8PBJgpWmSVfuWCQ7n7PeDHKeQddKSP4ctIUtT7rUeV8U3ksGEhqDoMdR37D8IoRZ7bjwz
+http://tecnozone.site:8090/gaF-9837HA/BHAG-93gfHa/29
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/a6m1yWP.png" group-title="CanalesChilenos", Mega 
 https://unlimited1-cl-isp.dps.live/mega/mega.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/puJ88Pk.png" group-title="CanalesChilenos", La Red
-https://unlimited1-cl-isp.dps.live/lared/lared.smil/playlist.m3u8
+http://tecnozone.site:8090/gaF-9837HA/BHAG-93gfHa/32
 
 #EXTINF:-1 tvg-id="Contivision.cl" tvg-logo="https://i.imgur.com/Lz2OlKf.png" group-title="CanalesChilenos", Contivision
 https://unlimited6-cl.dps.live/cm/cm.smil/playlist.m3u8
@@ -39,12 +41,29 @@ https://rt-esp.rttv.com/live/rtesp/playlist_2500Kb.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6UoixA8.png" group-title="CanalesChilenos", TV CHILE | Santiago 
 https://mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8
 
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/KVKXRwQ.png" group-title="CanalesChilenos", 13 Cultura
+#EXTINF:-1 tvg-id="13C.cl",13C
 https://origin.dpsgo.com/ssai/event/GI-9cp_bT8KcerLpZwkuhw/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3lfGaqZ.png" group-title="CanalesChilenos", 13 Humor
+#EXTINF:-1 tvg-id="13E.cl",13 Entretención
+https://origin.dpsgo.com/ssai/event/BBp0VeP6QtOOlH8nu3bWTg/master.m3u8
+
+#EXTINF:-1 tvg-id="13Festival.cl",13 Festival
+https://origin.dpsgo.com/ssai/event/Nftd0fM2SXasfDlRphvUsg/master.m3u8
+
+#EXTINF:-1 tvg-id="13Humor.cl",13 Humor
 https://origin.dpsgo.com/ssai/event/cKWySXKgSK-SzlJmESkOWw/master.m3u8
+
+#EXTINF:-1 tvg-id="13Kids.cl",13 Kids
+https://origin.dpsgo.com/ssai/event/LhHrVtyeQkKZ-Ye_xEU75g/master.m3u8
+
+#EXTINF:-1 tvg-id="13P.cl",13 Primez
+https://origin.dpsgo.com/ssai/event/p4mmBxEzSmKAxY1GusOHrw/master.m3u8
+
+#EXTINF:-1 tvg-id="13Realities.cl",13 Realitiesz
+https://origin.dpsgo.com/ssai/event/g7_JOM0ORki9SR5RKHe-Kw/master.m3u8
+
+#EXTINF:-1 tvg-id="13T.cl",13 Teleseriesz
+https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1507_Chilevisual_Cultura.png" group-title="CanalesChilenos", Chilevisual Cultura
 https://stmv5.voxtvhd.com.br/chilevisualcultura/chilevisualcultura/playlist.m3u8
@@ -79,198 +98,317 @@ https://r.mjh.nz/PlutoTV/638df6f8b63cf100075ccfa1-alt.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HjBqieO.png" group-title="CanalesChilenos", Chile Channel | Santiago
 https://v2.tustreaming.cl/chilechannel/index.m3u8
 
-#EXTINF:-1, tvg-logo="https://i.imgur.com/R7vbQU0.jpg" group-title="RadiosConVideo", Agricultura Video| (92.1 FM)
-https://pantera1-100gb-cl-movistar.dps.live/921tv/921tv.smil/playlist.m3u8
-
-#EXTINF:-1, radio="true" tvg-logo="" group-title="RadiosConVideo", Agricultura Radio
-http://unlimited3-cl.dps.live/agricultura/aac/icecast.audio
-
-#EXTINF:-1, radio="true" tvg-logo="" group-title="RadiosConVideo", BIO BIO TV
-https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/bbtv/bbtv.smil/playlist.m3u8
-
-#EXTINF:-1, radio="true" tvg-logo="" group-title="RadiosConVideo", RADIO FESTIVAL
-https://stream.festival.cl/1
-
-#EXTINF:-1 tvg-logo="LSRwNhH.png" group-title="RadiosConVideo", Pudahuel | Providencia
-https://unlimited6-cl.dps.live/pudahueltv/pudahueltv.smil/pudahueltv/livestream3/chunks.m3u8
-
-#EXTINF:-1, tvg-logo="1Ct0fSh.png" group-title="RadiosConVideo", Radio Camila TV
-https://593b04c4c5670.streamlock.net/8142/8142/playlist.m3u8
- 
-#EXTINF:-1, tvg-logo="https://i.imgur.com/TtrfkSG.png" group-title="RadiosConVideo", Radio Carolina (TV) | (99.3 FM)
-http://unlimited6-cl.dps.live/carolinatv/carolinatv.smil/playlist.m3u8
- 
-#EXTINF:-1, tvg-logo="https://i.imgur.com/BT7EmIh.png" group-title="RadiosConVideo", Infinita (TV) | (100.1 FM)
-http://unlimited6-cl.dps.live/infinitatv/infinitatv.smil/playlist.m3u8
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kffnZEj.png" group-title="RadiosConVideo", Radio Z | Las Condes
-https://unlimited6-cl.dps.live/radioztv/radioztv.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7sQUpIn.png" group-title="RadiosConVideo", Romántica TV|Ñuñoa
-http://unlimited6-cl.dps.live/romanticatv/romanticatv.smil/romanticatv/livestream1/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Vi9orzr.png" group-title="RadiosConVideo", Ruidos TV| Santiago
-https://593b04c4c5670.streamlock.net/8038/8038/playlist.m3u8
- 
-
-#EXTINF:-1, radio="true" tvg-logo="fKByJrs.png" group-title="RadiosChilenas", -[COLOR red]RadiosChilenas[/COLOR]-
-http://i.imgur.com/VWctVbq.mp4
- 
-#EXTINF:-1, radio="true" tvg-logo="" group-title="RadiosChilenas", Agricultura VIDEO
-https://pantera1-100gb-cl-movistar.dps.live/921tv/921tv.smil/playlist.m3u8
-
-#EXTINF:-1, radio="true" tvg-logo="" group-title="RadiosChilenas", Agricultura Radio
-http://unlimited3-cl.dps.live/agricultura/aac/icecast.audio
-
-#EXTINF:-1, radio="true" tvg-logo="" group-title="RadiosChilenas", Radio Bio Bio Santiago (99.7 FM)
-http://unlimited11-cl.dps.live/biobiosantiago/aac/icecast.audio
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/koqFkUU.jpg" group-title="RadiosChilenas", El Conquistador (91.3 FM Santiago)
-https://redirector.rudo.video/hls-video/931b584451fa6dd1313ee66efbfd5802e3f3bcea/elconquistadortv/elconquistadortv.smil/playlist.m3u8
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/HkJznx3.png" group-title="RadiosChilenas", Sonar
-https://mdstrm.com/audio/5c915724519bce27671c4d15/live.m3u8
-
-#EXTINF:-1, radio="true" tvg-logo="" group-title="RadiosChilenas", RADIO FESTIVAL
-https://stream.festival.cl/1
-
-#EXTINF:-1, radio="true" tvg-logo="" group-title="RadiosChilenas", Colo-colo Santiago
-http://audio2.tustreaming.cl:7040/stream
-
-#EXTINF:-1, radio="true" tvg-logo="" group-title="RadiosChilenas", Colo Colo 
-http://audio2.tustreaming.cl:7040/stream/;
- 
-#EXTINF:-1, radio="true" tvg-logo="" group-title="RadiosChilenas", Radio Valparaiso
-http://200.24.229.253:8250/;
-
-#EXTINF:-1, radio="true" tvg-logo="" group-title="RadiosChilenas", Cooperativa (106.7 FM)
-http://unlimited3-cl.dps.live/cooperativafm/aac/icecast.audio
-
-#EXTINF:-1, radio="true" tvg-logo="https://i.imgur.com/muAbebc.png" group-title="RadiosChilenas", Radio Ritoque (Valparaiso)
-http://sonando.us.digitalproserver.com/ritoquefm_aac
-
-#EXTINF:-1, radio="true" tvg-logo="" group-title="RadiosChilenas", Radio Primavera | San Antonio
-http://server2.ejeserver.com/user/primavera
-
-#EXTINF:-1, radio="true" tvg-logo="" group-title="RadiosChilenas", Punto Siete (Valparaiso)
-http://unlimited3-cl.dps.live/p7valparaiso/aac/icecast.audio
- 
-#EXTINF:-1, radio="true" tvg-logo="" group-title="RadiosChilenas", FM Okey (Valparaíso)
-http://streaming.fmokey.cl/FmOkValpo.mp3
-
-#EXTINF:-1, radio="true" tvg-logo="2iTGhqI.jpg" group-title="RadiosChilenas", Radio Mas
-http://us.listenlive.digital:7412/stream.mp3
-
-#EXTINF:-1, radio="true" tvg-logo="" group-title="RadiosChilenas", Radio Nostalgica (88.1 FM Copiapo)
-http://unlimited11-cl.dps.live/nostalgica/mp3/icecast.audio
- 
-#EXTINF:-1, radio="true" tvg-logo="" group-title="RadiosChilenas", Radio Nostalgica Plus (88.1 FM Copiapo)
-http://unlimited11-cl.dps.live/nostalgicaplus/mp3/icecast.audio
- 
-#EXTINF:-1, radio="true" tvg-logo="" group-title="RadiosChilenas", Radio Nostalgica Joven (88.1 FM Copiapo)
-https://redirector.dps.live/nostalgica/aac/icecast.audio
-
-#EXTINF:-1, radio="true" tvg-logo="" group-title="RadiosChilenas", Radio Nuevo Mundo (88.9 FM Ovalle)
-http://190.82.105.90:8012/stream/1/
-
-#EXTINF:-1, radio="true" tvg-logo="" group-title="RadiosChilenas", Duna (89.7 FM)
-http://unlimited11-cl.dps.live/duna/aac/icecast.audio
-
-#EXTINF:-1, radio="true" tvg-logo="" group-title="RadiosChilenas", Radio Carnaval (89.9 FM Vina del Mar)
-http://sonando.us.digitalproserver.com/carnaval_vinadelmar.aac
-
-#EXTINF:-1, radio="true" tvg-logo="" group-title="RadiosChilenas", Radio Bio Bio Valdivia (88.9 FM Valdivia)
-https://unlimited3-cl.dps.live/biobiovaldivia/aac/icecast.audio
-
-#EXTINF:-1, radio="true" tvg-logo="" group-title="RadiosChilenas", Radio Sur (92.1 FM Los Angeles)
-http://ww3.radiosur.cl:5074/rsur
-
-#EXTINF:-1, radio="true" tvg-logo="" group-title="RadiosChilenas", La Clave (92.9 FM)
-http://tunein.digitalproserver.com/laclavebb.aac
- 
-#EXTINF:-1, radio="true" tvg-logo="" group-title="RadiosChilenas", Radio Magistral (93.9 FM Galvarino)
-http://www.magistralfm.cl:9110/galvarino
-
-#EXTINF:-1, radio="true" tvg-logo="" group-title="RadiosChilenas", Radio Genesis (94.1 FM Andacollo)
-http://archi-us.digitalproserver.com/genesis-fm.aac
-
-#EXTINF:-1, radio="true" tvg-logo="" group-title="RadiosChilenas", Radio Almeyda (94.3 FM Diego de Almagro)
-http://192.99.18.164:9974/stream
- 
-#EXTINF:-1, radio="true" tvg-logo="" group-title="RadiosChilenas", Radio Bio Bio Valparaiso (96.7 FM Valparaiso)
-https://unlimited3-cl.dps.live/biobiovalparaiso/aac/icecast.audio
- 
-#EXTINF:-1, radio="true" tvg-logo="" group-title="RadiosChilenas", Radio Bio Bio Puerto Montt (94.9 Puerto Montt)
-https://unlimited3-cl.dps.live/biobiopuertomontt/aac/icecast.audio
-
-#EXTINF:-1, radio="true" tvg-logo="" group-title="RadiosChilenas", FM Tiempo (95.9 FM)
-http://unlimited11-cl.dps.live/fmtiempo/mp3/icecast.audio
-
-#EXTINF:-1, radio="true" tvg-logo="" group-title="RadiosChilenas", Estilo (FM 95.9 Coyhaique)
-http://audio2.tustreaming.cl:8058/stream
- 
-#EXTINF:-1, radio="true" tvg-logo="" group-title="RadiosChilenas", Beethoven (96.5 FM)
-http://unlimited3-cl.dps.live/beethovenfm/go/audio/now/livestream1.m3u8
-
-#EXTINF:-1, radio="true" tvg-logo="" group-title="RadiosChilenas", Radio Carnaval Antofagasta (96.5 FM)
-http://sonando.us.digitalproserver.com/carnaval_antofagasta.aac
-
-#EXTINF:-1, radio="true" tvg-logo="" group-title="RadiosChilenas", Radio Bio Bio Concepcion (98.1 FM Concepcion)
-https://unlimited3-cl.dps.live/biobioconcepcion/aac/icecast.audio
-
-#EXTINF:-1, radio="true" tvg-logo="" group-title="RadiosChilenas", Positiva (98.5 FM Temuco)
-http://mimix.mercurio.cl:8000/temuco2
- 
-#EXTINF:-1, radio="true" tvg-logo="" group-title="RadiosChilenas", Radio El Conquistador (98.9 FM Concepcion)
-http://audio5.tustreaming.cl:8060/concepcion
- 
-#EXTINF:-1, radio="true" tvg-logo="" group-title="RadiosChilenas", Radio Carolina (99.3 FM)
-http://unlimited3-cl.dps.live/carolinafm/aac/icecast.audio
-
-#EXTINF:-1, radio="true" tvg-logo="" group-title="RadiosChilenas", Radio Positiva (FM 99.5 Valdivia)
-http://mimix.mercurio.cl:8000/valdivia2
- 
-#EXTINF:-1, radio="true" tvg-logo="" group-title="RadiosChilenas", Radio Bio Bio Santiago (99.7 FM)
-http://unlimited11-cl.dps.live/biobiosantiago/aac/icecast.audio
- 
-#EXTINF:-1, radio="true" tvg-logo="" group-title="RadiosChilenas", Radio Universidad de Antofagasta (99.9 FM)
-http://185.105.4.100/proxy/radioua?mp=/stream
- 
-#EXTINF:-1, radio="true" tvg-logo="" group-title="RadiosChilenas", Infinita (100.1 FM)
-http://unlimited1-us.dps.live/infinita/go/audio/now/livestream1.m3u8
- 
-#EXTINF:-1, radio="true" tvg-logo="" group-title="RadiosChilenas", Paula FM (100.5 FM)
-http://unlimited1-us.dps.live/radiopaula/go/audio/now/livestream1.m3u8
-
-#EXTINF:-1, radio="true" tvg-logo="" group-title="RadiosChilenas", Montecarlo (102.7 FM)
-http://montecarloradiostation2.better-than.tv/stream/1/
-
-#EXTINF:-1, radio="true" tvg-logo="" group-title="RadiosChilenas", Radio Okey (103.1 FM Copiapo)
-http://streaming.fmokey.cl:8000/FmOkCP.mp3
- 
-#EXTINF:-1, radio="true" tvg-logo="" group-title="RadiosChilenas", Radio UCV FM (103.5 FM Valparaiso)
-http://sonando.us.digitalproserver.com/ucvradio
-
-#EXTINF:-1, radio="true" tvg-logo="" group-title="RadiosChilenas", Romantica (104.1 FM)
-http://unlimited11-cl.dps.live/romantica/mp3/icecast.audio
-
-#EXTINF:-1, radio="true" tvg-logo="" group-title="RadiosChilenas", Radio Bio Bio Osorno (106.5 FM Osorno)
-https://unlimited3-cl.dps.live/biobioosorno/aac/icecast.audio
- 
-#EXTINF:-1, radio="true" tvg-logo="" group-title="RadiosChilenas", Radio Galaxia (Online)
-http://sscl.denialstream.com:8830/;stream/1.mp3
- 
-#EXTINF:-1, radio="true" tvg-logo="" group-title="RadiosChilenas", Radio Concepcion (Online)
-http://ip.audiostreaming.cl:9764/;
-
-#EXTINF:-1, radio="true" tvg-logo="" group-title="RadiosChilenas", Radio Camara de Diputados (Online)
-http://camara.03.wl.cdnz.cl/camara5/live/playlist.m3u8
- 
-#EXTINF:-1, radio="true" tvg-logo="" group-title="RadiosChilenas", Nuevo Mundo (930 AM)
-http://190.82.105.90:8012/;
- 
-#EXTINF:-1, radio="true" tvg-logo="" group-title="RadiosChilenas", Radio Llacolen (1600 AM Concepcion)
-http://sonando.us.digitalproserver.com/radiollacolen.aac
- 
-#EXTINF:-1, radio="true" tvg-logo="" group-title="RadiosChilenas", Portales (1180 AM)
-http://s6.jcwebnew.com:8060/stream
+#EXTINF:-1 tvg-id="13C.cl" tvg-name="RD: ANTENA 7" tvg-logo="https://media-exp1.licdn.com/dms/image/C4E0BAQHevjWZC2AYRw/company-logo_200_200/0?e=2159024400&v=beta&t=Zq4JAD-kPxe0lDLCcs_1tXmf_d7j4TY3pITDGxukTok" group-title="REP. DOMINICANA",RD: ANTENA 7
+http://tecnozone.site:8090/gaF-9837HA/BHAG-93gfHa/18817
+#EXTINF:-1 tvg-id="DO | CDN HD" tvg-name="RD: CDN DEPORTES" tvg-logo="https://pbs.twimg.com/profile_images/1323295439546966018/8qXo_sIb_400x400.jpg" group-title="REP. DOMINICANA",RD: CDN DEPORTES
+http://tecnozone.site:8090/gaF-9837HA/BHAG-93gfHa/29193
+#EXTINF:-1 tvg-id="13C.cl" tvg-name="RD: CDN" tvg-logo="https://storage.googleapis.com/mmc-cdn-bucket/uploads/2020/10/394fb95b-isatipo-512x512-cdn-5f7c9e3876dda.png" group-title="REP. DOMINICANA",RD: CDN
+http://tecnozone.site:8090/gaF-9837HA/BHAG-93gfHa/1161
+#EXTINF:-1 tvg-id="13C.cl" tvg-name="RD: COLOR VISION 9 SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSogOf84KHs6HybblI0jyJko3hqJFEBEO3VPm5ZXr3LDk15cMhC&s" group-title="REP. DOMINICANA",RD: COLOR VISION 9 SD
+http://tecnozone.site:8090/gaF-9837HA/BHAG-93gfHa/1163
+#EXTINF:-1 tvg-id="" tvg-name="RD: CANAL 25" tvg-logo="" group-title="REP. DOMINICANA",RD: CANAL 25
+http://tecnozone.site:8090/gaF-9837HA/BHAG-93gfHa/168352
+#EXTINF:-1 tvg-id="GoldenPremier2.mx" tvg-name="RD: CATORCE TV" tvg-logo="" group-title="REP. DOMINICANA",RD: CATORCE TV
+http://tecnozone.site:8090/gaF-9837HA/BHAG-93gfHa/423
+#EXTINF:-1 tvg-id="13C.cl" tvg-name="RD: DIGITAL 15" tvg-logo="https://pbs.twimg.com/profile_images/722106841598013440/HYfckwi3.jpg" group-title="REP. DOMINICANA",RD: DIGITAL 15
+http://tecnozone.site:8090/gaF-9837HA/BHAG-93gfHa/1164
+#EXTINF:-1 tvg-id="Telesistema.do" tvg-name="RD: TELESISTEMA 11" tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Purple113/v4/01/d7/63/01d7632f-4996-11f1-1ecf-1eaea29e8a81/source/512x512bb.jpg" group-title="REP. DOMINICANA",RD: TELESISTEMA 11
+http://tecnozone.site:8090/gaF-9837HA/BHAG-93gfHa/1165
+#EXTINF:-1 tvg-id="13C.cl" tvg-name="RD: TELEMICRO" tvg-logo="https://secureservercdn.net/198.71.233.129/06y.7b1.myftpupload.com/wp-content/uploads/2019/09/tmi.png?time=1577845570" group-title="REP. DOMINICANA",RD: TELEMICRO
+http://tecnozone.site:8090/gaF-9837HA/BHAG-93gfHa/1168
+#EXTINF:-1 tvg-id="13C.cl" tvg-name="RD: TELEUNIVERSO" tvg-logo="https://pbs.twimg.com/profile_images/1055497104175652864/3iL8w0va_400x400.jpg" group-title="REP. DOMINICANA",RD: TELEUNIVERSO
+http://tecnozone.site:8090/gaF-9837HA/BHAG-93gfHa/1167
+#EXTINF:-1 tvg-id="Canal4.cr" tvg-name="CR: REPRETEL 4" tvg-logo="https://costaricatelevision.com/sites/default/files/styles/tv_list/public/2020-06/Repretel-Canal-4-Costa-Rica.png?itok=juNdPIYF" group-title="COSTA RICA",CR: REPRETEL 4
+http://tecnozone.site:8090/gaF-9837HA/BHAG-93gfHa/2356
+#EXTINF:-1 tvg-id="Canal6.cr" tvg-name="CR: REPRETEL 6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/Repretel_Canal_6_2008-2010.png" group-title="COSTA RICA",CR: REPRETEL 6
+http://tecnozone.site:8090/gaF-9837HA/BHAG-93gfHa/2354
+#EXTINF:-1 tvg-id="Canal7.cr" tvg-name="CR: TELETICA 7" tvg-logo="https://diariodigitaelindependiente.files.wordpress.com/2018/12/teletica-canal-7-1a2.jpg?w=620" group-title="COSTA RICA",CR: TELETICA 7
+http://tecnozone.site:8090/gaF-9837HA/BHAG-93gfHa/2355
+#EXTINF:-1 tvg-id="Canal11.cr" tvg-name="CR: REPRETEL 11 " tvg-logo="https://cdn.repretel.com/files/2017/06/08/logo-canal-11.jpg" group-title="COSTA RICA",CR: REPRETEL 11 
+http://tecnozone.site:8090/gaF-9837HA/BHAG-93gfHa/2350
+#EXTINF:-1 tvg-id="" tvg-name="CR: FUTV" tvg-logo="https://media-exp1.licdn.com/dms/image/C4E0BAQHdkTnvni6JcA/company-logo_200_200/0?e=2159024400&v=beta&t=y4VBc-RnfeSy0bzWqeleTx-73gVcX6W9RRSawJUpdNU" group-title="COSTA RICA",CR: FUTV
+http://tecnozone.site:8090/gaF-9837HA/BHAG-93gfHa/31152
+#EXTINF:-1 tvg-id="" tvg-name="CR: TD +" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/TD_M%C3%A1s_Logo.png" group-title="COSTA RICA",CR: TD +
+http://tecnozone.site:8090/gaF-9837HA/BHAG-93gfHa/46215
+#EXTINF:-1 tvg-id="AnimalPlanet.mx" tvg-name="ANIMAL PLANET" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/052019/1280px-2018_animal_planet_logo.svg_.png" group-title="CULTURALES",ANIMAL PLANET
+http://tecnozone.site:8090/gaF-9837HA/BHAG-93gfHa/375
+#EXTINF:-1 tvg-id="AnimalPlanetLatinAmerica.pa" tvg-name="ANIMAL PLANET HD" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/052019/1280px-2018_animal_planet_logo.svg_.png" group-title="CULTURALES",ANIMAL PLANET HD
+http://tecnozone.site:8090/gaF-9837HA/BHAG-93gfHa/374
+#EXTINF:-1 tvg-id="DiscoveryChannel.mx" tvg-name="DISCOVERY CHANNEL (MX)" tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/092015/dsc_lockup-04.png" group-title="CULTURALES",DISCOVERY CHANNEL (MX)
+http://tecnozone.site:8090/gaF-9837HA/BHAG-93gfHa/18599
+#EXTINF:-1 tvg-id="DiscoveryChannel.mx" tvg-name="DISCOVERY CHANNEL" tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/092015/dsc_lockup-04.png" group-title="CULTURALES",DISCOVERY CHANNEL
+http://tecnozone.site:8090/gaF-9837HA/BHAG-93gfHa/372
+#EXTINF:-1 tvg-id="DiscoveryChannelLatinAmerica.pa" tvg-name="DISCOVERY CHANNEL SD" tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/092015/dsc_lockup-04.png" group-title="CULTURALES",DISCOVERY CHANNEL SD
+http://tecnozone.site:8090/gaF-9837HA/BHAG-93gfHa/18600
+#EXTINF:-1 tvg-id="DiscoveryChannelLatinAmerica.pa" tvg-name="DISCOVERY CHANNEL HD" tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/092015/dsc_lockup-04.png" group-title="CULTURALES",DISCOVERY CHANNEL HD
+http://tecnozone.site:8090/gaF-9837HA/BHAG-93gfHa/19662
+#EXTINF:-1 tvg-id="DiscoveryFamilia.us" tvg-name="DISCOVERY FAMILIA" tvg-logo="https://pbs.twimg.com/profile_images/694917796208070660/yLTulGF__400x400.png" group-title="CULTURALES",DISCOVERY FAMILIA
+http://tecnozone.site:8090/gaF-9837HA/BHAG-93gfHa/366
+#EXTINF:-1 tvg-id="InvestigationDiscovery.co" tvg-name="DISCOVERY ID" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/032018/untitled-1_423.png" group-title="CULTURALES",DISCOVERY ID
+http://tecnozone.site:8090/gaF-9837HA/BHAG-93gfHa/368
+#EXTINF:-1 tvg-id="InvestigationDiscovery.ar" tvg-name="DISCOVERY ID HD" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/032018/untitled-1_423.png" group-title="CULTURALES",DISCOVERY ID HD
+http://tecnozone.site:8090/gaF-9837HA/BHAG-93gfHa/367
+#EXTINF:-1 tvg-id="InvestigationDiscovery.co" tvg-name="DISCOVERY ID FHD" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/032018/untitled-1_423.png" group-title="CULTURALES",DISCOVERY ID FHD
+http://tecnozone.site:8090/gaF-9837HA/BHAG-93gfHa/19663
+#EXTINF:-1 tvg-id="DiscoveryHomeHealthLatinAmerica.pa" tvg-name="DISCOVERY H&H" tvg-logo="https://pbs.twimg.com/profile_images/816962948522508288/u9_NGzrW_400x400.jpg" group-title="CULTURALES",DISCOVERY H&H
+http://tecnozone.site:8090/gaF-9837HA/BHAG-93gfHa/365
+#EXTINF:-1 tvg-id="DiscoveryHomeAndHealth.co" tvg-name="DISCOVERY H&H HD" tvg-logo="https://pbs.twimg.com/profile_images/816962948522508288/u9_NGzrW_400x400.jpg" group-title="CULTURALES",DISCOVERY H&H HD
+http://tecnozone.site:8090/gaF-9837HA/BHAG-93gfHa/364
+#EXTINF:-1 tvg-id="DiscoveryHomeAndHealth.co" tvg-name="DISCOVERY H&H  (MX)" tvg-logo="https://pbs.twimg.com/profile_images/816962948522508288/u9_NGzrW_400x400.jpg" group-title="CULTURALES",DISCOVERY H&H  (MX)
+http://tecnozone.site:8090/gaF-9837HA/BHAG-93gfHa/22713
+#EXTINF:-1 tvg-id="DiscoveryScienceLatinAmerica.pa" tvg-name="DISCOVERY SCIENCE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2uyLb7_FFxv3_r6FyLJIrQJlfJ5dQSOJmxqVi25JLv5UvRpCz&s" group-title="CULTURALES",DISCOVERY SCIENCE
+http://tecnozone.site:8090/gaF-9837HA/BHAG-93gfHa/363
+#EXTINF:-1 tvg-id="DiscoveryScienceLatinAmerica.pa" tvg-name="DISCOVERY SCIENCE HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2uyLb7_FFxv3_r6FyLJIrQJlfJ5dQSOJmxqVi25JLv5UvRpCz&s" group-title="CULTURALES",DISCOVERY SCIENCE HD
+http://tecnozone.site:8090/gaF-9837HA/BHAG-93gfHa/362
+#EXTINF:-1 tvg-id="DiscoveryTurboLatinAmerica.pa" tvg-name="DISCOVERY THEATER" tvg-logo="https://cdn.mitvstatic.com/channels/cl_discovery-hd-theater_m.png" group-title="CULTURALES",DISCOVERY THEATER
+http://tecnozone.site:8090/gaF-9837HA/BHAG-93gfHa/361
+#EXTINF:-1 tvg-id="DiscoveryTheater.mx" tvg-name="DISCOVERY THEATER HD" tvg-logo="https://cdn.mitvstatic.com/channels/cl_discovery-hd-theater_m.png" group-title="CULTURALES",DISCOVERY THEATER HD
+http://tecnozone.site:8090/gaF-9837HA/BHAG-93gfHa/360
+#EXTINF:-1 tvg-id="DiscoveryTurboLatinAmerica.pa" tvg-name="DISCOVERY TURBO" tvg-logo="https://etb.com/negocios/img1/guia/logos/logo-turbo.jpg" group-title="CULTURALES",DISCOVERY TURBO
+http://tecnozone.site:8090/gaF-9837HA/BHAG-93gfHa/359
+#EXTINF:-1 tvg-id="DiscoveryTurboLatinAmerica.pa" tvg-name="DISCOVERY TURBO HD" tvg-logo="https://etb.com/negocios/img1/guia/logos/logo-turbo.jpg" group-title="CULTURALES",DISCOVERY TURBO HD
+http://tecnozone.site:8090/gaF-9837HA/BHAG-93gfHa/358
+#EXTINF:-1 tvg-id="DiscoveryWorld.mx" tvg-name="DISCOVERY WORLD" tvg-logo="https://seeklogo.com/images/D/discovery-world-logo-C44DE91333-seeklogo.com.png" group-title="CULTURALES",DISCOVERY WORLD
+http://tecnozone.site:8090/gaF-9837HA/BHAG-93gfHa/357
+#EXTINF:-1 tvg-id="DiscoveryWorld.mx" tvg-name="DISCOVERY WORLD HD DUAL" tvg-logo="https://seeklogo.com/images/D/discovery-world-logo-C44DE91333-seeklogo.com.png" group-title="CULTURALES",DISCOVERY WORLD HD DUAL
+http://tecnozone.site:8090/gaF-9837HA/BHAG-93gfHa/356
+#EXTINF:-1 tvg-id="TLC.mx" tvg-name="TLC (MX)" tvg-logo="https://thekaaterskill.com/wp-content/uploads/2018/05/TLC-1.png" group-title="CULTURALES",TLC (MX)
+http://tecnozone.site:8090/gaF-9837HA/BHAG-93gfHa/355
+#EXTINF:-1 tvg-id="TLCLatinAmerica.pa" tvg-name="TLC HD" tvg-logo="https://thekaaterskill.com/wp-content/uploads/2018/05/TLC-1.png" group-title="CULTURALES",TLC HD
+http://tecnozone.site:8090/gaF-9837HA/BHAG-93gfHa/14
+#EXTINF:-1 tvg-id="TLC.ar" tvg-name="TLC (AR)" tvg-logo="" group-title="CULTURALES",TLC (AR)
+http://tecnozone.site:8090/gaF-9837HA/BHAG-93gfHa/160102
+#EXTINF:-1 tvg-id="Elgourmet.mx" tvg-name="EL GOURMET" tvg-logo="https://style.shockvisual.net/wp-content/uploads/2019/02/Logo-El-Gourmet.jpg" group-title="CULTURALES",EL GOURMET
+http://tecnozone.site:8090/gaF-9837HA/BHAG-93gfHa/354
+#EXTINF:-1 tvg-id="Elgourmet.mx" tvg-name="EL GOURMET HD" tvg-logo="https://style.shockvisual.net/wp-content/uploads/2019/02/Logo-El-Gourmet.jpg" group-title="CULTURALES",EL GOURMET HD
+http://tecnozone.site:8090/gaF-9837HA/BHAG-93gfHa/353
+#EXTINF:-1 tvg-id="EEntertainment.ar" tvg-name="E! ENTERTAIMENTS" tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/e-entertainment-logo-01.png" group-title="CULTURALES",E! ENTERTAIMENTS
+http://tecnozone.site:8090/gaF-9837HA/BHAG-93gfHa/352
+#EXTINF:-1 tvg-id="EEntertainment.mx" tvg-name="E! ENTERTAIMENTS HD" tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/e-entertainment-logo-01.png" group-title="CULTURALES",E! ENTERTAIMENTS HD
+http://tecnozone.site:8090/gaF-9837HA/BHAG-93gfHa/351
+#EXTINF:-1 tvg-id="FoodNetwork.pa" tvg-name="FOOD NETWORK" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/712H4HqY7EL.png" group-title="CULTURALES",FOOD NETWORK
+http://tecnozone.site:8090/gaF-9837HA/BHAG-93gfHa/350
+#EXTINF:-1 tvg-id="FoodNetwork.pa" tvg-name="FOOD NETWORK HD" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/712H4HqY7EL.png" group-title="CULTURALES",FOOD NETWORK HD
+http://tecnozone.site:8090/gaF-9837HA/BHAG-93gfHa/349
+#EXTINF:-1 tvg-id="HistoryChannel.co" tvg-name="HISTORY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/229px-History_Logo.svg.png" group-title="CULTURALES",HISTORY
+http://tecnozone.site:8090/gaF-9837HA/BHAG-93gfHa/347
+#EXTINF:-1 tvg-id="HistoryChannel.co" tvg-name="HISTORY HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/229px-History_Logo.svg.png" group-title="CULTURALES",HISTORY HD
+http://tecnozone.site:8090/gaF-9837HA/BHAG-93gfHa/346
+#EXTINF:-1 tvg-id="History2.mx" tvg-name="HISTORY 2 SD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/6d/History_2-0.png/revision/latest/scale-to-width-down/340?cb=20190701021604&path-prefix=es" group-title="CULTURALES",HISTORY 2 SD
+http://tecnozone.site:8090/gaF-9837HA/BHAG-93gfHa/31362
+#EXTINF:-1 tvg-id="History2.mx" tvg-name="HISTORY 2 HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/6d/History_2-0.png/revision/latest/scale-to-width-down/340?cb=20190701021604&path-prefix=es" group-title="CULTURALES",HISTORY 2 HD
+http://tecnozone.site:8090/gaF-9837HA/BHAG-93gfHa/345
+#EXTINF:-1 tvg-id="HolaTv.co" tvg-name="HOLA TV" tvg-logo="https://pbs.twimg.com/profile_images/1101491804858433541/Y4ymYB5E_400x400.png" group-title="CULTURALES",HOLA TV
+http://tecnozone.site:8090/gaF-9837HA/BHAG-93gfHa/344
+#EXTINF:-1 tvg-id="HolaTv.co" tvg-name="HOLA TV HD" tvg-logo="https://pbs.twimg.com/profile_images/1101491804858433541/Y4ymYB5E_400x400.png" group-title="CULTURALES",HOLA TV HD
+http://tecnozone.site:8090/gaF-9837HA/BHAG-93gfHa/343
+#EXTINF:-1 tvg-id="USA | HGTV" tvg-name="HGTV" tvg-logo="https://smartofficedeals.com/wp-content/uploads/2017/04/hgtv-logo-128px-300dpi.jpg" group-title="CULTURALES",HGTV
+http://tecnozone.site:8090/gaF-9837HA/BHAG-93gfHa/18
+#EXTINF:-1 tvg-id="LifeTimeLatinAmerica.pa" tvg-name="LIFETIME" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Lifetime_logo17.svg/350px-Lifetime_logo17.svg.png" group-title="CULTURALES",LIFETIME
+http://tecnozone.site:8090/gaF-9837HA/BHAG-93gfHa/342
+#EXTINF:-1 tvg-id="NationalGeographicLatinAmerica.pa" tvg-name="NAT GEO" tvg-logo="https://logo.kenh.net/logo/national-geographic.svg.thumb.jpg" group-title="CULTURALES",NAT GEO
+http://tecnozone.site:8090/gaF-9837HA/BHAG-93gfHa/341
+#EXTINF:-1 tvg-id="NatGeo.mx" tvg-name="NAT GEO HD" tvg-logo="https://logo.kenh.net/logo/national-geographic.svg.thumb.jpg" group-title="CULTURALES",NAT GEO HD
+http://tecnozone.site:8090/gaF-9837HA/BHAG-93gfHa/340
+#EXTINF:-1 tvg-id="" tvg-name="NAT GEO WILD HD" tvg-logo="https://i.postimg.cc/cC3Mj1rC/NAT-GEO-WILD-HD.jpg" group-title="CULTURALES",NAT GEO WILD HD
+http://tecnozone.site:8090/gaF-9837HA/BHAG-93gfHa/174095
+#EXTINF:-1 tvg-id="610DTSA.ar" tvg-name="ES: NAT GEO WILD" tvg-logo="https://i.pinimg.com/originals/8f/8d/03/8f8d03b5ec0fe64cd8541bcbc6dd1f63.jpg" group-title="ESPAÑA",ES: NAT GEO WILD
+http://tecnozone.site:8090/gaF-9837HA/BHAG-93gfHa/339
+#EXTINF:-1 tvg-id="MasChic.co" tvg-name="MAS CHIC" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/e9/M%C3%A1s_Chic.svg/revision/latest/scale-to-width-down/340?cb=20200114222838&path-prefix=es" group-title="CULTURALES",MAS CHIC
+http://tecnozone.site:8090/gaF-9837HA/BHAG-93gfHa/336
+#EXTINF:-1 tvg-id="BabyFirstTV.us" tvg-name="BABYFIRST" tvg-logo="https://media.licdn.com/dms/image/C560BAQEKt0xpC0MPdg/company-logo_200_200/0?e=2159024400&v=beta&t=4fbqzowty7s38RFCZWLybksKL6zm142oaeCsforA0zE" group-title="INFANTILES",BABYFIRST
+http://tecnozone.site:8090/gaF-9837HA/BHAG-93gfHa/140
+#EXTINF:-1 tvg-id="BabyTV.pa" tvg-name="BABY TV SD" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61C2TSxmMwL.png" group-title="INFANTILES",BABY TV SD
+http://tecnozone.site:8090/gaF-9837HA/BHAG-93gfHa/139
+#EXTINF:-1 tvg-id="610DTSA.ar" tvg-name="CARTOONITO SD" tvg-logo="https://cdn.mitvstatic.com/channels/pe_boomerang-cartoon_m.png" group-title="INFANTILES",CARTOONITO SD
+http://tecnozone.site:8090/gaF-9837HA/BHAG-93gfHa/138
+#EXTINF:-1 tvg-id="" tvg-name="CARTOONITO" tvg-logo="https://i.pinimg.com/originals/f8/32/85/f8328548b997ecd2edea47acce0f58d6.jpg" group-title="INFANTILES",CARTOONITO
+http://tecnozone.site:8090/gaF-9837HA/BHAG-93gfHa/52032
+#EXTINF:-1 tvg-id="CartoonNetwork.co" tvg-name="CARTOON NETWORK" tvg-logo="https://fontmeme.com/images/Cartoon_Network_logo.png" group-title="INFANTILES",CARTOON NETWORK
+http://tecnozone.site:8090/gaF-9837HA/BHAG-93gfHa/136
+#EXTINF:-1 tvg-id="CartoonNetwork.mx" tvg-name="CARTOON NETWORK (MX)" tvg-logo="https://fontmeme.com/images/Cartoon_Network_logo.png" group-title="INFANTILES",CARTOON NETWORK (MX)
+http://tecnozone.site:8090/gaF-9837HA/BHAG-93gfHa/135
+#EXTINF:-1 tvg-id="CartoonNetwork.pa" tvg-name="CARTOON NETWORK HD" tvg-logo="https://fontmeme.com/images/Cartoon_Network_logo.png" group-title="INFANTILES",CARTOON NETWORK HD
+http://tecnozone.site:8090/gaF-9837HA/BHAG-93gfHa/134
+#EXTINF:-1 tvg-id="CartoonNetwork.mx" tvg-name="CARTOON NETWORK HD (MX)" tvg-logo="https://fontmeme.com/images/Cartoon_Network_logo.png" group-title="INFANTILES",CARTOON NETWORK HD (MX)
+http://tecnozone.site:8090/gaF-9837HA/BHAG-93gfHa/133
+#EXTINF:-1 tvg-id="DisneyChannel.ar" tvg-name="DISNEY CHANNEL" tvg-logo="https://i.pinimg.com/originals/45/ee/ae/45eeae107c3fec87c1b0a22b7dd0579d.jpg" group-title="INFANTILES",DISNEY CHANNEL
+http://tecnozone.site:8090/gaF-9837HA/BHAG-93gfHa/132
+#EXTINF:-1 tvg-id="DisneyChannel.mx" tvg-name="DISNEY CHANNEL DUAL" tvg-logo="https://i.pinimg.com/originals/45/ee/ae/45eeae107c3fec87c1b0a22b7dd0579d.jpg" group-title="INFANTILES",DISNEY CHANNEL DUAL
+http://tecnozone.site:8090/gaF-9837HA/BHAG-93gfHa/131
+#EXTINF:-1 tvg-id="DisneyJunior.mx" tvg-name="BITME" tvg-logo="https://pbs.twimg.com/profile_images/1347112024925474817/FsTxCmRL_400x400.jpg" group-title="INFANTILES",BITME
+http://tecnozone.site:8090/gaF-9837HA/BHAG-93gfHa/130
+#EXTINF:-1 tvg-id="DisneyJunior.mx" tvg-name="DISNEY JR HD" tvg-logo="https://cdn.mitvstatic.com/channels/ar_disney-jr_m.png" group-title="INFANTILES",DISNEY JR HD
+http://tecnozone.site:8090/gaF-9837HA/BHAG-93gfHa/129
+#EXTINF:-1 tvg-id="DiscoveryKidsLatinAmerica.pa" tvg-name="DISCOVERY KIDS" tvg-logo="https://iparatodos.com.ar/uploads/canal/imagenes/DISCOVERYKIDS.png" group-title="INFANTILES",DISCOVERY KIDS
+http://tecnozone.site:8090/gaF-9837HA/BHAG-93gfHa/126
+#EXTINF:-1 tvg-id="DiscoveryKids.mx" tvg-name="DISCOVERY KIDS HD" tvg-logo="https://iparatodos.com.ar/uploads/canal/imagenes/DISCOVERYKIDS.png" group-title="INFANTILES",DISCOVERY KIDS HD
+http://tecnozone.site:8090/gaF-9837HA/BHAG-93gfHa/125
+#EXTINF:-1 tvg-id="NickelodeonLatinAmereica.pa" tvg-name="NICKELODEON" tvg-logo="https://www.e-channel.ec/blog/wp-content/uploads/2015/09/NICK.png" group-title="INFANTILES",NICKELODEON
+http://tecnozone.site:8090/gaF-9837HA/BHAG-93gfHa/122
+#EXTINF:-1 tvg-id="NickJr.mx" tvg-name="NICK JR" tvg-logo="https://logoeps.com/wp-content/uploads/2011/05/nick-jr.-logo-vector.png" group-title="INFANTILES",NICK JR
+http://tecnozone.site:8090/gaF-9837HA/BHAG-93gfHa/121
+#EXTINF:-1 tvg-id="NickJr.pa" tvg-name="NICK JR HD" tvg-logo="https://logoeps.com/wp-content/uploads/2011/05/nick-jr.-logo-vector.png" group-title="INFANTILES",NICK JR HD
+http://tecnozone.site:8090/gaF-9837HA/BHAG-93gfHa/120
+#EXTINF:-1 tvg-id="NICKTOONS *HQ" tvg-name="TEEN NICK" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSKLq_8KM04PImxPCSZXkzVwxxsuFp9tN3oCBDi=s900-c-k-c0x00ffffff-no-rj" group-title="INFANTILES",TEEN NICK
+http://tecnozone.site:8090/gaF-9837HA/BHAG-93gfHa/119
+#EXTINF:-1 tvg-id="TVPlus.cl" tvg-name="TEENNICK" tvg-logo="" group-title="INFANTILES",TEENNICK
+http://tecnozone.site:8090/gaF-9837HA/BHAG-93gfHa/44642
+#EXTINF:-1 tvg-id="TOONCAST *HD" tvg-name="TOONCAST" tvg-logo="https://cdn.mitvstatic.com/channels/gt_tooncast_m.png" group-title="INFANTILES",TOONCAST
+http://tecnozone.site:8090/gaF-9837HA/BHAG-93gfHa/117
+#EXTINF:-1 tvg-id="610DTSA.ar" tvg-name="ULTRA KIDS" tvg-logo="" group-title="INFANTILES",ULTRA KIDS
+http://tecnozone.site:8090/gaF-9837HA/BHAG-93gfHa/137
+#EXTINF:-1 tvg-id="AMC.co" tvg-name="AMC" tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/amc-logo-01-1080x1080.png" group-title="CINE",AMC
+http://tecnozone.site:8090/gaF-9837HA/BHAG-93gfHa/23266
+#EXTINF:-1 tvg-id="AMC.co" tvg-name="AMC HD" tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/amc-logo-01-1080x1080.png" group-title="CINE",AMC HD
+http://tecnozone.site:8090/gaF-9837HA/BHAG-93gfHa/29924
+#EXTINF:-1 tvg-id="AMC.mx" tvg-name="AMC HD (MX)" tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/amc-logo-01-1080x1080.png" group-title="CINE",AMC HD (MX)
+http://tecnozone.site:8090/gaF-9837HA/BHAG-93gfHa/473
+#EXTINF:-1 tvg-id="AandE.mx" tvg-name="A&E SD" tvg-logo="https://pbs.twimg.com/profile_images/951900727487680513/iVrvsXOo_400x400.jpg" group-title="CINE",A&E SD
+http://tecnozone.site:8090/gaF-9837HA/BHAG-93gfHa/472
+#EXTINF:-1 tvg-id="" tvg-name="A&E" tvg-logo="" group-title="CINE",A&E
+http://tecnozone.site:8090/gaF-9837HA/BHAG-93gfHa/25918
+#EXTINF:-1 tvg-id="AandE.ar" tvg-name="A&E HD" tvg-logo="https://pbs.twimg.com/profile_images/951900727487680513/iVrvsXOo_400x400.jpg" group-title="CINE",A&E HD
+http://tecnozone.site:8090/gaF-9837HA/BHAG-93gfHa/471
+#EXTINF:-1 tvg-id="AXN.ar" tvg-name="AXN (AR)" tvg-logo="https://image.flaticon.com/icons/png/512/870/870885.png" group-title="CINE",AXN (AR)
+http://tecnozone.site:8090/gaF-9837HA/BHAG-93gfHa/17489
+#EXTINF:-1 tvg-id="AXNLatinAmerica.pa" tvg-name="AXN (CO)" tvg-logo="https://image.flaticon.com/icons/png/512/870/870885.png" group-title="CINE",AXN (CO)
+http://tecnozone.site:8090/gaF-9837HA/BHAG-93gfHa/470
+#EXTINF:-1 tvg-id="AXN.mx" tvg-name="AXN (MX)" tvg-logo="https://image.flaticon.com/icons/png/512/870/870885.png" group-title="CINE",AXN (MX)
+http://tecnozone.site:8090/gaF-9837HA/BHAG-93gfHa/468
+#EXTINF:-1 tvg-id="Cinemax.pa" tvg-name="CINEMAX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/69/Cinemax.png" group-title="CINE",CINEMAX
+http://tecnozone.site:8090/gaF-9837HA/BHAG-93gfHa/467
+#EXTINF:-1 tvg-id="Cinemax.pa" tvg-name="CINEMAX HD DUAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/69/Cinemax.png" group-title="CINE",CINEMAX HD DUAL
+http://tecnozone.site:8090/gaF-9837HA/BHAG-93gfHa/32631
+#EXTINF:-1 tvg-id="Cinemax.mx" tvg-name="CINEMAX FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/69/Cinemax.png" group-title="CINE",CINEMAX FHD
+http://tecnozone.site:8090/gaF-9837HA/BHAG-93gfHa/25161
+#EXTINF:-1 tvg-id="Cinecanal.ar" tvg-name="CINECANAL DUAL" tvg-logo="https://i4.sndcdn.com/artworks-000198115180-wj5dj4-t500x500.jpg" group-title="CINE",CINECANAL DUAL
+http://tecnozone.site:8090/gaF-9837HA/BHAG-93gfHa/466
+#EXTINF:-1 tvg-id="Cinecanal.mx" tvg-name="CINECANAL HD DUAL" tvg-logo="https://i4.sndcdn.com/artworks-000198115180-wj5dj4-t500x500.jpg" group-title="CINE",CINECANAL HD DUAL
+http://tecnozone.site:8090/gaF-9837HA/BHAG-93gfHa/465
+#EXTINF:-1 tvg-id="ComedyCentral.ar" tvg-name="COMEDY CENTRAL" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/042011/_comedy_central_2011_-_3-line.jpg" group-title="CINE",COMEDY CENTRAL
+http://tecnozone.site:8090/gaF-9837HA/BHAG-93gfHa/464
+#EXTINF:-1 tvg-id="ComedyCentral.ar" tvg-name="COMEDY CENTRAL HD" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/042011/_comedy_central_2011_-_3-line.jpg" group-title="CINE",COMEDY CENTRAL HD
+http://tecnozone.site:8090/gaF-9837HA/BHAG-93gfHa/463
+#EXTINF:-1 tvg-id="CineLatino.mx" tvg-name="CINE LATINO" tvg-logo="https://cdn.mitvstatic.com/channels/ar_cine-latino_m.png" group-title="CINE",CINE LATINO
+http://tecnozone.site:8090/gaF-9837HA/BHAG-93gfHa/462
+#EXTINF:-1 tvg-id="DistritoComedia.mx" tvg-name="DISTRITO COMEDIA SD" tvg-logo="https://televisatvdepaga.com/wp-content/uploads/2017/08/dc-new.png" group-title="CINE",DISTRITO COMEDIA SD
+http://tecnozone.site:8090/gaF-9837HA/BHAG-93gfHa/18655
+#EXTINF:-1 tvg-id="DistritoComedia.mx" tvg-name="DISTRITO COMEDIA" tvg-logo="https://televisatvdepaga.com/wp-content/uploads/2017/08/dc-new.png" group-title="CINE",DISTRITO COMEDIA
+http://tecnozone.site:8090/gaF-9837HA/BHAG-93gfHa/461
+#EXTINF:-1 tvg-id="DePelicula.mx" tvg-name="DE PELICULA" tvg-logo="http://afiliados.televisa-networks.com/wp-content/uploads/2017/07/de-pelicula-clasico-1.png" group-title="CINE",DE PELICULA
+http://tecnozone.site:8090/gaF-9837HA/BHAG-93gfHa/458
+#EXTINF:-1 tvg-id="" tvg-name="DE PELICULA PLUS" tvg-logo="http://afiliados.televisa-networks.com/wp-content/uploads/2018/05/televisa-afiliados-canales-de-pelicula-plus.jpg" group-title="CINE",DE PELICULA PLUS
+http://tecnozone.site:8090/gaF-9837HA/BHAG-93gfHa/459
+#EXTINF:-1 tvg-id="" tvg-name="DE PELICULA CLASICO" tvg-logo="https://seeklogo.com/images/D/de-pelicula-clasico-logo-46D9FD1838-seeklogo.com.png" group-title="CINE",DE PELICULA CLASICO
+http://tecnozone.site:8090/gaF-9837HA/BHAG-93gfHa/159278
+#EXTINF:-1 tvg-id="FX.co" tvg-name="FX" tvg-logo="https://yt3.ggpht.com/a/AGF-l78Kp4qKPlOPRzVaVG5LTPFiKw8JlQg44oGmQw=s900-c-k-c0xffffffff-no-rj-mo" group-title="CINE",FX
+http://tecnozone.site:8090/gaF-9837HA/BHAG-93gfHa/441
+#EXTINF:-1 tvg-id="FX.mx" tvg-name="FX HD" tvg-logo="https://yt3.ggpht.com/a/AGF-l78Kp4qKPlOPRzVaVG5LTPFiKw8JlQg44oGmQw=s900-c-k-c0xffffffff-no-rj-mo" group-title="CINE",FX HD
+http://tecnozone.site:8090/gaF-9837HA/BHAG-93gfHa/440
+#EXTINF:-1 tvg-id="FX.mx" tvg-name="FX HD DUAL" tvg-logo="https://yt3.ggpht.com/a/AGF-l78Kp4qKPlOPRzVaVG5LTPFiKw8JlQg44oGmQw=s900-c-k-c0xffffffff-no-rj-mo" group-title="CINE",FX HD DUAL
+http://tecnozone.site:8090/gaF-9837HA/BHAG-93gfHa/29922
+#EXTINF:-1 tvg-id="Golden.mx" tvg-name="GOLDEN" tvg-logo="https://3.bp.blogspot.com/-V6SfqsWSGOQ/W5HsMsMkopI/AAAAAAAABVY/6spIuovcvNk63w1KZwue5VSAB-VNLqWlgCLcBGAs/s1600/latest.png" group-title="CINE",GOLDEN
+http://tecnozone.site:8090/gaF-9837HA/BHAG-93gfHa/437
+#EXTINF:-1 tvg-id="GoldenEdge.mx" tvg-name="GOLDEN EDGE" tvg-logo="http://televisatvdepaga.com/wp-content/uploads/2017/08/golden-edge.jpg" group-title="CINE",GOLDEN EDGE
+http://tecnozone.site:8090/gaF-9837HA/BHAG-93gfHa/434
+#EXTINF:-1 tvg-id="GoldenPremier.co" tvg-name="GOLDEN PREMIERE" tvg-logo="https://telcammuzquiz.com/wp-content/uploads/2018/03/Golden-Plus.jpg" group-title="CINE",GOLDEN PREMIERE
+http://tecnozone.site:8090/gaF-9837HA/BHAG-93gfHa/436
+#EXTINF:-1 tvg-id="GoldenPlus.mx" tvg-name="GOLDEN PLUS HD" tvg-logo="https://telcammuzquiz.com/wp-content/uploads/2018/03/Golden-Plus.jpg" group-title="CINE",GOLDEN PLUS HD
+http://tecnozone.site:8090/gaF-9837HA/BHAG-93gfHa/435
+#EXTINF:-1 tvg-id="HBOLatinAmerica.pa" tvg-name="HBO HD" tvg-logo="https://storage.googleapis.com/www-paredro-com/uploads/2019/05/%E2%96%B7-%C2%BFSabes-que%CC%81-significa-HBO-Su-primer-logo-lo-deci%CC%81a.jpg" group-title="CINE",HBO HD
+http://tecnozone.site:8090/gaF-9837HA/BHAG-93gfHa/431
+#EXTINF:-1 tvg-id="HBOLatinAmerica.pa" tvg-name="HBO FHD" tvg-logo="https://storage.googleapis.com/www-paredro-com/uploads/2019/05/%E2%96%B7-%C2%BFSabes-que%CC%81-significa-HBO-Su-primer-logo-lo-deci%CC%81a.jpg" group-title="CINE",HBO FHD
+http://tecnozone.site:8090/gaF-9837HA/BHAG-93gfHa/430
+#EXTINF:-1 tvg-id="HBO2.mx" tvg-name="HBO 2" tvg-logo="http://www.logotypes101.com/logos/810/A4898A2482A31350DC7953C542D63DBC/HBO_2.png" group-title="CINE",HBO 2
+http://tecnozone.site:8090/gaF-9837HA/BHAG-93gfHa/429
+#EXTINF:-1 tvg-id="HBO2LatinAmerica.pa" tvg-name="HBO 2 HD" tvg-logo="http://www.logotypes101.com/logos/810/A4898A2482A31350DC7953C542D63DBC/HBO_2.png" group-title="CINE",HBO 2 HD
+http://tecnozone.site:8090/gaF-9837HA/BHAG-93gfHa/428
+#EXTINF:-1 tvg-id="610DTSA.ar" tvg-name="HBO FAMILY" tvg-logo="https://cdn.mitvstatic.com/channels/ar_hbo-family-hd_m.png" group-title="CINE",HBO FAMILY
+http://tecnozone.site:8090/gaF-9837HA/BHAG-93gfHa/426
+#EXTINF:-1 tvg-id="HBOFamilyLatinAmerica.pa" tvg-name="HBO FAMILY HD DUAL" tvg-logo="https://cdn.mitvstatic.com/channels/ar_hbo-family-hd_m.png" group-title="CINE",HBO FAMILY HD DUAL
+http://tecnozone.site:8090/gaF-9837HA/BHAG-93gfHa/425
+#EXTINF:-1 tvg-id="HBOMundiPanAmerican.pa" tvg-name="HBO MUNDI" tvg-logo="https://seeklogo.com/images/H/hbo-mundi-logo-236F04C9B4-seeklogo.com.png" group-title="CINE",HBO MUNDI
+http://tecnozone.site:8090/gaF-9837HA/BHAG-93gfHa/421
+#EXTINF:-1 tvg-id="HBOPopPanamerica.pa" tvg-name="HBO POP HD" tvg-logo="https://seeklogo.com/images/H/hbo-pop-logo-10AD275431-seeklogo.com.png" group-title="CINE",HBO POP HD
+http://tecnozone.site:8090/gaF-9837HA/BHAG-93gfHa/420
+#EXTINF:-1 tvg-id="HBOPlusPanamericano.pa" tvg-name="HBO PLUS HD" tvg-logo="https://cdn.mitvstatic.com/channels/ar_hbo-plus-panamericano-hd_m.png" group-title="CINE",HBO PLUS HD
+http://tecnozone.site:8090/gaF-9837HA/BHAG-93gfHa/424
+#EXTINF:-1 tvg-id="HBOSignatureLatinAmerica.pa" tvg-name="HBO SIGNATURE HD" tvg-logo="https://static.epg.best/us/HBOSignature.us.png" group-title="CINE",HBO SIGNATURE HD
+http://tecnozone.site:8090/gaF-9837HA/BHAG-93gfHa/422
+#EXTINF:-1 tvg-id="HBOXtremePanamerica.pa" tvg-name="HBO XTREME HD" tvg-logo="https://cdn.mitvstatic.com/channels/ar_max-prime-panamericano-hd_m.png" group-title="CINE",HBO XTREME HD
+http://tecnozone.site:8090/gaF-9837HA/BHAG-93gfHa/419
+#EXTINF:-1 tvg-id="Paramount.pa" tvg-name="PARAMOUNT HD" tvg-logo="https://static.wikia.nocookie.net/fictionaltvstations/images/a/a7/Paramount_Network_Logo.png" group-title="CINE",PARAMOUNT HD
+http://tecnozone.site:8090/gaF-9837HA/BHAG-93gfHa/417
+#EXTINF:-1 tvg-id="Paramount.pa" tvg-name="PARAMOUNT FHD" tvg-logo="https://static.wikia.nocookie.net/fictionaltvstations/images/a/a7/Paramount_Network_Logo.png" group-title="CINE",PARAMOUNT FHD
+http://tecnozone.site:8090/gaF-9837HA/BHAG-93gfHa/416
+#EXTINF:-1 tvg-id="SyfyLatinAmerica.pa" tvg-name="USA" tvg-logo="https://vermastele.weebly.com/uploads/5/1/3/4/51344345/usa-network.png" group-title="CINE",USA
+http://tecnozone.site:8090/gaF-9837HA/BHAG-93gfHa/414
+#EXTINF:-1 tvg-id="Syfy.mx" tvg-name="USA HD" tvg-logo="https://vermastele.weebly.com/uploads/5/1/3/4/51344345/usa-network.png" group-title="CINE",USA HD
+http://tecnozone.site:8090/gaF-9837HA/BHAG-93gfHa/413
+#EXTINF:-1 tvg-id="610DTSA.ar" tvg-name="STAR CHANNEL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScvh1gcBNY4YUTvTLw6iSr4lMV1Gt5ILgZXlfSWvPDTcuyPVDR&s" group-title="CINE",STAR CHANNEL
+http://tecnozone.site:8090/gaF-9837HA/BHAG-93gfHa/457
+#EXTINF:-1 tvg-id="610DTSA.ar" tvg-name="STAR CHANNEL HD MX" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScvh1gcBNY4YUTvTLw6iSr4lMV1Gt5ILgZXlfSWvPDTcuyPVDR&s" group-title="CINE",STAR CHANNEL HD MX
+http://tecnozone.site:8090/gaF-9837HA/BHAG-93gfHa/456
+#EXTINF:-1 tvg-id="SonyEntertainmentTelevision.pa" tvg-name="SONY HD" tvg-logo="https://www.pngkey.com/png/detail/8-84457_canal-sony-logo-sony-corporation.png" group-title="CINE",SONY HD
+http://tecnozone.site:8090/gaF-9837HA/BHAG-93gfHa/411
+#EXTINF:-1 tvg-id="SonyEntertainmentTV.mx" tvg-name="SONY" tvg-logo="https://www.pngkey.com/png/detail/8-84457_canal-sony-logo-sony-corporation.png" group-title="CINE",SONY
+http://tecnozone.site:8090/gaF-9837HA/BHAG-93gfHa/410
+#EXTINF:-1 tvg-id="SpaceLatinAmerica" tvg-name="SPACE HD" tvg-logo="https://4.bp.blogspot.com/-3Vy7AYHpJ8M/V2Ma-jQ0IFI/AAAAAAAAAFU/2XKm9PBJk4MfYrwmSRrYQSMmi7b01eHoACKgB/s200/3Cp8HpUQ.jpg" group-title="CINE",SPACE HD
+http://tecnozone.site:8090/gaF-9837HA/BHAG-93gfHa/408
+#EXTINF:-1 tvg-id="Space.mx" tvg-name="SPACE FHD" tvg-logo="https://4.bp.blogspot.com/-3Vy7AYHpJ8M/V2Ma-jQ0IFI/AAAAAAAAAFU/2XKm9PBJk4MfYrwmSRrYQSMmi7b01eHoACKgB/s200/3Cp8HpUQ.jpg" group-title="CINE",SPACE FHD
+http://tecnozone.site:8090/gaF-9837HA/BHAG-93gfHa/407
+#EXTINF:-1 tvg-id="StudioUniversal.mx" tvg-name="STUDIO UNIVERSAL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSh-VDovmiSnJmH6NVosg8we3uN6ldQ6ZeFiwaxGte6Y8572JC-&s" group-title="CINE",STUDIO UNIVERSAL
+http://tecnozone.site:8090/gaF-9837HA/BHAG-93gfHa/406
+#EXTINF:-1 tvg-id="StudioUniversal.mx" tvg-name="STUDIO UNIVERSAL HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSh-VDovmiSnJmH6NVosg8we3uN6ldQ6ZeFiwaxGte6Y8572JC-&s" group-title="CINE",STUDIO UNIVERSAL HD
+http://tecnozone.site:8090/gaF-9837HA/BHAG-93gfHa/405
+#EXTINF:-1 tvg-id="StudioUniversalLatinAmerica.pa" tvg-name="STUDIO UNIVERSAL FHD DUAL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSh-VDovmiSnJmH6NVosg8we3uN6ldQ6ZeFiwaxGte6Y8572JC-&s" group-title="CINE",STUDIO UNIVERSAL FHD DUAL
+http://tecnozone.site:8090/gaF-9837HA/BHAG-93gfHa/404
+#EXTINF:-1 tvg-id="TBS.ar" tvg-name="TBS" tvg-logo="https://cdn.mitvstatic.com/channels/br_tbs-hd_m.png" group-title="CINE",TBS
+http://tecnozone.site:8090/gaF-9837HA/BHAG-93gfHa/44508
+#EXTINF:-1 tvg-id="TCM.mx" tvg-name="TCM" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRP1So3RfkCF-BK6K3WY9Plf3I0Qwbt4SNgO_GEHdPJFHgPFkoB&s" group-title="CINE",TCM
+http://tecnozone.site:8090/gaF-9837HA/BHAG-93gfHa/403
+#EXTINF:-1 tvg-id="TNT.ar" tvg-name="TNT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/99/TNT_TV_logo.svg" group-title="CINE",TNT
+http://tecnozone.site:8090/gaF-9837HA/BHAG-93gfHa/402
+#EXTINF:-1 tvg-id="TNT.co" tvg-name="TNT HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/99/TNT_TV_logo.svg" group-title="CINE",TNT HD
+http://tecnozone.site:8090/gaF-9837HA/BHAG-93gfHa/401
+#EXTINF:-1 tvg-id="TNT.mx" tvg-name="TNT HD DUAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/99/TNT_TV_logo.svg" group-title="CINE",TNT HD DUAL
+http://tecnozone.site:8090/gaF-9837HA/BHAG-93gfHa/400
+#EXTINF:-1 tvg-id="TNTSeries.co" tvg-name="TNT NOVELAS" tvg-logo="https://pbs.twimg.com/media/Fo4xqx6XwAAueAl.jpg" group-title="CINE",TNT NOVELAS
+http://tecnozone.site:8090/gaF-9837HA/BHAG-93gfHa/399
+#EXTINF:-1 tvg-id="TNTSeries.co" tvg-name="TNT NOVELAS SD" tvg-logo="https://pbs.twimg.com/media/Fo4xqx6XwAAueAl.jpg" group-title="CINE",TNT NOVELAS SD
+http://tecnozone.site:8090/gaF-9837HA/BHAG-93gfHa/23601
+#EXTINF:-1 tvg-id="TNTSeries.mx" tvg-name="TNT SERIES HD" tvg-logo="https://cdn.mitvstatic.com/channels/cl_tnt-series_m.png" group-title="CINE",TNT SERIES HD
+http://tecnozone.site:8090/gaF-9837HA/BHAG-93gfHa/398
+#EXTINF:-1 tvg-id="TNTSeries.pa" tvg-name="TNT SERIES FHD" tvg-logo="https://cdn.mitvstatic.com/channels/cl_tnt-series_m.png" group-title="CINE",TNT SERIES FHD
+http://tecnozone.site:8090/gaF-9837HA/BHAG-93gfHa/397
+#EXTINF:-1 tvg-id="truTV.mx" tvg-name="TRUTV" tvg-logo="https://cdn.mitvstatic.com/channels/b15356ee-546f-4760-b04c-3772d6949002_m.jpg" group-title="CINE",TRUTV
+http://tecnozone.site:8090/gaF-9837HA/BHAG-93gfHa/396
+#EXTINF:-1 tvg-id="truTVLatinAmerica.pa" tvg-name="TRUTV HD" tvg-logo="https://cdn.mitvstatic.com/channels/b15356ee-546f-4760-b04c-3772d6949002_m.jpg" group-title="CINE",TRUTV HD
+http://tecnozone.site:8090/gaF-9837HA/BHAG-93gfHa/395
+#EXTINF:-1 tvg-id="" tvg-name="ULTRA CINE" tvg-logo="" group-title="CINE",ULTRA CINE
+http://tecnozone.site:8090/gaF-9837HA/BHAG-93gfHa/18814
+#EXTINF:-1 tvg-id="" tvg-name="ULTRA FAMILIA" tvg-logo="" group-title="CINE",ULTRA FAMILIA
+http://tecnozone.site:8090/gaF-9837HA/BHAG-93gfHa/18813
+#EXTINF:-1 tvg-id="" tvg-name="ULTRA CLASICO" tvg-logo="" group-title="CINE",ULTRA CLASICO
+http://tecnozone.site:8090/gaF-9837HA/BHAG-93gfHa/18812
+#EXTINF:-1 tvg-id="UniversalChannel.mx" tvg-name="UNIVERSAL TV HD (MX)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoq6Me4vMCwM_LkDSCmF03QXLL3K2vyc74KWNbBGUInKQqZtS4&s" group-title="CINE",UNIVERSAL TV HD (MX)
+http://tecnozone.site:8090/gaF-9837HA/BHAG-93gfHa/394
+#EXTINF:-1 tvg-id="UniversalChannel.ar" tvg-name="UNIVERSAL TV (AR)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoq6Me4vMCwM_LkDSCmF03QXLL3K2vyc74KWNbBGUInKQqZtS4&s" group-title="CINE",UNIVERSAL TV (AR)
+http://tecnozone.site:8090/gaF-9837HA/BHAG-93gfHa/25834
+#EXTINF:-1 tvg-id="UniversalChannel.co" tvg-name="UNIVERSAL TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoq6Me4vMCwM_LkDSCmF03QXLL3K2vyc74KWNbBGUInKQqZtS4&s" group-title="CINE",UNIVERSAL TV
+http://tecnozone.site:8090/gaF-9837HA/BHAG-93gfHa/43050
+#EXTINF:-1 tvg-id="UniversalComedy.mx" tvg-name="UNIVERSAL COMEDY" tvg-logo="https://pbs.twimg.com/profile_images/1326934834120421376/1Lkzv4mN_400x400.jpg" group-title="CINE",UNIVERSAL COMEDY
+http://tecnozone.site:8090/gaF-9837HA/BHAG-93gfHa/449
+#EXTINF:-1 tvg-id="UniversalCinema.mx" tvg-name="UNIVERSAL CINEMA HD" tvg-logo="https://play.universalplus.com/images/logo.png" group-title="CINE",UNIVERSAL CINEMA HD
+http://tecnozone.site:8090/gaF-9837HA/BHAG-93gfHa/18643
+#EXTINF:-1 tvg-id="UniversalCrime.mx" tvg-name="UNIVERSAL CRIME" tvg-logo="https://pbs.twimg.com/profile_images/1326934834120421376/1Lkzv4mN_400x400.jpg" group-title="CINE",UNIVERSAL CRIME
+http://tecnozone.site:8090/gaF-9837HA/BHAG-93gfHa/450
+#EXTINF:-1 tvg-id="UniversalPremiere.mx" tvg-name="UNIVERSAL PREMIERE" tvg-logo="https://pbs.twimg.com/profile_images/1326934834120421376/1Lkzv4mN_400x400.jpg" group-title="CINE",UNIVERSAL PREMIERE
+http://tecnozone.site:8090/gaF-9837HA/BHAG-93gfHa/393
+#EXTINF:-1 tvg-id="UniversalReality.mx" tvg-name="UNIVERSAL REALITY HD" tvg-logo="https://pbs.twimg.com/profile_images/1326934834120421376/1Lkzv4mN_400x400.jpg" group-title="CINE",UNIVERSAL REALITY HD
+http://tecnozone.site:8090/gaF-9837HA/BHAG-93gfHa/451
+#EXTINF:-1 tvg-id="WarnerChannelAndes.co" tvg-name="WARNER HD" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0000/3653/brand.gif?itok=oMeBwM2h" group-title="CINE",WARNER HD
+http://tecnozone.site:8090/gaF-9837HA/BHAG-93gfHa/15728
+#EXTINF:-1 tvg-id="WarnerChannel.mx" tvg-name="WARNER HD DUAL" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0000/3653/brand.gif?itok=oMeBwM2h" group-title="CINE",WARNER HD DUAL
+http://tecnozone.site:8090/gaF-9837HA/BHAG-93gfHa/386
