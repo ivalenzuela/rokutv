@@ -1,135 +1,100 @@
 EXTM3U
-#EXTINF:-1 tvg-id="610DTSA.ar" tvg-name="STAR CHANNEL HD MX" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScvh1gcBNY4YUTvTLw6iSr4lMV1Gt5ILgZXlfSWvPDTcuyPVDR&s" group-title="CINE",STAR CHANNEL HD MX
-
-#EXTINF:-1, tvg-logo="https://i.imgur.com/AwzIEPu.png" group-title="CanalesChilenos", TVN
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AwzIEPu.png" group-title="Canales Chilenos", TVN
 https://mdstrm.com/live-stream-playlist/57a498c4d7b86d600e5461cb.m3u8?uid=BUPihR7P8LWUWP5Sy1m7PYxpcsAyN9iy&an=tvn-play-app-lg-tv&access_token=VlwLcgKZ3vRkxQOtUKa565uRp42jOGs9r0kA9La3aciaQoGGJpUnnH0DLDo3MpIiSfM7xjrgl7g
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ILZeBjW.png" group-title="CanalesChilenos", CANAL 13
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ILZeBjW.png" group-title="Canales Chilenos", CANAL 13
 https://marine2.miplay.cl/c13/playlist.m3u8
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/a6m1yWP.png" group-title="CanalesChilenos", Mega HD
-http://tecnozone.site:8090/gaF-9837HA/BHAG-93gfHa/29
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/a6m1yWP.png" group-title="CanalesChilenos", Mega 
-https://unlimited1-cl-isp.dps.live/mega/mega.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/puJ88Pk.png" group-title="CanalesChilenos", La Red
-http://tecnozone.site:8090/gaF-9837HA/BHAG-93gfHa/32
 
 #EXTINF:-1 tvg-id="Contivision.cl" tvg-logo="https://i.imgur.com/Lz2OlKf.png" group-title="CanalesChilenos", Contivision
 https://unlimited6-cl.dps.live/cm/cm.smil/playlist.m3u8
 
-#EXTINF:-1, tvg-logo="https://i.imgur.com/PU2cqzN.png" group-title="CanalesChilenos", TVN 24 PLAY
+#EXTINF:-1 tvg-logo="https://i.imgur.com/a6m1yWP.png" group-title="Canales Chilenos", Mega HD
+http://tecnozone.site:8090/gaF-9837HA/BHAG-93gfHa/29
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/a6m1yWP.png" group-title="Canales Chilenos", Mega 
+https://unlimited1-cl-isp.dps.live/mega/mega.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/puJ88Pk.png" group-title="Canales Chilenos", La Red
+http://tecnozone.site:8090/gaF-9837HA/BHAG-93gfHa/32
+
+#EXTINF:-1 tvg-id="Contivision.cl" tvg-logo="https://i.imgur.com/Lz2OlKf.png" group-title="Canales Chilenos", Contivision
+https://unlimited6-cl.dps.live/cm/cm.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PU2cqzN.png" group-title="Canales Chilenos", TVN 24 PLAY
 http://mdstrm.com/live-stream-playlist/57d1a22064f5d85712b20dab.m3u8
 
-#EXTINF:-1, tvg-logo="https://i.imgur.com/AwzIEPu.png" group-title="CanalesChilenos", Tele Trece Noticias
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AwzIEPu.png" group-title="Canales Chilenos", Tele Trece Noticias
 https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/t13/t13.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0SWgwab.jpg" group-title="CanalesChilenos", MegaNoticias
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0SWgwab.jpg" group-title="Canales Chilenos", MegaNoticias
 http://mdstrm.com/live-stream-playlist/561430ae330428c223687e1e.m3u8?uid=BUPihR7P8LWUWP5Sy1m7PYxpcsAyN9iy
 
-#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/415_Puranoticia.png" group-title="CanalesChilenos", Pura Noticias
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/415_Puranoticia.png" group-title="Canales Chilenos", Pura Noticias
 https://pnt.janusmedia.tv/hls/pnt.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AmgUhiL.png" group-title="CanalesChilenos", Hispan TV  | Irán
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AmgUhiL.png" group-title="Canales Chilenos", Hispan TV  | Irán
 https://cdnlive.presstv.ir/live/live.smil/.m3u8
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/VSQogJt.png" group-title="CanalesChilenos", RT Español | Rusia
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VSQogJt.png" group-title="Canales Chilenos", RT Español | Rusia
 https://rt-esp.rttv.com/live/rtesp/playlist_2500Kb.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6UoixA8.png" group-title="CanalesChilenos", TV CHILE | Santiago 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6UoixA8.png" group-title="Canales Chilenos", TV CHILE | Santiago 
 https://mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8
 
-#EXTINF:-1 tvg-id="13C.cl",13C
+#EXTINF:-1 tvg-id="13C.cl" group-title="Canales Chilenos", 13C
 https://origin.dpsgo.com/ssai/event/GI-9cp_bT8KcerLpZwkuhw/master.m3u8
 
-#EXTINF:-1 tvg-id="13E.cl",13 Entretención
+#EXTINF:-1 tvg-id="13E.cl" group-title="Canales Chilenos", 13 Entretención
 https://origin.dpsgo.com/ssai/event/BBp0VeP6QtOOlH8nu3bWTg/master.m3u8
 
-#EXTINF:-1 tvg-id="13Festival.cl",13 Festival
+#EXTINF:-1 tvg-id="13Festival.cl" group-title="Canales Chilenos", 13 Festival
 https://origin.dpsgo.com/ssai/event/Nftd0fM2SXasfDlRphvUsg/master.m3u8
 
-#EXTINF:-1 tvg-id="13Humor.cl",13 Humor
+#EXTINF:-1 tvg-id="13Humor.cl" group-title="Canales Chilenos", 13 Humor
 https://origin.dpsgo.com/ssai/event/cKWySXKgSK-SzlJmESkOWw/master.m3u8
 
-#EXTINF:-1 tvg-id="13Kids.cl",13 Kids
+#EXTINF:-1 tvg-id="13Kids.cl" group-title="Canales Chilenos", 13 Kids
 https://origin.dpsgo.com/ssai/event/LhHrVtyeQkKZ-Ye_xEU75g/master.m3u8
 
-#EXTINF:-1 tvg-id="13P.cl",13 Primez
+#EXTINF:-1 tvg-id="13P.cl" group-title="Canales Chilenos", 13 Primez
 https://origin.dpsgo.com/ssai/event/p4mmBxEzSmKAxY1GusOHrw/master.m3u8
 
-#EXTINF:-1 tvg-id="13Realities.cl",13 Realitiesz
+#EXTINF:-1 tvg-id="13Realities.cl" group-title="Canales Chilenos", 13 Realitiesz
 https://origin.dpsgo.com/ssai/event/g7_JOM0ORki9SR5RKHe-Kw/master.m3u8
 
-#EXTINF:-1 tvg-id="13T.cl",13 Teleseriesz
+#EXTINF:-1 tvg-id="13T.cl" group-title="Canales Chilenos", 13 Teleseriesz
 https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1507_Chilevisual_Cultura.png" group-title="CanalesChilenos", Chilevisual Cultura
-https://stmv5.voxtvhd.com.br/chilevisualcultura/chilevisualcultura/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3eb0Hhn.png" group-title="CanalesChilenos", UCV  | Valparaíso
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3eb0Hhn.png" group-title="Canales Chilenos", UCV  | Valparaíso
 https://unlimited2-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9Z6S3GQ.png" group-title="CanalesChilenos", TV+  | Valparaíso
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9Z6S3GQ.png" group-title="Canales Chilenos", TV+  | Valparaíso
 https://mdstrm.com/live-stream-playlist/5c0e8b19e4c87f3f2d3e6a59.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1195_La_Chilena_TV.png" group-title="CanalesChilenos", La Chilena TV
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1195_La_Chilena_TV.png" group-title="Canales Chilenos", La Chilena TV
 https://vdochile.com:3134/hybrid/play.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/nomlIR3.png" group-title="CanalesChilenos", Animales
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nomlIR3.png" group-title="Canales Chilenos", Animales
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd834c66fe2ca0009303b8d/master.m3u8?advertisingId=&appName=web&appVersion=5.7.5-0b1674b626f5e5adc1f2b1d12b068e89a950fdf7&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=37c48206-1366-4672-9edf-577b06b7ce4f&deviceLat=-32.8833&deviceLon=-68.8167&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=29513be5-f696-11ea-bfbf-0242ac110002&userId=&serverSideAds=true
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mGCtmcX.png" group-title="CanalesChilenos", Historia
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mGCtmcX.png" group-title="Canales Chilenos", Historia
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de5758e1a30dc00094fcd6c/master.m3u8?advertisingId=&appName=web&appVersion=5.7.1-a6476e5c6aae81513d57183396914e3b74493662&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=37c48206-1366-4672-9edf-577b06b7ce4f&deviceLat=-32.8836&deviceLon=-68.8141&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=16348462-ede5-11ea-ae94-0242ac110002&userId=&serverSideAds=true
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ghKDRik.png" group-title="CanalesChilenos", Naturaleza
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ghKDRik.png" group-title="Canales Chilenos", Naturaleza
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd85eac039bba0009e86d1d/master.m3u8?advertisingId=&appName=web&appVersion=5.7.5-0b1674b626f5e5adc1f2b1d12b068e89a950fdf7&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=37c48206-1366-4672-9edf-577b06b7ce4f&deviceLat=-32.8833&deviceLon=-68.8167&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=97de34fa-f695-11ea-abc9-0242ac110002&userId=&serverSideAds=true
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MhZkg1N.png" group-title="CanalesChilenos", Ciencia
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MhZkg1N.png" group-title="Canales Chilenos", Ciencia
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dd8364ea1d6780009929902/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&content_rating=ROKU_ADS_CONTENT_RATING
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dOt2Jo2.png" group-title="CanalesChilenos", Mundo
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dOt2Jo2.png" group-title="Canales Chilenos", Mundo
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d103f031154a4172d262b/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=959&deviceId=5d8d103f031154a4172d262b&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/X6Myhfe.png" group-title="CanalesChilenos", Chilevision Deportes | HD 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/X6Myhfe.png" group-title="Canales Chilenos", Chilevision Deportes | HD 
 https://r.mjh.nz/PlutoTV/638df6f8b63cf100075ccfa1-alt.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HjBqieO.png" group-title="CanalesChilenos", Chile Channel | Santiago
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HjBqieO.png" group-title="Canales Chilenos", Chile Channel | Santiago
 https://v2.tustreaming.cl/chilechannel/index.m3u8
 
-#EXTINF:-1 tvg-id="13C.cl" tvg-name="RD: ANTENA 7" tvg-logo="https://media-exp1.licdn.com/dms/image/C4E0BAQHevjWZC2AYRw/company-logo_200_200/0?e=2159024400&v=beta&t=Zq4JAD-kPxe0lDLCcs_1tXmf_d7j4TY3pITDGxukTok" group-title="REP. DOMINICANA",RD: ANTENA 7
-http://tecnozone.site:8090/gaF-9837HA/BHAG-93gfHa/18817
-#EXTINF:-1 tvg-id="DO | CDN HD" tvg-name="RD: CDN DEPORTES" tvg-logo="https://pbs.twimg.com/profile_images/1323295439546966018/8qXo_sIb_400x400.jpg" group-title="REP. DOMINICANA",RD: CDN DEPORTES
-http://tecnozone.site:8090/gaF-9837HA/BHAG-93gfHa/29193
-#EXTINF:-1 tvg-id="13C.cl" tvg-name="RD: CDN" tvg-logo="https://storage.googleapis.com/mmc-cdn-bucket/uploads/2020/10/394fb95b-isatipo-512x512-cdn-5f7c9e3876dda.png" group-title="REP. DOMINICANA",RD: CDN
-http://tecnozone.site:8090/gaF-9837HA/BHAG-93gfHa/1161
-#EXTINF:-1 tvg-id="13C.cl" tvg-name="RD: COLOR VISION 9 SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSogOf84KHs6HybblI0jyJko3hqJFEBEO3VPm5ZXr3LDk15cMhC&s" group-title="REP. DOMINICANA",RD: COLOR VISION 9 SD
-http://tecnozone.site:8090/gaF-9837HA/BHAG-93gfHa/1163
-#EXTINF:-1 tvg-id="" tvg-name="RD: CANAL 25" tvg-logo="" group-title="REP. DOMINICANA",RD: CANAL 25
-http://tecnozone.site:8090/gaF-9837HA/BHAG-93gfHa/168352
-#EXTINF:-1 tvg-id="GoldenPremier2.mx" tvg-name="RD: CATORCE TV" tvg-logo="" group-title="REP. DOMINICANA",RD: CATORCE TV
-http://tecnozone.site:8090/gaF-9837HA/BHAG-93gfHa/423
-#EXTINF:-1 tvg-id="13C.cl" tvg-name="RD: DIGITAL 15" tvg-logo="https://pbs.twimg.com/profile_images/722106841598013440/HYfckwi3.jpg" group-title="REP. DOMINICANA",RD: DIGITAL 15
-http://tecnozone.site:8090/gaF-9837HA/BHAG-93gfHa/1164
-#EXTINF:-1 tvg-id="Telesistema.do" tvg-name="RD: TELESISTEMA 11" tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Purple113/v4/01/d7/63/01d7632f-4996-11f1-1ecf-1eaea29e8a81/source/512x512bb.jpg" group-title="REP. DOMINICANA",RD: TELESISTEMA 11
-http://tecnozone.site:8090/gaF-9837HA/BHAG-93gfHa/1165
-#EXTINF:-1 tvg-id="13C.cl" tvg-name="RD: TELEMICRO" tvg-logo="https://secureservercdn.net/198.71.233.129/06y.7b1.myftpupload.com/wp-content/uploads/2019/09/tmi.png?time=1577845570" group-title="REP. DOMINICANA",RD: TELEMICRO
-http://tecnozone.site:8090/gaF-9837HA/BHAG-93gfHa/1168
-#EXTINF:-1 tvg-id="13C.cl" tvg-name="RD: TELEUNIVERSO" tvg-logo="https://pbs.twimg.com/profile_images/1055497104175652864/3iL8w0va_400x400.jpg" group-title="REP. DOMINICANA",RD: TELEUNIVERSO
-http://tecnozone.site:8090/gaF-9837HA/BHAG-93gfHa/1167
-#EXTINF:-1 tvg-id="Canal4.cr" tvg-name="CR: REPRETEL 4" tvg-logo="https://costaricatelevision.com/sites/default/files/styles/tv_list/public/2020-06/Repretel-Canal-4-Costa-Rica.png?itok=juNdPIYF" group-title="COSTA RICA",CR: REPRETEL 4
-http://tecnozone.site:8090/gaF-9837HA/BHAG-93gfHa/2356
-#EXTINF:-1 tvg-id="Canal6.cr" tvg-name="CR: REPRETEL 6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/Repretel_Canal_6_2008-2010.png" group-title="COSTA RICA",CR: REPRETEL 6
-http://tecnozone.site:8090/gaF-9837HA/BHAG-93gfHa/2354
-#EXTINF:-1 tvg-id="Canal7.cr" tvg-name="CR: TELETICA 7" tvg-logo="https://diariodigitaelindependiente.files.wordpress.com/2018/12/teletica-canal-7-1a2.jpg?w=620" group-title="COSTA RICA",CR: TELETICA 7
-http://tecnozone.site:8090/gaF-9837HA/BHAG-93gfHa/2355
-#EXTINF:-1 tvg-id="Canal11.cr" tvg-name="CR: REPRETEL 11 " tvg-logo="https://cdn.repretel.com/files/2017/06/08/logo-canal-11.jpg" group-title="COSTA RICA",CR: REPRETEL 11 
-http://tecnozone.site:8090/gaF-9837HA/BHAG-93gfHa/2350
-#EXTINF:-1 tvg-id="" tvg-name="CR: FUTV" tvg-logo="https://media-exp1.licdn.com/dms/image/C4E0BAQHdkTnvni6JcA/company-logo_200_200/0?e=2159024400&v=beta&t=y4VBc-RnfeSy0bzWqeleTx-73gVcX6W9RRSawJUpdNU" group-title="COSTA RICA",CR: FUTV
-http://tecnozone.site:8090/gaF-9837HA/BHAG-93gfHa/31152
-#EXTINF:-1 tvg-id="" tvg-name="CR: TD +" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/TD_M%C3%A1s_Logo.png" group-title="COSTA RICA",CR: TD +
-http://tecnozone.site:8090/gaF-9837HA/BHAG-93gfHa/46215
 #EXTINF:-1 tvg-id="AnimalPlanet.mx" tvg-name="ANIMAL PLANET" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/052019/1280px-2018_animal_planet_logo.svg_.png" group-title="CULTURALES",ANIMAL PLANET
 http://tecnozone.site:8090/gaF-9837HA/BHAG-93gfHa/375
 #EXTINF:-1 tvg-id="AnimalPlanetLatinAmerica.pa" tvg-name="ANIMAL PLANET HD" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/052019/1280px-2018_animal_planet_logo.svg_.png" group-title="CULTURALES",ANIMAL PLANET HD
