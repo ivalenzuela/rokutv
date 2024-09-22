@@ -2,29 +2,11 @@ EXTM3U
 #EXTINF:-1 tvg-id="Contivision.cl" tvg-logo="https://i.imgur.com/Lz2OlKf.png" group-title="Canales Chilenos", Contivision
 https://unlimited6-cl.dps.live/cm/cm.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AwzIEPu.png" group-title="Canales Chilenos", TVN
-https://mdstrm.com/live-stream-playlist/57a498c4d7b86d600e5461cb.m3u8?uid=BUPihR7P8LWUWP5Sy1m7PYxpcsAyN9iy&an=tvn-play-app-lg-tv&access_token=VlwLcgKZ3vRkxQOtUKa565uRp42jOGs9r0kA9La3aciaQoGGJpUnnH0DLDo3MpIiSfM7xjrgl7g
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ILZeBjW.png" group-title="Canales Chilenos", CANAL 13
-https://marine2.miplay.cl/c13/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/a6m1yWP.png" group-title="Canales Chilenos", Mega HD
-http://tecnozone.site:8090/gaF-9837HA/BHAG-93gfHa/29
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/a6m1yWP.png" group-title="Canales Chilenos", Mega
 https://unlimited1-cl-isp.dps.live/mega/mega.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/puJ88Pk.png" group-title="Canales Chilenos", La Red
-http://tecnozone.site:8090/gaF-9837HA/BHAG-93gfHa/32
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PU2cqzN.png" group-title="Canales Chilenos", TVN 24 PLAY
 http://mdstrm.com/live-stream-playlist/57d1a22064f5d85712b20dab.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AwzIEPu.png" group-title="Canales Chilenos", Tele Trece Noticias
-https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/t13/t13.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0SWgwab.jpg" group-title="Canales Chilenos", MegaNoticias
-http://mdstrm.com/live-stream-playlist/561430ae330428c223687e1e.m3u8?uid=BUPihR7P8LWUWP5Sy1m7PYxpcsAyN9iy
 
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/415_Puranoticia.png" group-title="Canales Chilenos", Pura Noticias
 https://pnt.janusmedia.tv/hls/pnt.m3u8
@@ -49,12 +31,6 @@ https://origin.dpsgo.com/ssai/event/Nftd0fM2SXasfDlRphvUsg/master.m3u8
 
 #EXTINF:-1 tvg-id="13Humor.cl" group-title="Canales Chilenos", 13 Humor
 https://origin.dpsgo.com/ssai/event/cKWySXKgSK-SzlJmESkOWw/master.m3u8
-
-#EXTINF:-1 tvg-id="13Kids.cl" group-title="Canales Chilenos", 13 Kids
-https://origin.dpsgo.com/ssai/event/LhHrVtyeQkKZ-Ye_xEU75g/master.m3u8
-
-#EXTINF:-1 tvg-id="13P.cl" group-title="Canales Chilenos", 13 Primez
-https://origin.dpsgo.com/ssai/event/p4mmBxEzSmKAxY1GusOHrw/master.m3u8
 
 #EXTINF:-1 tvg-id="13Realities.cl" group-title="Canales Chilenos", 13 Realitiesz
 https://origin.dpsgo.com/ssai/event/g7_JOM0ORki9SR5RKHe-Kw/master.m3u8
@@ -86,8 +62,6 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dd8364ea
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dOt2Jo2.png" group-title="Canales Chilenos", Mundo
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d103f031154a4172d262b/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=959&deviceId=5d8d103f031154a4172d262b&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/X6Myhfe.png" group-title="Canales Chilenos", Chilevision Deportes | HD
-https://r.mjh.nz/PlutoTV/638df6f8b63cf100075ccfa1-alt.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HjBqieO.png" group-title="Canales Chilenos", Chile Channel | Santiago
 https://v2.tustreaming.cl/chilechannel/index.m3u8
