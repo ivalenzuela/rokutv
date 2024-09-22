@@ -2,11 +2,18 @@
 #EXTINF:-1 tvg-id="Contivision.cl" tvg-logo="https://i.imgur.com/Lz2OlKf.png" group-title="Chile", Contivision
 https://unlimited6-cl.dps.live/cm/cm.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="Chile",La Red
+#EXTINF:-1 tvg-id="La Red" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e5/La_Red_2021.svg/revision/latest/scale-to-width-down/175?cb=20210517191249&path-prefix=es" group-title="Chile" group-title="Chile",La Red
 https://unlimited1-cl-isp.dps.live/lared/lared.smil/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="CNN Chile" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/60/CNN_Chile_boxless.svg/revision/latest/scale-to-width-down/250?cb=20210716152615" group-title="Chile" , CNN Chile
+http://190.61.55.186:1010/play/a01d/index.m3u8
+
+#EXTINF:-1 tvg-id="CNN Español" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cf/CNN_en_Espa%C3%B1ol_1997.svg/revision/latest/scale-to-width-down/250?cb=20220409050309&path-prefix=es" group-title="Chile",CNN Español
+http://190.61.55.186:1010/play/a02l/index.m3u8
 
 #EXTINF:-1 tvg-name="Chilevisión" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/Emblema_de_Chilevisi%C3%B3n.svg" tvg-id="UC8EdTmyUaFIfZvVttJ9lgIA" group-title="Chile", CHV
 https://marine2.miplay.cl/chvchile/index.m3u8
+
 #EXTINF:-1 tvg-name="CHV Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c7/CHV_Noticias_2018.png" tvg-id="chv_noticias" group-title="Chile", CHV Noticias
 https://mdstrm.com/live-stream-playlist/6491ced935a5833c47dd7f41.m3u8
 
