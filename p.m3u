@@ -1,463 +1,2265 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://platform-static.cdn.mdstrm.com/player/logo/s-live-57a498c4d7b86d600e5461cb.png" group-title="Chile", TVN Live
-https://mdstrm.com/live-stream-playlist/57a498c4d7b86d600e5461cb.m3u8?uid=n6NfkD1H0aaEqn6a3RJ4kXwHWMICSBBJ&sid=ZsGhXc7uVJFnqRWJ0X7kGjYtygTm72kl&pid=6vRo2dgSAvU567ZsfyECBuRoKQopJ5CY&an=tvn-play-app-lg-tv&at=web-app&av=v6.0.57&ref=&res=1280x720&without_cookies=true&listenerid=&dnt=false&access_token=ishjeOX1lxqxC2KAqmCeXVnctL1L2OV8r6lw38Gch0ebKQkMpzy2zpnIilSPDAaII3Ai90J86uw
-#EXTINF:-1 tvg-logo="https://platform-static.cdn.mdstrm.com/player/logo/s-live-5653641561b4eba30a7e4929.png" group-title="Chile", TVN3
-https://mdstrm.com/live-stream-playlist/5653641561b4eba30a7e4929.m3u8?uid=n6NfkD1H0aaEqn6a3RJ4kXwHWMICSBBJ&sid=ZsGhXc7uVJFnqRWJ0X7kGjYtygTm72kl&pid=8PRHScJFZyTMbmsCFOXk7fgP6NJ2vlzy&an=tvn-play-app-lg-tv&at=web-app&av=v6.0.57&ref=&res=1280x720&without_cookies=true&listenerid=&dnt=false&access_token=ishjeOX1lxqxC2KAqmCeXVnctL1L2OV8r6lw38Gch0ebKQkMpzy2zpnIilSPDAaII3Ai90J86uw
-#EXTINF:-1 tvg-logo="https://platform-static.cdn.mdstrm.com/player/logo/s-live-5aaabe9e2c56420918184c6d.png" group-title="Chile", NTV Chile
-https://mdstrm.com/live-stream-playlist/5aaabe9e2c56420918184c6d.m3u8?uid=n6NfkD1H0aaEqn6a3RJ4kXwHWMICSBBJ&sid=ZsGhXc7uVJFnqRWJ0X7kGjYtygTm72kl&pid=SqDsdD2K7khOqa1CGzs6hnyqWY9N3Uzf&an=tvn-play-app-lg-tv&at=web-app&av=v6.0.57&ref=&res=1280x720&without_cookies=true&listenerid=&dnt=false&access_token=ishjeOX1lxqxC2KAqmCeXVnctL1L2OV8r6lw38Gch0ebKQkMpzy2zpnIilSPDAaII3Ai90J86uw
-#EXTINF:-1 tvg-logo="https://platform-static.cdn.mdstrm.com/player/logo/s-live-533adcc949386ce765657d7c.png" group-title="Chile", TV Chile
-https://mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8?uid=n6NfkD1H0aaEqn6a3RJ4kXwHWMICSBBJ&sid=ZsGhXc7uVJFnqRWJ0X7kGjYtygTm72kl&pid=jffIXF8INpOiYivFf6mt7I7RHtNshMos&an=tvn-play-app-lg-tv&at=web-app&av=v6.0.57&ref=&res=1280x720&without_cookies=true&listenerid=&dnt=false&access_token=ishjeOX1lxqxC2KAqmCeXVnctL1L2OV8r6lw38Gch0ebKQkMpzy2zpnIilSPDAaII3Ai90J86uw
-#EXTINF:-1 tvg-logo="https://platform-static.cdn.mdstrm.com/player/logo/s-live-57d1a22064f5d85712b20dab.png" group-title="Chile", 24 Play
-https://mdstrm.com/live-stream-playlist/57d1a22064f5d85712b20dab.m3u8?uid=n6NfkD1H0aaEqn6a3RJ4kXwHWMICSBBJ&sid=ZsGhXc7uVJFnqRWJ0X7kGjYtygTm72kl&pid=vhflwOZXVp2qwsR9dp2h1qd0DAg0HnBU&an=tvn-play-app-lg-tv&at=web-app&av=v6.0.57&ref=&res=1280x720&without_cookies=true&listenerid=&dnt=false&access_token=ishjeOX1lxqxC2KAqmCeXVnctL1L2OV8r6lw38Gch0ebKQkMpzy2zpnIilSPDAaII3Ai90J86uw
-#EXTINF:-1 tvg-logo="https://platform-static.cdn.mdstrm.com/player/logo/5e5597b9171de20f8f30667a.png" group-title="Chile", Mega.cl - Señal en vivo
-https://mdstrm.com/live-stream-playlist/53d2c1a32640614e62a0e000.m3u8?uid=VfmSWekPDXgT3jXIxrS7WW1H3PhJcIn1&sid=1drfhgVlTEIqYtacoM0vWY79yVudHs0Q&pid=4cSKxImmTMhReg4cH2eIlnY2Wf6DKGRO&an=default_app&at=web-app&av=v6.0.57&ref=&res=1280x720&without_cookies=true&listenerid=&dnt=false&access_token=3U2mbWxZeUIP4mjwWlmFWiDp8uWxBLNyaVGJTbqMsofAVjKSipI5237f1Weh2fEEUH9CQWm9FQL
-#EXTINF:-1 tvg-logo="https://platform-static.cdn.mdstrm.com/player/logo/5e5597b9171de20f8f30667a.png" group-title="Chile", Meganoticias Ahora - Señal Online Digital
-https://mdstrm.com/live-stream-playlist/561430ae330428c223687e1e.m3u8?uid=sa8yVKoTZs1j9KDjJcY166IPXA5OHvUy&sid=D2V9AyCcj95ggayYxLQeUvMoL4jTQfTM&pid=rlawU0tqjNEsirAvGI6OVDWnpf3gIB8Z&an=default_app&at=web-app&av=v6.0.57&ref=&res=1280x720&without_cookies=true&listenerid=&dnt=false&access_token=IvLBDaZqCTar3bFpD4Wqy4p91tEYgOiPvCD4tr6kMQNReG7Wo82v0mg29YLpx0CLmjuEoiGIyDp
-#EXTINF:-1 tvg-logo="https://platform-static.cdn.mdstrm.com/player/logo/5e5597b9171de20f8f30667a.png" group-title="Chile", Megatiempo.cl - Señal Online Digital
-https://mdstrm.com/live-stream-playlist/56f97fc0b9bb39786b04a3b0.m3u8?uid=ZTtiXlTvCgaffW5XnPN32n8RfErqRqsN&sid=qwl24xMApLDLtpBtim5p7of2THypl1IA&pid=xv8oLJdZNEyTogUKWduYAJg8hLjxMieC&an=default_app&at=web-app&av=v6.0.57&ref=&res=1280x720&without_cookies=true&listenerid=&dnt=false&access_token=PQBx5YMCATjtI4RlGffcTPsoIKycrECrBS4atikN7f870jS9DzlVq34WiyetZhjuHRRwBCJmEgy
-#EXTINF:-1 tvg-id="13C.cl",13C (1080p)
-https://origin.dpsgo.com/ssai/event/GI-9cp_bT8KcerLpZwkuhw/master.m3u8
-#EXTINF:-1 tvg-id="13E.cl",13 Entretención (720p)
-https://origin.dpsgo.com/ssai/event/BBp0VeP6QtOOlH8nu3bWTg/master.m3u8
-#EXTINF:-1 tvg-id="13Festival.cl",13 Festival (1080p)
-https://origin.dpsgo.com/ssai/event/Nftd0fM2SXasfDlRphvUsg/master.m3u8
-#EXTINF:-1 tvg-id="13Humor.cl",13 Humor (1080p)
-https://origin.dpsgo.com/ssai/event/cKWySXKgSK-SzlJmESkOWw/master.m3u8
-#EXTINF:-1 tvg-id="13Kids.cl",13 Kids (1080p)
-https://origin.dpsgo.com/ssai/event/LhHrVtyeQkKZ-Ye_xEU75g/master.m3u8
-#EXTINF:-1 tvg-id="13P.cl",13 Prime (720p)
-https://origin.dpsgo.com/ssai/event/p4mmBxEzSmKAxY1GusOHrw/master.m3u8
-#EXTINF:-1 tvg-id="13Realities.cl",13 Realities (1080p)
-https://origin.dpsgo.com/ssai/event/g7_JOM0ORki9SR5RKHe-Kw/master.m3u8
-#EXTINF:-1 tvg-id="13T.cl",13 Teleseries (720p)
-https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8
-#EXTINF:-1 tvg-id="ADNTV.cl",ADN Radio (1080p)
-https://jireh-2-hls-video-us-isp.dps.live/hls-video/931b584451fa6dd1313ee66efbfd5802e3f3bcea/adntv/adntv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="AERadioTV.cl",AE Radio TV (720p) [Not 24/7]
-https://tls-cl.cdnz.cl/aeradio/live/playlist.m3u8
-#EXTINF:-1 tvg-id="AlegriaTV.cl",Alegria TV (480p) [Geo-blocked]
-https://593b04c4c5670.streamlock.net/8192/8192/playlist.m3u8
-#EXTINF:-1 tvg-id="AlternativaTV.cl",Alternativa TV (Huasco) (720p) [Not 24/7]
-https://5eaccbab48461.streamlock.net:1936/8216/8216/playlist.m3u8
-#EXTINF:-1 tvg-id="AMCanal.cl",AM Canal (720p) [Not 24/7]
-https://v2.tustreaming.cl/amtv/index.m3u8
-#EXTINF:-1 tvg-id="AntofagastaTV.cl",Antofagasta TV (ATV) (1080p)
-https://unlimited6-cl.dps.live/atv/atv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="AricaTV.cl",Arica TV (480p) [Not 24/7]
-https://5eff35271151c.streamlock.net:1936/8002/8002/playlist.m3u8
-#EXTINF:-1 tvg-id="AtacamaNoticias.cl",Atacama Noticias (720p) [Not 24/7]
-https://v2.tustreaming.cl/atacamanoticias/index.m3u8
-#EXTINF:-1 tvg-id="AtacamaTV.cl",Atacama TV (Copiapó) (720p) [Not 24/7]
-https://v2.tustreaming.cl/atacamatv/index.m3u8
-#EXTINF:-1 tvg-id="ATVValdivia.cl",ATV Valdivia (720p)
-https://6362ca6f1fc28.streamlock.net/8028/8028/playlist.m3u8
-#EXTINF:-1 tvg-id="AutonomaTV.cl",Autónoma TV (480p)
-https://stream.wifispeed.cl:3033/hybrid/play.m3u8
-#EXTINF:-1 tvg-id="AXN.cl",AXN (1080p)
-https://cvi.cdn.rcs.net.ar/mnp/axn_hls/playlist.m3u8
-#EXTINF:-1 tvg-id="AysenTV.cl",Aysen TV (720p)
-https://v1.tustreaming.cl/aysentv/index.m3u8
-#EXTINF:-1 tvg-id="BioBioTV.cl",Bío Bío TV (1080p)
-https://unlimited1-cl-isp.dps.live/bbtv/bbtv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="BuinSomosTodos.cl",Buin Somos Todos (720p) [Not 24/7]
-https://bst.buin.cl/0.m3u8
-#EXTINF:-1 tvg-id="CalderaVision.cl",Caldera Vision
-https://5ff3d9babae13.streamlock.net/frknrusdct/frknrusdct/playlist.m3u8
-#EXTINF:-1 tvg-id="CampoAbiertoTV.cl",Campo Abierto TV (480p)
-https://v1.tustreaming.cl:19360/campoabierto/campoabierto.m3u8
-#EXTINF:-1 tvg-id="CampusTV.cl",Campus TV (Talca) (720p) [Not 24/7]
-https://pantera1-100gb-cl-movistar.dps.live/campustv/campustv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Canal2SanAntonio.cl",Canal 2 (San Antonio) (720p) [Not 24/7]
-https://unlimited1-us.dps.live/canal2/canal2.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="PalmiraTV5.cl",Canal 5 Los Vilos (720p)
-https://oracle.streaminghd.cl/canal5/canal5/playlist.m3u8
-#EXTINF:-1 tvg-id="Canal5PuertoMontt.cl",Canal 5 Puerto Montt (1080p)
-https://stmv2.zcasthn.com.br/canal5/canal5/playlist.m3u8
-#EXTINF:-1 tvg-id="Canal8.cl",Canal 8 Los Sauces TV (720p)
-http://live.mundogo.cl/mundo/LossaucesTV/index.m3u8
-#EXTINF:-1 tvg-id="Canal9BioBioTelevision.cl",Canal 9 Bío Bío Televisión (1080p) [Not 24/7]
-https://unlimited6-cl.dps.live/c9/c9.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Canal11Aysen.cl",Canal 11 Aysén (720p)
-https://v1.tustreaming.cl:19360/canal11aysen/canal11aysen.m3u8
-#EXTINF:-1 tvg-id="Canal21.cl",Canal 21 (720p) [Not 24/7]
-http://edge1.cl.grupoz.cl/canal21tv/live/playlist.m3u8
-#EXTINF:-1 tvg-id="Canal21.cl",Canal 21 (720p) [Not 24/7]
-https://tls.cdnz.cl/canal21tv/live/playlist.m3u8
-#EXTINF:-1 tvg-id="Canal33.cl",Canal 33 (720p) [Geo-blocked]
-https://5eae379fb77bb.streamlock.net/eduardo555/eduardo555/playlist.m3u8
-#EXTINF:-1 tvg-id="Canal57Melipilla.cl",Canal 57 Melipilla (720p)
-https://593b04c4c5670.streamlock.net/8148/8148/playlist.m3u8
-#EXTINF:-1 tvg-id="Canal74SanAntonio.cl",Canal 74 San Antonio
-https://stmv5.voxtvhd.com.br/canal74hd/canal74hd/playlist.m3u8
-#EXTINF:-1 tvg-id="CanalAltaFrontera.cl",Canal Alta Frontera (288p)
-https://mediacpstreamchile.com:1936/altafronteratv/altafronteratv/playlist.m3u8
-#EXTINF:-1 tvg-id="CanalChilote.cl",Canal Chilote
-https://oracle.streaminghd.cl/canalchilote/canalchilote/playlist.m3u8
-#EXTINF:-1 tvg-id="CanalISB.cl",Canal ISB (Iglesia San Bernardo) (720p)
-https://unlimited1-us.dps.live/isb/isb.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="CanalLatino.cl",Canal Latino (CL54) (360p)
-https://live.chileservidores.com:8081/latina/index.m3u8
-#EXTINF:-1 tvg-id="CanalLocal.cl",Canal Local (1080p)
-http://live.mundogo.cl/mundo/Canallocalquillota/index.m3u8
-#EXTINF:-1 tvg-id="CanalSCN.cl",Canal SCN (720p)
-https://live.tvcontrolcp.com:1936/sancarlostv/sancarlostv/playlist.m3u8
-#EXTINF:-1 tvg-id="CanalSurPatagonia.cl",Canal Sur Patagonia (720p)
-https://v1.tustreaming.cl:19360/canalsurpatagoniatv/canalsurpatagoniatv.m3u8
-#EXTINF:-1 tvg-id="CanalTUTV.cl",Canal TUTV
-https://vdochile.com:3300/stream/play.m3u8
-#EXTINF:-1 tvg-id="CaracolaTV.cl",Caracola TV (Peñalolén) (720p) [Not 24/7]
-https://wifispeed.trapemn.tv:1936/comunales/caracola-tv/playlist.m3u8
-#EXTINF:-1 tvg-id="CasaSobreLaRocaTV.cl",Casa Sobre La Roca TV
-https://cp.panelchs.com:1936/8118/8118/playlist.m3u8
-#EXTINF:-1 tvg-id="Cauquenesnet.cl",Cauquenesnet (720p)
-https://vdo.miserver.pro:3102/stream/play.m3u8
-#EXTINF:-1 tvg-id="CCPRadio.cl",CCP Radio (720p) [Not 24/7]
-https://wifiexpert-1.energeek.cl/energeek/canal-3/playlist.m3u8
-#EXTINF:-1 tvg-id="CDR.cl",CDR (720p)
-https://live-hls-xgod.livepush.io/live_cdn/emaf6CHYV7M-RQcL2/index.m3u8
-#EXTINF:-1 tvg-id="CDTV.cl",CDTV (720p) [Not 24/7]
-http://camara.03.cl.cdnz.cl/camara19/live/playlist.m3u8
-#EXTINF:-1 tvg-id="CDTV.cl",CDTV (720p) [Not 24/7]
-https://tls-cl.cdnz.cl/camara/live/playlist.m3u8
-#EXTINF:-1 tvg-id="CEACTV.cl",CEAC TV (Santiago) (480p)
-https://live.chileservidores.com:8081/ceactv/index.m3u8
-#EXTINF:-1 tvg-id="ChileChannel.cl",Chile Channel (720p)
-https://v2.tustreaming.cl/chilechannel/index.m3u8
-#EXTINF:-1 tvg-id="ChileVision.cl",ChileVisión (720p) [Geo-blocked]
-http://chv-m3u.chorroaeboy.repl.co
-#EXTINF:-1 tvg-id="ChiloeRed25.cl",Chiloe Red 25
-https://v2.tustreaming.cl/chiloered/index.m3u8
-#EXTINF:-1 tvg-id="ClaroSportsChile.cl",Claro Sports Chile
-https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6320d80a66666000086712d7livestitch/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&profilesFromStream=true&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
-#EXTINF:-1 tvg-id="ClickTVChile.cl",Click TV (Coronel) (720p)
-https://v2.tustreaming.cl/clicktv/playlist.m3u8
-#EXTINF:-1 tvg-id="ClubTV.cl",Club TV (Santa Juana) (720p) [Not 24/7]
-https://mediacpstreamchile.com:1936/clubtv/clubtv/playlist.m3u8
-#EXTINF:-1 tvg-id="ConcepcionTV.cl",Concepción TV (1080p)
-http://live.mundogo.cl/mundo/concepciontv/index.m3u8
-#EXTINF:-1 tvg-id="Contivision.cl",Contivision (720p)
-https://unlimited6-cl.dps.live/cm/cm.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="CosmosTV.cl",Cosmos TV (720p)
-https://v1.tustreaming.cl/cosmostv/index.m3u8
-#EXTINF:-1 tvg-id="CRTV.cl",CRTV (720p)
-https://vdo.panelstreaming.live:3058/stream/play.m3u8
-#EXTINF:-1 tvg-id="CulturaOnline.cl",Cultura Online (720p)
-https://v1.tustreaming.cl:19360/culturaonline/culturaonline.m3u8
-#EXTINF:-1 tvg-id="D13.cl",D13 (1080p)
-https://jireh-2-hls-video-us-isp.dps.live/hls-video/ey6283je82983je9823je8jowowiekldk9838274/13d/13d.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="DanceFM.cl",Dance FM (720p)
-https://5eaccbab48461.streamlock.net:1936/dancefm_1/dancefm_1/playlist.m3u8
-#EXTINF:-1 tvg-id="DecimaTV.cl",Décima TV (Ancud) (720p)
-https://unlimited2-cl-isp.dps.live/decimatv/decimatv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="DJLonchoTV.cl",DJ Loncho TV (720p)
-https://srv5.zcast.com.br/djlonchtv/djlonchtv/playlist.m3u8
-#EXTINF:-1 tvg-id="EGMChannel.cl",EGM Channel (480p)
-https://paneltv.online:1936/8186/8186/playlist.m3u8
-#EXTINF:-1 tvg-id="EkizTV.cl",Ekiz TV (1080p)
-http://live.mundogo.cl/mundo/EquizTV/index.m3u8
-#EXTINF:-1 tvg-id="ElPinguinoTV.cl",El Pingüino TV (720p)
-https://github.com/MachineSystems/archived_m3u8/raw/main/elpinguino_cl.m3u8
-#EXTINF:-1 tvg-id="ElTipografo.cl",El Tipógrafo (1080p)
-http://live.mundogo.cl/mundo/Tipografo/index.m3u8
-#EXTINF:-1 tvg-id="EnerGeek.cl",EnerGeek (720p) [Not 24/7]
-https://streaming-cl.sh1ny.space/memfs/e8a8e789-170b-4de4-a33b-90a9a475ce65.m3u8
-#EXTINF:-1 tvg-id="EnerGeekRadio.cl",EnerGeek Radio (1080p)
-https://streaming-cl.sh1ny.space/memfs/75b105a4-2fd3-4538-a55c-480f3903a262.m3u8
-#EXTINF:-1 tvg-id="EnfoqueDigitalTV.cl",Enfoque Digital TV (1080p)
-https://5eaccbab48461.streamlock.net:1936/8074/8074/playlist.m3u8
-#EXTINF:-1 tvg-id="EstudioTV.cl",Estudio TV (La Ligua)
-https://mediacpstreamchile.com:1936/hugomendez/hugomendez/playlist.m3u8
-#EXTINF:-1 tvg-id="EvaStream.cl",Eva Stream (Corporación Eva) (480p) [Not 24/7]
-https://mediacpstreamchile.com:1936/evavision/evavision/playlist.m3u8
-#EXTINF:-1 tvg-id="EvaRetro.cl",EvaRetro (Corporación Eva) (600p) [Not 24/7]
-https://stmv2.zcasthn.com.br/evaretro/evaretro/playlist.m3u8
-#EXTINF:-1 tvg-id="Evavision.cl",Evavisión (720p)
-https://stmv1.zcasthn.com.br/evevision/evevision/playlist.m3u8
-#EXTINF:-1 tvg-id="EvavisionPachanga.cl",Evavisión Pachanga (Corporación Eva) (720p)
-http://159.69.56.148:25461/live/evavision/2r4rfasf/38.m3u8
-#EXTINF:-1 tvg-id="ExprezionTV.cl",Exprezión TV (720p)
-https://srv3.zcast.com.br/expreszion/expreszion/playlist.m3u8
-#EXTINF:-1 tvg-id="FanpopTV.cl",Fanpop TV
-https://streaming-cl.sh1ny.space/memfs/e16d2f72-70b5-4bf5-b9c5-107b6390a10f.m3u8
-#EXTINF:-1 tvg-id="Girovisual.cl",Girovisual (720p)
-https://unlimited1-cl-isp.dps.live/girovisual2/girovisual2.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="GraciaTV.cl",Gracia TV (1080p) [Not 24/7]
-http://v3.tustreaming.cl/graciatv/index.m3u8
-#EXTINF:-1 tvg-id="HiperconectadosTV.cl",Hiperconectados TV
-https://stmv5.voxtvhd.com.br/hiperconectados/hiperconectados/playlist.m3u8
-#EXTINF:-1 tvg-id="HiperTV.cl",HiperTV (720p) [Not 24/7]
-https://inliveserver.com:1936/11010/11010/playlist.m3u8
-#EXTINF:-1 tvg-id="HitoCeroTelevision.cl",Hito Cero Television
-https://5ff3d9babae13.streamlock.net/8018/8018/playlist.m3u8
-#EXTINF:-1 tvg-id="HolvoetTV.cl",Holvoet TV (Copiapó) (720p) [Not 24/7]
-https://unlimited1-us.dps.live/holvoettv/holvoettv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="HuascoTelevision.cl",Huasco Televisión (360p)
-https://paneltv.online:1936/8024/8024/playlist.m3u8
-#EXTINF:-1 tvg-id="InterradioTV.cl",Interradio TV (1080p)
-https://cdn.jmvstream.com/w/LVW-13214/LVW13214_wLcadZJaYb/playlist.m3u8
-#EXTINF:-1 tvg-id="IquiqueTV.cl",Iquique TV (720p)
-https://marine2.miplay.cl/arcatel/iquiquetv720/video.m3u8
-#EXTINF:-1 tvg-id="ITVPatagonia.cl",ITV Patagonia (720p)
-https://unlimited1-cl.dps.live/itv/itv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="ITVPatagonia.cl",ITV Patagonia (720p) [Not 24/7]
-https://unlimited1-us.dps.live/itv/itv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="JuntosTV.cl",Juntos TV (720p)
-https://video.juntostvchile.cl:8879/hls/web-jntv.m3u8
-#EXTINF:-1 tvg-id="Kanade.cl",Kanade (720p)
-https://stream.ichibantv.ga:3612/live/kanadetvlive.m3u8
-#EXTINF:-1 tvg-id="LaChilenaTV.cl",La Chilena TV
-https://vdochile.com:3134/hybrid/play.m3u8
-#EXTINF:-1 tvg-id="LaGranjaTV.cl",La Granja TV (720p) [Not 24/7]
-https://5eae379fb77bb.streamlock.net/8126/8126/playlist.m3u8
-#EXTINF:-1 tvg-id="LaPopularTV.cl",La Popular TV (720p)
-https://tv.streaming-chile.com:1936/lapopulartv/lapopulartv/playlist.m3u8
-#EXTINF:-1 tvg-id="LaRed.cl",La Red (720p) [Not 24/7]
-https://unlimited1-cl-isp.dps.live/lared/lared.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="LancoTV.cl",Lanco TV (1080p)
-https://lancotv.ngrok.app/hls/stream.m3u8
-#EXTINF:-1 tvg-id="LatinosRadio.cl",Latinos Radio
-https://mediacpstreamchile.com:1936/latinosmedia-1/latinosmedia-1/playlist.m3u8
-#EXTINF:-1 tvg-id="LTV.cl",LTV (480p)
-https://mediacpstreamchile.com:1936/ltvcanal/ltvcanal/playlist.m3u8
-#EXTINF:-1 tvg-id="MacarenaFM.cl",Macarena FM (720p)
-https://5ff3d9babae13.streamlock.net/8042/8042/playlist.m3u8
-#EXTINF:-1 tvg-id="MaderoTV.cl",Madero TV (720p)
-https://www.cloudscriptdog.cl:19360/madero-video-01/madero-video-01.m3u8
-#EXTINF:-1 tvg-id="Maulevision.cl",Maulevisión (720p)
-https://makestreaming.online:3723/stream/play.m3u8
-#EXTINF:-1 tvg-id="MaximaFMChile.cl",Maxima FM (720p) [Not 24/7]
-https://server1.oklanet.cl:1936/maximavideo1/maximavideo1/playlist.m3u8
-#EXTINF:-1 tvg-id="Mega.cl",Mega (480p)
-https://unlimited1-cl-isp.dps.live/mega/mega.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="MolinaTV.cl",Molina TV (1080p)
-http://live.mundogo.cl/mundo/Molinatv/index.m3u8
-#EXTINF:-1 tvg-id="MTNATV.cl",MTNA TV (720p)
-https://6362ca6f1fc28.streamlock.net/8140/8140/playlist.m3u8
-#EXTINF:-1 tvg-id="MundodelaMusica.cl",Mundo de la Música (480p)
-https://videostreaming.cloudserverlatam.com/8078/8078/playlist.m3u8
-#EXTINF:-1 tvg-id="NativaTV.cl",Nativa TV (720p)
-https://mediacpstreamchile.com:1936/nativa3/nativa3/playlist.m3u8
-#EXTINF:-1 tvg-id="NCTV.cl",NCTV (1080p)
-https://pantera1-100gb-cl-movistar.dps.live/nctv/nctv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Nortevision.cl",Nortevisión (720p)
-https://live.tvcontrolcp.com:1936/nortevision/nortevision/playlist.m3u8
-#EXTINF:-1 tvg-id="NTV.cl",NTV (720p)
-https://marine2.miplay.cl/ntv/playlist.m3u8
-#EXTINF:-1 tvg-id="Nublevision.cl",Ñublevisión (Chillán) (720p)
-https://cdn.oneplaychile.cl:1936/regionales/nublevision.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="NuevaRegionTV.cl",Nueva Región TV (720p)
-http://live.mundogo.cl/mundo/Nuevaregion/index.m3u8
-#EXTINF:-1 tvg-id="OndaRadio.cl",Onda Radio TV (1080p)
-https://tv.streaming-chile.com:1936/ondaradio/ondaradio/playlist.m3u8
-#EXTINF:-1 tvg-id="Opinionsur.cl",Opinionsur
-https://mediacpstreamchile.com:1936/opinionsur/opinionsur/playlist.m3u8
-#EXTINF:-1 tvg-id="OrigenTV.cl",Origen TV (480p)
-https://tv.streaming-chile.com:1936/origentv/origentv/playlist.m3u8
-#EXTINF:-1 tvg-id="PandamaxChannel.cl",Pandamax Channel (1080p)
-https://stream.wifiexpert.cl/telenorte/pandamaxch/playlist.m3u8
-#EXTINF:-1 tvg-id="Pauta.cl",Pauta (720p)
-https://unlimited1-us.dps.live/pautatv/pautatv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Pauta.cl",Pauta (720p)
-https://unlimited6-cl.dps.live/pautatv/pautatv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="PichilemuTV.cl",Pichilemu TV (1080p)
-https://5ff3d9babae13.streamlock.net/8028/8028/playlist.m3u8
-#EXTINF:-1 tvg-id="PintanaTV.cl",Pintana TV (720p)
-https://cdn.vms.grupoz.cl/lapintanatv/content/5a7c8e25e19d3e641aca9fb2/hls/playlist.m3u8
-#EXTINF:-1 tvg-id="PlanetaTV90s.cl",PlanetaTV 90s (720p)
-https://mediacpstreamchile.com:1936/8102/8102/playlist.m3u8
-#EXTINF:-1 tvg-id="PlanetaTVKids.cl",PlanetaTV Kids (1080p)
-https://mediacpstreamchile.com:1936/8152/8152/playlist.m3u8
-#EXTINF:-1 tvg-id="PlanetaTVMovie.cl",PlanetaTV Movie (720p)
-https://scl.edge.grupoz.cl/movie/live/playlist.m3u8
-#EXTINF:-1 tvg-id="PlanetaTVMusic.cl",PlanetaTV Music (720p)
-https://scl.edge.grupoz.cl/music/live/music.m3u8
-#EXTINF:-1 tvg-id="PlazaTV.cl",Plaza TV (720p)
-https://unlimited10-cl.dps.live/girovisual2/girovisual2.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Portalfoxmix.cl",Portalfoxmix (908p) [Not 24/7]
-http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/playlist.m3u8
-#EXTINF:-1 tvg-id="Portalfoxmix.cl",Portalfoxmix (480p) [Not 24/7]
-https://593b04c4c5670.streamlock.net/portalfoxmix/portalfoxmix/playlist.m3u8
-#EXTINF:-1 tvg-id="PuconTV.cl",Pucón TV (1080p) [Not 24/7]
-https://pantera1-100gb-cl-movistar.dps.live/pucontv/pucontv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="PuranoticiaTV.cl",Puranoticia TV (720p)
-https://pnt.janusmedia.tv/hls/pnt.m3u8
-#EXTINF:-1 tvg-id="RadioElSembrador.cl",Radio El Sembrador (1080p)
-https://tv.streaming-chile.com:19360/elsembrador/elsembrador.m3u8
-#EXTINF:-1 tvg-id="RadioHoyTV.cl",Radio Hoy TV (1080p)
-https://panel.dattalive.com/8146/8146/playlist.m3u8
-#EXTINF:-1 tvg-id="RadioQ.cl",Radio Q (1080p)
-https://panel.miplay.cl:8081/radioq/index.m3u8
-#EXTINF:-1 tvg-id="RadioRancaguaFM.cl",Radio Rancagua FM (768p) [Not 24/7]
-https://5eff35271151c.streamlock.net:1936/8056/8056/playlist.m3u8
-#EXTINF:-1 tvg-id="RadioRitmoFM.cl",Radio Ritmo FM (720p)
-https://video.streamingchilenos.cl:1936/8040/8040/playlist.m3u8
-#EXTINF:-1 tvg-id="RadioTouchTV.cl",Radio Touch TV (480p)
-https://mediacpstreamchile.com:1936/8118/8118/playlist.m3u8
-#EXTINF:-1 tvg-id="RadioTributoValentina.cl",Radio Tributo Valentina (720p)
-https://vdochile.com:3385/hybrid/play.m3u8
-#EXTINF:-1 tvg-id="RadioZetaTV.cl",Radio Zeta TV (480p)
-https://unlimited1-cl.dps.live/radioztv/radioztv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="RadiotecaWebstereo.cl",Radioteca Webstereo (720p)
-https://paneltv.net:3908/live/txtkignslive.m3u8
-#EXTINF:-1 tvg-id="RCKTV.cl",RCK TV (720p)
-https://mediacpstreamchile.com:1936/ricardoaravena/ricardoaravena/playlist.m3u8
-#EXTINF:-1 tvg-id="RDOTelevision.cl",RDO Televisión (480p)
-http://live.mundogo.cl/mundo/RDO/index.m3u8
-#EXTINF:-1 tvg-id="RecuerdosRetro.cl",Recuerdos Retro
-https://593b04c4c5670.streamlock.net/8002/8002/playlist.m3u8
-#EXTINF:-1 tvg-id="RestaurandoVidasInternacional.cl",Restaurando Vidas Internacional (720p)
-https://v4.tustreaming.cl/restaurandovida/index.m3u8
-#EXTINF:-1 tvg-id="RetroPlus.cl",Retro Plus HD (720p)
-https://video06.logicahost.com.br/retroplustv/retroplustv/playlist.m3u8
-#EXTINF:-1 tvg-id="RewindTV.cl",Rewind TV (720p) [Not 24/7]
-https://tls.cdnz.cl/rewindtv/rewindtv/playlist.m3u8
-#EXTINF:-1 tvg-id="RTCTelevision.cl",RTC Televisión
-https://5eae379fb77bb.streamlock.net/rtctelevision/rtctelevision/playlist.m3u8
-#EXTINF:-1 tvg-id="RTVNuble.cl",RTV Ñuble (720p)
-https://live.tvcontrolcp.com:1936/guzman/guzman/playlist.m3u8
-#EXTINF:-1 tvg-id="RuidosFM.cl",Ruidos FM (720p)
-https://593b04c4c5670.streamlock.net/8038/8038/playlist.m3u8
-#EXTINF:-1 tvg-id="SantaMariaTelevision.cl",Santa María Televisión (720p) [Not 24/7]
-https://pantera1-100gb-cl-movistar.dps.live/smtv/smtv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Sextavision.cl",Sextavisión (720p)
-https://5ff3d9babae13.streamlock.net/8020/8020/playlist.m3u8
-#EXTINF:-1 tvg-id="SoloBailalo.cl",SoloBáilalo (480p)
-https://5ff3d9babae13.streamlock.net/8000/8000/playlist.m3u8
-#EXTINF:-1 tvg-id="SoloBailalo.cl",SoloBáilalo (480p)
-https://5ff3d9babae13.streamlock.net/8016/8016/playlist.m3u8
-#EXTINF:-1 tvg-id="SoloStandUp.cl",SoloStandUp (480p) [Not 24/7]
-https://paneltv.online:1936/8116/8116/playlist.m3u8
-#EXTINF:-1 tvg-id="SpectrumChannel.cl",Spectrum Channel SMAS (720p) [Not 24/7]
-https://panel.miplay.cl:8081/spectrumchannel/index.m3u8
-#EXTINF:-1 tvg-id="StgoTV.cl",Stgo.TV (720p)
-https://stv.janus.cl/playlist/stream.m3u8
-#EXTINF:-1 tvg-id="Subela.cl",Súbela (720p)
-https://mdstrm.com/live-stream-playlist/5fad9b1d978fe1080e3ac4a8.m3u8
-#EXTINF:-1 tvg-id="SURTV.cl",Sur TV (720p)
-https://paneltv.online:1936/8034/8034/playlist.m3u8
-#EXTINF:-1 tvg-id="T13.cl",T13 (720p)
-https://jireh-2-hls-video-us-isp.dps.live/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/t13/t13.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="TVinet.cl",T-Vinet (480p)
-https://unlimited1-us.dps.live/inet2/inet2.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Tele2WebRetiro.cl",Tele 2 Web (Retiro) (720p) [Not 24/7]
-https://inliveserver.com:1936/11516/11516/playlist.m3u8
-#EXTINF:-1 tvg-id="Telecanal.cl",Telecanal (480p)
-https://unlimited1-cl-isp.dps.live/tctc/tctc.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="TeleCauquenes.cl",TeleCauquenes (720p)
-https://vdo.panelstreaming.live:3401/hybrid/play.m3u8
-#EXTINF:-1 tvg-id="TeletrakTV.cl",Teletrak (720p)
-https://unlimited6-cl.dps.live/sportinghd/sportinghd.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Televida.cl",Televida (1080p)
-https://tls-cl.cdnz.cl/televida/live/playlist.m3u8
-#EXTINF:-1 tvg-id="Telezion.cl",Telezion (720p)
-https://paneltv.net:3751/hybrid/play.m3u8
-#EXTINF:-1 tvg-id="TemucoTelevision.cl",Temuco Television
-https://tv.streaming-chile.com:19360/temucotelevision/temucotelevision.m3u8
-#EXTINF:-1 tvg-id="TendenciasPrime.cl",Tendencias Prime (T31 | Ñuñoa) (1080p) [Not 24/7]
-https://v2.tustreaming.cl/tendenciastv/index.m3u8
-#EXTINF:-1 tvg-id="TerranovaTelevision.cl",Terranova Televisión (810p)
-https://5ff3d9babae13.streamlock.net/gtryhpwpwe/gtryhpwpwe/playlist.m3u8
-#EXTINF:-1 tvg-id="Tevex.cl",Tevex (720p) [Not 24/7]
-https://v4.tustreaming.cl/tevexinter/index.m3u8
-#EXTINF:-1 tvg-id="ThemaTelevision.cl",Thema Televisión (La Serena) (720p) [Not 24/7]
-https://unlimited1-us.dps.live/thema/thema.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="ThemaTelevision.cl",Thema Televisión (La Serena) (720p) [Not 24/7]
-https://unlimited6-cl.dps.live/thema/thema.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="TMNTV.cl",TMN TV (720p)
-https://v1.tustreaming.cl/tmntv/index.m3u8
-#EXTINF:-1 tvg-id="TNE.cl",TNE (720p) [Not 24/7]
-https://v2.tustreaming.cl/tnetv/index.m3u8
-#EXTINF:-1 tvg-id="TurfMovil.cl",Turf Movil (720p)
-https://tvturf4.janus.cl/playlist/stream.m3u8?d=w&id=
-#EXTINF:-1 tvg-id="TV5Linares.cl",TV5 Linares (720p)
-https://unlimited1-us.dps.live/tv5/tv5.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="TV5Linares.cl",TV5 Linares (720p) [Not 24/7]
-https://unlimited6-cl.dps.live/tv5/tv5.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="TV8Concepcion.cl",TV8 (Concepción) (514p) [Geo-blocked]
-https://593b04c4c5670.streamlock.net/8014/8014/playlist.m3u8
-#EXTINF:-1 tvg-id="TVBajoCero.cl",TV Bajo Cero (804p)
-https://stmv2.zcasthn.com.br/bajocerotv/bajocerotv/playlist.m3u8
-#EXTINF:-1 tvg-id="TVChile.cl",TV Chile (1080p) [Geo-blocked]
-https://mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8
-#EXTINF:-1 tvg-id="TVCosta.cl",TV Costa (720p)
-https://tv.tvcontrolcp.com:1936/costatv1/costatv1/playlist.m3u8
-#EXTINF:-1 tvg-id="TVElqui.cl",TV Elqui (720p)
-https://paneltv.online:1936/8056/8056/playlist.m3u8
-#EXTINF:-1 tvg-id="TVPlus2.cl",TV MÁS 2 (480p)
-https://marine2.miplay.cl/tateti/playlist.m3u8
-#EXTINF:-1 tvg-id="TVPop.cl",TV Pop (720p)
-https://v4.tustreaming.cl/poptv/playlist.m3u8
-#EXTINF:-1 tvg-id="Canal2Quellon.cl",TV Quellón (1080p) [Not 24/7]
-https://pantera1-100gb-cl-movistar.dps.live/tvquellon/tvquellon.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="TVQuintaRegion.cl",TV Quinta Region (1080p)
-https://mediacpstreamchile.com:1936/8002/8002/playlist.m3u8
-#EXTINF:-1 tvg-id="TVSenado.cl",TV Senado (360p)
-https://janus-tv-ply.senado.cl/playlist/playlist.m3u8
-#EXTINF:-1 tvg-id="TVUCT.cl",TV UCT (1080p)
-https://unlimited1-us.dps.live/uct/uct.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="TVPlus.cl",TV+ (720p) [Geo-blocked]
-https://mdstrm.com/live-stream-playlist/5c0e8b19e4c87f3f2d3e6a59.m3u8
-#EXTINF:-1 tvg-id="TVM.cl",TVM (720p)
-https://tls-cl.cdnz.cl/tvm/live/playlist.m3u8
-#EXTINF:-1 tvg-id="TVN.cl",TVN (1080p) [Geo-blocked]
-https://panel.miplay.cl:8081/tvn/index.m3u8
-#EXTINF:-1 tvg-id="TVN3.cl",TVN3 (1080p) [Geo-blocked]
-https://mdstrm.com/live-stream-playlist/5653641561b4eba30a7e4929.m3u8
-#EXTINF:-1 tvg-id="TVOSanVicente.cl",TVO San Vicente (720p) [Not 24/7]
-https://5e3483cba9114.streamlock.net/8014/8014/playlist.m3u8
-#EXTINF:-1 tvg-id="TVR.cl",TVR (1080p) [Not 24/7]
-https://unlimited1-us.dps.live/tvr/tvr.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="TVR.cl",TVR (720p)
-https://unlimited1-cl.dps.live/tvr/tvr.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="TVRCanal11.cl",TVR Canal 11 Curicó (1080p)
-https://unlimited6-cl.dps.live/tvrcurico/tvrcurico.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="TVU.cl",TVU Concepción (1080p)
-https://unlimited1-cl-isp.dps.live/tvu/tvu.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="ULosLagosTV.cl",U Los Lagos TV (1080p) [Not 24/7]
-http://tv.ulagos.cl/web/live.m3u8
-#EXTINF:-1 tvg-id="UChileTV.cl",UChile TV (720p)
-https://unlimited1-cl-isp.dps.live/uchiletv/uchiletv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="UCVTV.cl",UCV TV (720p)
+#EXTINF:-1 tvg-id="Azteca7.mx" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s116154_dark_360w_270h.png" group-title="CANALES PREMIUM",Azteca 7
+http://181.78.105.146:2000/play/a08z/index.m3u8
+#EXTINF:-1 tvg-id="CartoonNetwork.mx" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s59562_dark_360w_270h.png" group-title="CANALES PREMIUM",Cartoon Network
+http://181.78.105.146:2000/play/a03k/index.m3u8
+#EXTINF:-1 tvg-id="WarnerChannel.mx" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16213_dark_360w_270h.png" group-title="CANALES PREMIUM" audio-track="spa",Warner TV
+http://181.78.105.146:2000/play/a01f/index.m3u8
+#EXTINF:-1 tvg-id="PlanetaTV.pe" tvg-logo="https://i.imgur.com/mL3lLAF.png" group-title="CANALES PREMIUM",Planeta TV
+https://live.obslivestream.com/planetatv/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://image.roku.com/developer_channels/prod/5f77f28b2d72c8a25c836cee44011ffd5dd6e950b160752de1755003860b1a1a.png" group-title="CANALES PREMIUM",WOW TV
+https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/chunklist_w668344429_b700000_slen.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)"  tvg-logo="https://neotvdigital.com.ar/imagenes/fb.png" group-title="CANALES PREMIUM",Neo TV 16.1
+https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://image.roku.com/developer_channels/prod/cff251a5a41e79a2fbe6677694a1c4671529324b0c2fc0259f18d88e729b3928.png" group-title="CANALES PREMIUM",TVS Retro
+https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://wiseplaylistasiptv.com/wp-content/uploads/2021/09/Captura-de-Pantalla-2021-09-08-a-las-13.04.46.png" group-title="CANALES PREMIUM",Retro Play TV
+https://v4.tustreaming.cl/retroplaytv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Poder de Dios.bo" tvg-logo="https://www.boliviayp.com/img/bo/x/1649774247-58-poder-de-dios-canal-45.jpg" group-title="CANALES DE BOLIVIA",Poder de Dios
+https://s3.tvdatta.com:3846/live/poderdedioslive.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/2ebca1ec-0fc9-48a4-b040-8ab526df1f26-peliculas-de-accion-rakuten-tv-1621956288.png" group-title="PELICULAS",Rakuten Action Movies
+https://rakuten-actionmovies-2-es.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="samsung-ESAJ4500020V7" tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/019fef30-0d93-4f94-b056-d6f4e8a358bf-drama-movies-rakuten-tv-1621612518.jpeg" group-title="PELICULAS",Rakuten Drama
+https://rakuten-tvshows-2-es.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="MyTimeMovieNetwork.mx" tvg-logo="https://i.imgur.com/pw4NZK1.png" group-title="PELICULAS",MyTime Movie Network
+https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="samsung-ESBA2200004G5" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/f6652061e12b0246ef228236f06fa5f1.webp" group-title="PELICULAS",MyTime movie network Spain
+https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://i.imgur.com/bZWoDTg.png" group-title="PELICULAS",Cine Sony
+https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="UCVTV.cl" tvg-logo="https://i.postimg.cc/jjGpZf4T/UCV-Logo.png"group-title="SERIES Y PELICULAS",UCV Television
 https://unlimited2-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="UCV3TV.cl",UCV TV Eventos (720p) [Not 24/7]
-https://unlimited10-cl.dps.live/ucvtveventos/ucvtveventos.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="UESTV.cl",UESTV (720p)
-http://edge1.cl.grupoz.cl/uestv/live/playlist.m3u8
-#EXTINF:-1 tvg-id="UESTV.cl",UESTV (720p)
-https://tls-cl.cdnz.cl/uestv/live/playlist.m3u8
-#EXTINF:-1 tvg-id="UESTV.cl",UESTV (720p)
-https://tls.cdnz.cl/uestv/live/playlist.m3u8
-#EXTINF:-1 tvg-id="UMAGTV2.cl",UMAGTV 2 (720p)
-https://tls-cl.cdnz.cl/umag2/live/playlist.m3u8
-#EXTINF:-1 tvg-id="UMAGTV.cl",UMAGTV Televisión (Punta Arenas) (720p)
-http://edge1.cl.grupoz.cl/tser5/live/playlist.m3u8
-#EXTINF:-1 tvg-id="UATV.cl",Universidad Autónoma Temuco (UATV) (1080p) [Not 24/7]
-https://unlimited1-us.dps.live/uatv/uatv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="UATV.cl",Universidad Autónoma Temuco (UATV) (1080p) [Not 24/7]
-https://unlimited6-cl.dps.live/uatv/uatv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="UTV.cl",UTV (720p)
-https://v2.tustreaming.cl/utv/index.m3u8
-#EXTINF:-1 tvg-id="VClassicTV.cl",V Classic TV (720p)
-https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8
-#EXTINF:-1 tvg-id="VCOnline.cl",VC Online (720p)
-https://panel.tvstream.cl:1936/8024/8024/playlist.m3u8
-#EXTINF:-1 tvg-id="VidaTV.cl",Vida TV (1080p)
-http://181.224.64.2:89/vidatv/index.m3u8
-#EXTINF:-1 tvg-id="VisionPlusTV.cl",Visión Plus TV (Melipilla) (720p) [Not 24/7]
-https://v2.tustreaming.cl/visionplustv/index.m3u8
-#EXTINF:-1 tvg-id="VisionTV.cl",Vision TV (720p)
-https://5cf4a2c2512a2.streamlock.net/8184/8184/playlist.m3u8
-#EXTINF:-1 tvg-id="VozdePoderTelevision.cl",Voz de Poder Television (720p)
-https://v1.tustreaming.cl:19360/vozdepoder/vozdepoder.m3u8
-#EXTINF:-1 tvg-id="VTVValledeAconcagua.cl",VTV Valle de Aconcagua (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="LocomotionTV.do" tvg-logo="https://i.imgur.com/1CftDPB.png" group-title="SERIES Y PELICULAS",Locomotion TV
+http://51.222.85.85:81/hls/loco/index.m3u8
+#EXTINF:-1 tvg-id="Meta Versus.cr" tvg-logo="https://metaversuscr.com/wp-content/uploads/2023/08/cropped-MET.png" group-title="PROGRAMAS ESPECIALES",Meta Versus
+https://vivo.solumedia.com:19360/metaversus/metaversus.m3u8
+#EXTINF:-1,HBO POP
+http://redima.pro:8880/VALLE1402/VALLE1402/333
+#EXTINF:-1,DISNEY CHANNEL
+http://redima.pro:8880/VALLE1402/VALLE1402/340
+#EXTINF:-1,STAR CHANNEL
+http://redima.pro:8880/VALLE1402/VALLE1402/343
+#EXTINF:-1,A&E
+http://redima.pro:8880/VALLE1402/VALLE1402/357
+#EXTINF:-1,AMC
+http://redima.pro:8880/VALLE1402/VALLE1402/360
+#EXTINF:-1,DPELICULAS
+http://redima.pro:8880/VALLE1402/VALLE1402/376
+#EXTINF:-1,MULTIPREMIER
+http://redima.pro:8880/VALLE1402/VALLE1402/379
+#EXTINF:-1,MULTICINE
+http://redima.pro:8880/VALLE1402/VALLE1402/381
+#EXTINF:-1,estudio universal
+http://redima.pro:8880/VALLE1402/VALLE1402/384
+#EXTINF:-1,WARNER HD
+http://redima.pro:8880/VALLE1402/VALLE1402/391
+#EXTINF:-1,HOLA TV HD
+http://redima.pro:8880/VALLE1402/VALLE1402/396
+#EXTINF:-1,DISCOVERY KIDS
+http://redima.pro:8880/VALLE1402/VALLE1402/398
+#EXTINF:-1,DISCOVERY KIDS
+http://redima.pro:8880/VALLE1402/VALLE1402/399
+#EXTINF:-1,PASIONES
+http://redima.pro:8880/VALLE1402/VALLE1402/401
+#EXTINF:-1,PASIONES
+http://redima.pro:8880/VALLE1402/VALLE1402/402
+#EXTINF:-1,TELENOVELAS
+http://redima.pro:8880/VALLE1402/VALLE1402/403
+#EXTINF:-1,TELENOVELAS
+http://redima.pro:8880/VALLE1402/VALLE1402/404
+#EXTINF:-1,CANAL DE LAS ESTRELLAS
+http://redima.pro:8880/VALLE1402/VALLE1402/405
+#EXTINF:-1,CANAL DE LAS ESTRELLAS
+http://redima.pro:8880/VALLE1402/VALLE1402/406
+#EXTINF:-1,H2
+http://redima.pro:8880/VALLE1402/VALLE1402/411
+#EXTINF:-1,CINECANAL HD
+http://redima.pro:8880/VALLE1402/VALLE1402/413
+#EXTINF:-1,RCN NOVELA HD
+http://redima.pro:8880/VALLE1402/VALLE1402/414
+#EXTINF:-1,TLNOVELAS
+http://redima.pro:8880/VALLE1402/VALLE1402/415
+#EXTINF:-1,ANTENA 3
+http://redima.pro:8880/VALLE1402/VALLE1402/418
+#EXTINF:-1,CNN
+http://redima.pro:8880/VALLE1402/VALLE1402/419
+#EXTINF:-1,DISCOVERY ID
+http://redima.pro:8880/VALLE1402/VALLE1402/426
+#EXTINF:-1,TV AGRO
+http://redima.pro:8880/VALLE1402/VALLE1402/429
+#EXTINF:-1,NAT GEO
+http://redima.pro:8880/VALLE1402/VALLE1402/438
+#EXTINF:-1,NAT GEO
+http://redima.pro:8880/VALLE1402/VALLE1402/439
+#EXTINF:-1,WB
+http://redima.pro:8880/VALLE1402/VALLE1402/1025
+#EXTINF:-1,Television Publica
+http://redima.pro:8880/VALLE1402/VALLE1402/578
+#EXTINF:-1,TNT SPORT
+http://redima.pro:8880/VALLE1402/VALLE1402/323
+#EXTINF:-1,ESPN
+http://redima.pro:8880/VALLE1402/VALLE1402/317
+#EXTINF:-1,ESPN 7
+http://redima.pro:8880/VALLE1402/VALLE1402/327
+#EXTINF:-1,UNIVERSAL REALITY
+http://redima.pro:8880/VALLE1402/VALLE1402/1035
+#EXTINF:-1,Comedy Central HD
+http://redima.pro:8880/VALLE1402/VALLE1402/994
+#EXTINF:-1,UNIVERSAL PREMIERE
+http://redima.pro:8880/VALLE1402/VALLE1402/1034
+#EXTINF:-1,ᴸᴵᴳᴬ ᴹˣ | ESPN HD®
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/134462.ts
+#EXTINF:-1,ᴸᴵᴳᴬ ᴹˣ | TELEMUNDO FHD®
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/134463.ts
+#EXTINF:-1,ᴸᴵᴳᴬ ᴹˣ | TUDN ZONA FUTBOL PPV®
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/134464.ts
+#EXTINF:-1,ᴸᴵᴳᴬ ᴹˣ | TUDN MEXICO UHD®
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/134466.ts
+#EXTINF:-1,ᴸᴵᴳᴬ ᴹˣ | TUDN UHD® (USA)
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/134467.ts
+#EXTINF:-1,ᴸᴵᴳᴬ ᴹˣ | FOX SPORTS DEPORTES HD®
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/134468.ts
+#EXTINF:-1,ᴸᴵᴳᴬ ᴹˣ | FOX SPORTS 2 MX HD®
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/140386.ts
+
+
+#EXTINF:-1,ᴸᴵᴳᴬ ᴹˣ | FOX SPORTS 3 MX HD®
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/144619.ts
+#EXTINF:-1,ᴸᴵᴳᴬ ᴹˣ | FOX SPORTS PREMIUM MX®
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/146541.ts
+#EXTINF:-1,ᴸᴵᴳᴬ ᴹˣ |  FOX SPORTS DEPORTES HD®
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/146542.ts
+#EXTINF:-1,ᴸᴵᴳᴬ ᴹˣ | TVC DEPORTES HD®
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/150069.ts
+#EXTINF:-1,ᴸᴵᴳᴬ ᴹˣ | AYM SPORTS MX UHD
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/151831.ts
+#EXTINF:-1,ᴸᴵᴳᴬ ᴹˣ | CLARO SPORTS FHD®
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/153566.ts
+#EXTINF:-1,ᴸᴵᴳᴬ ᴹˣ | VIX LO MEJOR LIGA MX HD®
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/153567.ts
+#EXTINF:-1,ᴸᴵᴳᴬ ᴹˣ | ADRENALINA SPORTS NETWORK FHD®
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/154748.ts
+#EXTINF:-1,00 | ᴸᴵᴳᴬ ᴹˣ PARTIDOS DE FOOTBALL ⚽️EN VIVO⚽️
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/152471.ts
+#EXTINF:-1,ᴸᴵᴳᴬ ᴹˣ | SKY SPORTS Premier HD®
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/160999.ts
+#EXTINF:-1,ᴸᴵᴳᴬ ᴹˣ | Claro SPORTS (La Liga) MX®
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/161000.ts
+#EXTINF:-1,ᴸᴵᴳᴬ ᴹˣ | VIX SPORTS (La Liga) MX®
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/162334.ts
+#EXTINF:-1,ᴸᴵᴳᴬ ᴹˣ | SKY ONE MX HD®
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/189725.ts
+#EXTINF:-1,ᴸᴵᴳᴬ ᴹˣ | VIX Deportes HD®
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/232182.ts
+#EXTINF:-1,ᴸᴵᴳᴬ ᴹˣ | VIX + TUDN HD®
+
+
+
+#EXTINF:-1,MX || A + 7.2 HD®
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/3668.ts
+#EXTINF:-1,MX || A+ 7.2 UHD®
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/3697.ts
+#EXTINF:-1,MX || ADN 40 HD®
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/129046.ts
+#EXTINF:-1,MX || ADN 40 HD®
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/130017.ts
+#EXTINF:-1,MX || ADN40 UHD®
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/3699.ts
+#EXTINF:-1,MX || TELESISTEMA Canal 9 HD®
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/140816.ts
+#EXTINF:-1,MX || Alcarria TV HD®
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/130018.ts
+#EXTINF:-1,MX || AMX Noticias HD®
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/148857.ts
+#EXTINF:-1,MX || AYM SPORTS HD®
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/3670.ts
+#EXTINF:-1,MX || Aym Sports UHD®
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/3705.ts
+#EXTINF:-1,MX || Az Cinema HD®
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/129028.ts
+#EXTINF:-1,MX || Az Clic HD®
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/129029.ts
+#EXTINF:-1,MX || Az Corazón HD®
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/129030.ts
+#EXTINF:-1,MX || Az Corazón UHD®
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/3707.ts
+#EXTINF:-1,MX || Az Mundo HD®
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/129031.ts
+#EXTINF:-1,MX || Az Mundo UHD®
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/3708.ts
+#EXTINF:-1,MX || Azteca 7 HD®
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/129033.ts
+#EXTINF:-1,MX || AZTECA CLIC UHD®
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/145506.ts
+#EXTINF:-1,MX || AZTECA CORAZÓN UHD®
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/145508.ts
+#EXTINF:-1,MX || AZTECA MUNDO UHD®
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/145512.ts
+#EXTINF:-1,MX || Azteca Uno HD®
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/129032.ts
+#EXTINF:-1,MX || Azteca Uno UHD®
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/3801.ts
+#EXTINF:-1,MX || Bandamax UHD®
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/129047.ts
+#EXTINF:-1,MX || BITME MX UHD®
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/151648.ts
+#EXTINF:-1,MX || TVP Obregón - HD®
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/129034.ts
+#EXTINF:-1,MX || Canal 10 Cancún UHD®
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/130020.ts
+#EXTINF:-1,MX || CANAL 11 MX UHD®
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/3723.ts
+#EXTINF:-1,MX || CANAL 26 VA+ HD®
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/129035.ts
+#EXTINF:-1,MX || Canal 4 HD®
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/129036.ts
+#EXTINF:-1,MX || CANAL 4 Televisa Myt UHD®
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/3718.ts
+#EXTINF:-1,MX || CANAL 44 CHIHUAHUA UHD®
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/130023.ts
+#EXTINF:-1,MX || Canal 5 HD®
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/129037.ts
+#EXTINF:-1,MX || CANAL 5 UHD®
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/3719.ts
+#EXTINF:-1,MX || Canal 8 HD®
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/129038.ts
+#EXTINF:-1,MX || CANAL 8 UHD®
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/3720.ts
+#EXTINF:-1,MX || CANAL 9 Telesistema SD®
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/149448.ts
+#EXTINF:-1,MX || CANAL 15 UHD®
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/140822.ts
+#EXTINF:-1,MX || Canal DIEZ Cancún HD®
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/130019.ts
+#EXTINF:-1,MX || Canal Judicial HD®
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/129039.ts
+#EXTINF:-1,MX || CANAL 28 UHD®
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/3722.ts
+#EXTINF:-1,MX || Canal Once HD®
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/129040.ts
+#EXTINF:-1,MX || Canal U (Unicable) HD®
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/129045.ts
+#EXTINF:-1,MX || MyTime Movie Network MX HD®
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/153565.ts
+#EXTINF:-1,MX || TV MAR PUERTO VALLARTA UHD®
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/130024.ts
+#EXTINF:-1,MX || FILMEX UHD®
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/146598.ts
+#EXTINF:-1,MX || CURIOSITY UHD®
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/146597.ts
+#EXTINF:-1,MX || EL HERALDO Noticias HD®
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/148883.ts
+#EXTINF:-1,MX || CINE ESTRELLA UHD®
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/154742.ts
+#EXTINF:-1,MX || ESTRELLA NEWS UHD®
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/154743.ts
+#EXTINF:-1,MX || ESTRELLATV UHD®
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/154741.ts
+#EXTINF:-1,MX || EWTN HD®
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/130021.ts
+#EXTINF:-1,MX || EXPRESATV UHD®
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/153574.ts
+#EXTINF:-1,MX || FORO TV MX UHD®
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/3748.ts
+#EXTINF:-1,MX || FUEL TV UHD®
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/146600.ts
+#EXTINF:-1,MX || FUELTV HD®
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/146601.ts
+#EXTINF:-1,MX || GOLDEN EDGE HD®
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/3647.ts
+#EXTINF:-1,MX || GOLDEN EDGE MX UHD®
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/3762.ts
+#EXTINF:-1,MX || GOLDEN MX UHD®
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/3761.ts
+#EXTINF:-1,MX || IMAGEN TV MX UHD®
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/3767.ts
+#EXTINF:-1,MX || Ingenio TV HD®
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/3654.ts
+#EXTINF:-1,MX || Las Estrellas HD®
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/129048.ts
+#EXTINF:-1,MX || Las Estrellas UHD®
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/3607.ts
+#EXTINF:-1,MX || Mexico LOBO TV HD®
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/154917.ts
+#EXTINF:-1,MX || MEXIQUENSE MX HD®
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/3657.ts
+#EXTINF:-1,MX || MEXIQUENSE UHD®
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/3772.ts
+#EXTINF:-1,MX || MilenioTV UHD®
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/130025.ts
+#EXTINF:-1,MX || Multimedios Laguna HD®
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/130027.ts
+#EXTINF:-1,MX || MULTIMEDIOS PLUS MX UHD®
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/129042.ts
+#EXTINF:-1,MX || MULTIMEDIOS UHD®
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/3775.ts
+#EXTINF:-1,MX || PANICO UHD®
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/146602.ts
+#EXTINF:-1,MX || Sistema Michoacano HD®
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/130028.ts
+#EXTINF:-1,MX || NRT Región Centro HD®
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/150362.ts
+#EXTINF:-1,MX || TELEFORMULA MX UHD®
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/3747.ts
+#EXTINF:-1,MX || TELEFORMULA HD®
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/130031.ts
+#EXTINF:-1,MX || TeleMax UHD®
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/130033.ts
+#EXTINF:-1,MX || TELEVISA MEXICALI HD®
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/149214.ts
+#EXTINF:-1,MX || Televisa Monterrey HD®
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/129044.ts
+#EXTINF:-1,MX || Televisa Puebla HD®
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/129043.ts
+#EXTINF:-1,MX || ULTRA TV Puebla UHD®
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/3799.ts
+#EXTINF:-1,MX || UMTV (Montemorelos) HD®
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/3679.ts
+#EXTINF:-1,MX || Nuevo León Canal 28 HD®
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/149449.ts
+#EXTINF:-1,MX || UMTV UHD®
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/152948.ts
+#EXTINF:-1,MX || TELEMUNDO NOTICIAS HD®
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/153437.ts
+#EXTINF:-1,MX || UnoTV UHD®
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/130034.ts
+#EXTINF:-1,MX || UNICABLE HD
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/156072.ts
+#EXTINF:-1,MX || MIL SABORES HD
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/159980.ts
+#EXTINF:-1,MX || TV4 NOTICIAS (HD)®
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/160985.ts
+#EXTINF:-1,MX || Televisa Monterey (HD)®
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/160989.ts
+#EXTINF:-1,MX || Canal 28 (HD)®
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/160991.ts
+#EXTINF:-1,MX || Canal 33 Tijuana (HD)®
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/160992.ts
+#EXTINF:-1,MX || RTG (HD)®
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/160994.ts
+#EXTINF:-1,MX || Sistema Michoacano TV (FHD)®
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/160995.ts
+#EXTINF:-1,MX || TRC Televisión (Campeche) (FHD)®
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/160996.ts
+#EXTINF:-1,MX || SET Televisión Canal 26.2 (HD)®
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/160997.ts
+#EXTINF:-1,MX || Nueve San Luís Potosí (HD)®
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/160998.ts
+#EXTINF:-1,MX || Canal 6 Tecpán (HD)®
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/162180.ts
+#EXTINF:-1,MX || Las Estrellas - 2 horas HD®
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/162200.ts
+#EXTINF:-1,MX || Las Estrellas Opc. 2 HD®
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/162201.ts
+#EXTINF:-1,MX || Televisa Ciudad Guadalajara (4K)®
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/162266.ts
+#EXTINF:-1,MX || TVT (Tabasqueña) HD®
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/162518.ts
+#EXTINF:-1,MX || NU9VE HD®
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/163347.ts
+#EXTINF:-1,MX || CANAL TRC Mᴇxɪᴄᴏ ʜᴅ®
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/149119.ts
+#EXTINF:-1,MX || NRT REGION CENTRO HD®
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/166395.ts
+#EXTINF:-1,MX || Canal 6 CDMX (FHD)®
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/167959.ts
+#EXTINF:-1,MX || TLR TV UHD®
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/3802.ts
+#EXTINF:-1,MX || Mexico FRANCE 24 HD®
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/212040.ts
+#EXTINF:-1,MX || CANAL TV Cuatro 4.1 UHD®
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/223016.ts
+#EXTINF:-1,MX || CANAL TV Cuatro 4.2 UHD®
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/223017.ts
+#EXTINF:-1,MX || Canal 6 PLUS (FHD)®
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/226901.ts
+#EXTINF:-1,ARG: ANIMAL PLANET Pʳᵉᵐⁱᵘᵐ ʜᴅ
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/4910.ts
+#EXTINF:-1,ARG: AXN Pʳᵉᵐⁱᵘᵐ ʜᴅ
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/4912.ts
+#EXTINF:-1,ARG: BABY FIRST Pʳᵉᵐⁱᵘᵐ ʜᴅ
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/4914.ts
+#EXTINF:-1,ARG: BOOMERANG Pʳᵉᵐⁱᵘᵐ ʜᴅ
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/4917.ts
+#EXTINF:-1,ARG: CINE LATINO Pʳᵉᵐⁱᵘᵐ ʜᴅ
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/4921.ts
+#EXTINF:-1,ARG: CNN ESPANOL Pʳᵉᵐⁱᵘᵐ ʜᴅ
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/4922.ts
+#EXTINF:-1,ARG: DISNEY CHANNEL Pʳᵉᵐⁱᵘᵐ ʜᴅ
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/4933.ts
+#EXTINF:-1,ARG: DISNEY XD Pʳᵉᵐⁱᵘᵐ ʜᴅ
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/4935.ts
+#EXTINF:-1,ARG: ESPN Pʳᵉᵐⁱᵘᵐ ʜᴅ
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/4938.ts
+#EXTINF:-1,ARG: ESPN 3 Pʳᵉᵐⁱᵘᵐ ʜᴅ
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/4940.ts
+#EXTINF:-1,ARG: ESPN EXTRA SUR Pʳᵉᵐⁱᵘᵐ ʜᴅ
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/4941.ts
+#EXTINF:-1,ARG: STAR Pʳᵉᵐⁱᵘᵐ ʜᴅ
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/4942.ts
+#EXTINF:-1,ARG: SYFI Pʳᵉᵐⁱᵘᵐ ʜᴅ
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/4943.ts
+#EXTINF:-1,ARG: STAR CHANNEL CINEMA Pʳᵉᵐⁱᵘᵐ ʜᴅ
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/4944.ts
+#EXTINF:-1,ARG: TYC Pʳᵉᵐⁱᵘᵐ ʜᴅ
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/4945.ts
+#EXTINF:-1,ARG: Universal Channel Pʳᵉᵐⁱᵘᵐ ʜᴅ
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/4946.ts
+#EXTINF:-1,ARG: UNIVERSAL CRIME Pʳᵉᵐⁱᵘᵐ ʜᴅ
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/4947.ts
+#EXTINF:-1,ARG: STAR CHANNEL Pʳᵉᵐⁱᵘᵐ ʜᴅ
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/4949.ts
+#EXTINF:-1,ARG: TNT SERIES Pʳᵉᵐⁱᵘᵐ ʜᴅ
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/4950.ts
+#EXTINF:-1,ARG: ESPN SPORTS Pʳᵉᵐⁱᵘᵐ ʜᴅ
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/4951.ts
+#EXTINF:-1,ARG: FX Pʳᵉᵐⁱᵘᵐ ʜᴅ
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/4955.ts
+#EXTINF:-1,ARG: GOLDEN Pʳᵉᵐⁱᵘᵐ ʜᴅ
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/4957.ts
+#EXTINF:-1,ARG: HBO Pʳᵉᵐⁱᵘᵐ ʜᴅ
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/4961.ts
+#EXTINF:-1,ARG: HBO 2 Pʳᵉᵐⁱᵘᵐ ʜᴅ
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/4962.ts
+#EXTINF:-1,ARG: HBO FAMILY Pʳᵉᵐⁱᵘᵐ ʜᴅ
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/4963.ts
+#EXTINF:-1,ARG: HBO SIGNATURE Pʳᵉᵐⁱᵘᵐ ʜᴅ
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/4965.ts
+#EXTINF:-1,ARG: HISTORY Channel Pʳᵉᵐⁱᵘᵐ ʜᴅ
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/4966.ts
+#EXTINF:-1,ARG: HTV Pʳᵉᵐⁱᵘᵐ ʜᴅ
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/4975.ts
+#EXTINF:-1,ARG: LIFETIME Pʳᵉᵐⁱᵘᵐ ʜᴅ
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/4979.ts
+#EXTINF:-1,ARG: MTV Pʳᵉᵐⁱᵘᵐ ʜᴅ
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/4981.ts
+#EXTINF:-1,ARG: NAT GEO Pʳᵉᵐⁱᵘᵐ ʜᴅ
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/4983.ts
+#EXTINF:-1,ARG: NAT GEO KIDS Pʳᵉᵐⁱᵘᵐ ʜᴅ
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/4984.ts
+#EXTINF:-1,ARG: NICKELODEON Pʳᵉᵐⁱᵘᵐ ʜᴅ
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/4987.ts
+#EXTINF:-1,ARG: TNT SERIES Pʳᵉᵐⁱᵘᵐ ʜᴅ
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/5024.ts
+#EXTINF:-1,ARG: TOONCAST Pʳᵉᵐⁱᵘᵐ ʜᴅ
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/5064.ts
+#EXTINF:-1,ARG: HBO POP Pʳᵉᵐⁱᵘᵐ ʜᴅ
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/5065.ts
+#EXTINF:-1,ARG: DIRECTV SPORTS Pʳᵉᵐⁱᵘᵐ ʜᴅ
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/135642.ts
+#EXTINF:-1,ARG: DIRECTV SPORTS 2 Pʳᵉᵐⁱᵘᵐ ʜᴅ
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/135643.ts
+#EXTINF:-1,ARG: DIRECTV SPORTS+ Pʳᵉᵐⁱᵘᵐ ʜᴅ
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/135644.ts
+#EXTINF:-1,ARG: FOX SPORTS 1 Pʳᵉᵐⁱᵘᵐ ʜᴅ
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/135645.ts
+#EXTINF:-1,ARG: FOX SPORTS 2 Pʳᵉᵐⁱᵘᵐ ʜᴅ
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/135646.ts
+#EXTINF:-1,ARG: FOX SPORTS 3 Pʳᵉᵐⁱᵘᵐ ʜᴅ
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/135647.ts
+#EXTINF:-1,ARG: A&E Pʳᵉᵐⁱᵘᵐ ʜᴅ
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/135653.ts
+#EXTINF:-1,ARG: FOX NEWS Pʳᵉᵐⁱᵘᵐ ʜᴅ
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/135654.ts
+#EXTINF:-1,ARG: STUDIO UNIVERSAL Pʳᵉᵐⁱᵘᵐ ʜᴅ
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/135659.ts
+#EXTINF:-1,ARG: I-SAT Pʳᵉᵐⁱᵘᵐ ʜᴅ
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/135662.ts
+#EXTINF:-1,ARG: UNIVERSAL CHANNEL Pʳᵉᵐⁱᵘᵐ ʜᴅ
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/135663.ts
+#EXTINF:-1,ARG: HBO MUNDI Pʳᵉᵐⁱᵘᵐ ʜᴅ
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/135674.ts
+#EXTINF:-1,ARG: HBO XTREME Pʳᵉᵐⁱᵘᵐ ʜᴅ
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/135677.ts
+#EXTINF:-1,ARG: FILM&ARTS Pʳᵉᵐⁱᵘᵐ ʜᴅ
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/135781.ts
+#EXTINF:-1,ARG: CLARO CINEMA Pʳᵉᵐⁱᵘᵐ ʜᴅ
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/135782.ts
+#EXTINF:-1,ARG: TNT Pʳᵉᵐⁱᵘᵐ ʜᴅ
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/135783.ts
+#EXTINF:-1,ARG: ESPN 2 HD Pʳᵉᵐⁱᵘᵐ ʜᴅ
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/135784.ts
+#EXTINF:-1,ARG: Discovery Science Pʳᵉᵐⁱᵘᵐ ʜᴅ
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/135791.ts
+#EXTINF:-1,ARG: History 2 Pʳᵉᵐⁱᵘᵐ ʜᴅ
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/135792.ts
+#EXTINF:-1,ARG: Discovery Home & Health Pʳᵉᵐⁱᵘᵐ ʜᴅ
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/135793.ts
+#EXTINF:-1,ARG: DISCOVERY Pʳᵉᵐⁱᵘᵐ ʜᴅ
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/135821.ts
+#EXTINF:-1,ARG: RAI ITALIA Pʳᵉᵐⁱᵘᵐ ʜᴅ
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/135863.ts
+#EXTINF:-1,ARG: CNN ESPAÑOL Pʳᵉᵐⁱᵘᵐ ʜᴅ
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/135867.ts
+#EXTINF:-1,ARG: TV5 MONDE Pʳᵉᵐⁱᵘᵐ ʜᴅ
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/135881.ts
+#EXTINF:-1,ARG: ON DIRECTV Pʳᵉᵐⁱᵘᵐ ʜᴅ
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/149989.ts
+#EXTINF:-1,ARG: LIFETIME Pʳᵉᵐⁱᵘᵐ ʜᴅ
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/154827.ts
+#EXTINF:-1,ARG: C5N Pʳᵉᵐⁱᵘᵐ ʜᴅ
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/161874.ts
+#EXTINF:-1,ARG: SUN CHANNEL TURISMO Pʳᵉᵐⁱᵘᵐ ʜᴅ
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/162380.ts
+#EXTINF:-1,CINE: A&E Aʀɢ Sᵀᴰ
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/36.ts
+#EXTINF:-1,CINE: AMC Aʀɢ Sᵀᴰ
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/37.ts
+#EXTINF:-1,CINE: STUDIO UNIVERSAL Aʀɢ Sᵀᴰ
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/38.ts
+#EXTINF:-1,CINE: UNIVERSAL CHANNEL Mᴇxɪᴄᴏ Sᵀᴰ
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/39.ts
+#EXTINF:-1,CINE: WARNER Mᴇxɪᴄᴏ Sᵀᴰ
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/40.ts
+#EXTINF:-1,CINE: SPACE Mᴇxɪᴄᴏ Sᵀᴰ
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/41.ts
+#EXTINF:-1,CINE: PARAMOUNT NETWORK Sᵀᴰ
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/48.ts
+#EXTINF:-1,CINE: HBO Mᴇxɪᴄᴏ Sᵀᴰ
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/49.ts
+#EXTINF:-1,CINE: HBO 2 Mᴇxɪᴄᴏ Sᵀᴰ
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/50.ts
+#EXTINF:-1,CINE: HBO MUNDI SD
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/52.ts
+#EXTINF:-1,CINE: HBO PLUS SD
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/53.ts
+#EXTINF:-1,CINE: HBO POP SD
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/54.ts
+#EXTINF:-1,CINE: HBO SIGNATURE SD
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/55.ts
+#EXTINF:-1,CINE: HBO XTREME SD
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/56.ts
+#EXTINF:-1,CINE: FOX MOVIE SD
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/57.ts
+#EXTINF:-1,CINE: EUROPA EUROPA SD
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/58.ts
+#EXTINF:-1,CINE: CINECANAL MX STD
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/59.ts
+#EXTINF:-1,CINE: CINEMAX SD
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/60.ts
+#EXTINF:-1,CINE: STAR SD
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/61.ts
+#EXTINF:-1,CINE: CINELATINO SD
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/62.ts
+#EXTINF:-1,CINE: UNIVERSAL REALITY MX
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/63.ts
+#EXTINF:-1,CINE: STAR CINEMA
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/64.ts
+#EXTINF:-1,CINE: STAR CLASSIC
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/65.ts
+#EXTINF:-1,CINE: STUDIO UNIVERSAL
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/66.ts
+#EXTINF:-1,CINE: HBO FAMILY ᴴᴰ
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/67.ts
+#EXTINF:-1,CINE: Movistar DCine N
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/68.ts
+#EXTINF:-1,CINE: CINE DINAMITA SD
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/69.ts
+#EXTINF:-1,CINE: CINE MULTIPREMIER +
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/70.ts
+#EXTINF:-1,CINE: STAR CHANNEL Mᴇxɪᴄᴏ Sᵀᴰ
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/3642.ts
+#EXTINF:-1,CINE: TNT SERIES Mᴇxɪᴄᴏ Sᵀᴰ
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/3644.ts
+#EXTINF:-1,CINE: FX Mᴇxɪᴄᴏ Sᵀᴰ
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/3645.ts
+#EXTINF:-1,CINE: FX Mᴇxɪᴄᴏ Sᵀᴰ
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/3646.ts
+#EXTINF:-1,CINE: GOLDEN PLUS Mᴇxɪᴄᴏ Sᵀᴰ
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/3648.ts
+#EXTINF:-1,CINE: PARAMOUNT CHANNEL Mᴇxɪᴄᴏ Sᵀᴰ
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/3667.ts
+#EXTINF:-1,CINE: STUDIO UNIVERSAL Mᴇxɪᴄᴏ Sᵀᴰ
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/3674.ts
+#EXTINF:-1,CINE: WARNER CHANNEL Mᴇxɪᴄᴏ Sᵀᴰ
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/3694.ts
+#EXTINF:-1,CINE: I.SAT Aʀɢ Sᵀᴰ
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/3769.ts
+#EXTINF:-1,CINE: TCM Mᴇxɪᴄᴏ Sᵀᴰ
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/3795.ts
+#EXTINF:-1,CINE: A&E (Low)
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/3839.ts
+#EXTINF:-1,CINE: SONY CHANNEL MX SD
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/4285.ts
+#EXTINF:-1,CINE: FILM&ARTS MX
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/4287.ts
+#EXTINF:-1,CINE: GOLDEN SD
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/4288.ts
+#EXTINF:-1,CINE: TNT SERIES MX SD
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/4291.ts
+#EXTINF:-1,CINE: SYFY MX SD
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/4293.ts
+#EXTINF:-1,CINE: CLARO CINEMA SD
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/4294.ts
+#EXTINF:-1,CINE: CINELATINO
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/7974.ts
+#EXTINF:-1,CINE: CINE DINAMITA
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/7995.ts
+#EXTINF:-1,CINE: CINE PREMIER +
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/7996.ts
+#EXTINF:-1,CINE: AXN SD
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/134672.ts
+#EXTINF:-1,CINE: TNT  MX SD
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/134706.ts
+#EXTINF:-1,CINE: De Pelicula Plus SD
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/135785.ts
+#EXTINF:-1,CINE: A&E MX
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/138125.ts
+#EXTINF:-1,CINE: AXN MX STD
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/138126.ts
+#EXTINF:-1,CINE: CINECANAL STD
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/138127.ts
+#EXTINF:-1,CINE: DE PELICULA MX
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/138187.ts
+#EXTINF:-1,CINE: FILM & ARTS
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/138260.ts
+#EXTINF:-1,CINE: LIFETIME SD
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/138262.ts
+#EXTINF:-1,CINE: STAR CHANNEL
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/138266.ts
+#EXTINF:-1,CINE: STAR CINEMA MX
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/138268.ts
+#EXTINF:-1,CINE: STAR Channel 2
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/138269.ts
+#EXTINF:-1,CINE: FILMEX CLÁSICO MX HD®
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/140821.ts
+#EXTINF:-1,CINE: UNIVERSAL CRIME MX SD
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/141554.ts
+#EXTINF:-1,CINE: CINE LATINO SD
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/144827.ts
+#EXTINF:-1,CINE: STARZ KIDS AND FAMILY (Esp)
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/148541.ts
+#EXTINF:-1,CINE: AXN MX UHD®
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/3602.ts
+#EXTINF:-1,CINE: A3 SERIES UHD
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/3698.ts
+#EXTINF:-1,CINE: AXN HD (5MB)
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/3704.ts
+#EXTINF:-1,CINE: Az Cinema MX UHD®
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/3706.ts
+#EXTINF:-1,CINE: CINECANAL HD
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/3724.ts
+#EXTINF:-1,CINE: CINEMAX HD
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/3725.ts
+#EXTINF:-1,CINE: DE PELICULA MX UHD
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/3729.ts
+#EXTINF:-1,CINE: DE PELICULA + UHD
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/3730.ts
+#EXTINF:-1,CINE: FILM&ARTS HD
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/3745.ts
+#EXTINF:-1,CINE: UNIVERSAL REALITY MX UHD
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/3750.ts
+#EXTINF:-1,CINE: Smithsonian Channel HD
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/3751.ts
+#EXTINF:-1,CINE: STAR HD
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/3752.ts
+#EXTINF:-1,CINE: LIFETIME HQ
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/3753.ts
+#EXTINF:-1,CINE: UNIVERSAL PREMIER UHD
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/3754.ts
+#EXTINF:-1,CINE: UNIVERSAL PREMIER HD
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/3756.ts
+#EXTINF:-1,CINE: UNIVERSAL CINEMA UHD
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/3757.ts
+#EXTINF:-1,CINE: UNIVERSAL CRIME UHD
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/3758.ts
+#EXTINF:-1,CINE: Golden Plus MX UHD®
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/3763.ts
+#EXTINF:-1,CINE: STUDIO UNIVERSAL HD
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/3793.ts
+#EXTINF:-1,CINE: A&E MX UHD®
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/7965.ts
+#EXTINF:-1,CINE: AMC MX UHD®
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/7966.ts
+#EXTINF:-1,CINE: PARAMOUNT NETWORK MX HD®
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/7967.ts
+#EXTINF:-1,CINE: HBO MUNDI UHD
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/7968.ts
+#EXTINF:-1,CINE: HBO POP UHD
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/7969.ts
+#EXTINF:-1,CINE: HBO SIGNATURE UHD
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/7970.ts
+#EXTINF:-1,CINE: HBO XTREME HD
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/7971.ts
+#EXTINF:-1,CINE: CINECANAL HD (5MB)
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/7972.ts
+#EXTINF:-1,CINE: CINE CLASICO BOM HD
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/7973.ts
+#EXTINF:-1,CINE: HBO XTREME HD (5MB)
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/7975.ts
+#EXTINF:-1,CINE: FILM&ARTS HD (5MB)
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/7976.ts
+#EXTINF:-1,CINE: GOLDEN UHD
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/7977.ts
+#EXTINF:-1,CINE: SYFY UHD
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/7978.ts
+#EXTINF:-1,CINE: STUDIO UNIVERSAL HD (5MB)
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/7979.ts
+#EXTINF:-1,CINE: UNIVERSAL CHANNEL MX UHD®
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/7980.ts
+#EXTINF:-1,CINE: WARNER CHANNEL UHD
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/7981.ts
+#EXTINF:-1,CINE: SPACE MX UHD®
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/7982.ts
+#EXTINF:-1,CINE: HBO UHD
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/7983.ts
+#EXTINF:-1,CINE: HBO FAMILY HD
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/7984.ts
+#EXTINF:-1,CINE: HBO MUNDI UHD
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/7985.ts
+#EXTINF:-1,CINE: HBO PLUS UHD
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/7986.ts
+#EXTINF:-1,CINE: DISCOVERY THEATER UHD
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/7987.ts
+#EXTINF:-1,CINE: EUROPA EUROPA MX UHD®
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/7988.ts
+#EXTINF:-1,CINE: CINEMAX HD (5MB)
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/7989.ts
+#EXTINF:-1,CINE: UNIVERSAL REALITY (5MB)
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/7990.ts
+#EXTINF:-1,CINE: STAR CHANNEL UHD
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/7991.ts
+#EXTINF:-1,CINE: STAR COMEDY HD (5MB)
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/7993.ts
+#EXTINF:-1,CINE: STAR FAMILY UHD
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/7994.ts
+#EXTINF:-1,CINE: SONY MX UHD®
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/7997.ts
+#EXTINF:-1,CINE: GOLDEN MX UHD®
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/7998.ts
+#EXTINF:-1,CINE: TNT SERIES MX UHD®
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/7999.ts
+#EXTINF:-1,CINE: FXM MX UHD®
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/136486.ts
+#EXTINF:-1,CINE: TNT MX HD
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/138044.ts
+#EXTINF:-1,CINE: AMC HD (5MB)
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/138047.ts
+#EXTINF:-1,CINE: STAR CHANNEL HD (5MB)
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/138098.ts
+#EXTINF:-1,CINE: MOVISTAR SERIES HD (5MB)
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/138101.ts
+#EXTINF:-1,CINE: A&E HD (5MB)
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/138105.ts
+#EXTINF:-1,CINE: SONY HD (5MB)
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/138106.ts
+#EXTINF:-1,CINE: TCM HD
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/149293.ts
+#EXTINF:-1,CINE: AXN UHD
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/150070.ts
+#EXTINF:-1,CINE: UNIVERSAL REALITY UHD
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/150071.ts
+#EXTINF:-1,CINE: UNIVERSAL PREMIERE (MX) UHD
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/150072.ts
+#EXTINF:-1,CINE: UNIVERSAL TV UHD
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/150073.ts
+#EXTINF:-1,CINE: UNIVERSAL CINEMA UHD
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/150074.ts
+#EXTINF:-1,CINE: UNIVERSAL CRIME UHD
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/150075.ts
+#EXTINF:-1,CINE: UNIVERSAL COMEDY UHD
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/150076.ts
+#EXTINF:-1,CINE: HBO UHD
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/150077.ts
+#EXTINF:-1,CINE: HBO 2 UHD
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/150078.ts
+#EXTINF:-1,CINE: HBO FAMILY UHD
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/150079.ts
+#EXTINF:-1,CINE: HBO PLUS UHD
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/150080.ts
+#EXTINF:-1,CINE: HBO MUNDI UHD
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/150082.ts
+#EXTINF:-1,CINE: HBO POP UHD
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/150083.ts
+#EXTINF:-1,CINE: HBO XTREME UHD
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/150084.ts
+#EXTINF:-1,CINE: STARZ ENCORE FAMILY UHD
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/150085.ts
+#EXTINF:-1,CINE: STARZ ENCORE WEST UHD
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/150086.ts
+#EXTINF:-1,CINE: STAR CHANNEL UHD
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/150087.ts
+#EXTINF:-1,CINE: STAR CHANNEL (MX) UHD
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/150088.ts
+#EXTINF:-1,CINE: AMC MX UHD
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/150090.ts
+#EXTINF:-1,CINE: AMC UHD
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/150091.ts
+#EXTINF:-1,CINE: CINECANAL UHD
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/150092.ts
+#EXTINF:-1,CINE: CINECANAL MX UHD
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/150093.ts
+#EXTINF:-1,CINE: CINEMAX MX UHD
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/150094.ts
+#EXTINF:-1,CINE: CINEMAX UHD
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/150095.ts
+#EXTINF:-1,CINE: CINEMAX ACTION UHD
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/150096.ts
+#EXTINF:-1,CINE: DE PELICULA  UHD
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/150097.ts
+#EXTINF:-1,CINE: FILM&ARTS UHD
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/150098.ts
+#EXTINF:-1,CINE: GOLDEN UHD
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/150099.ts
+#EXTINF:-1,CINE: GOLDEN EDGE UHD
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/150100.ts
+#EXTINF:-1,CINE: GOLDEN PLUS UHD
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/150101.ts
+#EXTINF:-1,CINE: GOLDEN PREMIER UHD
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/150102.ts
+#EXTINF:-1,CINE: AMC UHD
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/150103.ts
+#EXTINF:-1,CINE: AMC MX UHD
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/150104.ts
+#EXTINF:-1,CINE: SYFY MX UHD
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/150105.ts
+#EXTINF:-1,CINE: WARNER CHANNEL UHD
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/150106.ts
+#EXTINF:-1,CINE: WARNER CHANNEL MX UHD
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/150107.ts
+#EXTINF:-1,CINE: SPACE UHD
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/150108.ts
+#EXTINF:-1,CINE: SPACE MX UHD
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/150109.ts
+#EXTINF:-1,CINE: SPACE MX2 UHD
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/150110.ts
+#EXTINF:-1,CINE: PARAMOUNT NETWORK MX HD
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/150111.ts
+#EXTINF:-1,CINE: SONY  UHD
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/150112.ts
+#EXTINF:-1,CINE: SONY MX UHD
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/150113.ts
+#EXTINF:-1,CINE: TNT UHD
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/150114.ts
+#EXTINF:-1,CINE: TNT MX UHD
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/150115.ts
+#EXTINF:-1,CINE: TNT SERIES UHD
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/150116.ts
+#EXTINF:-1,CINE: TNT SERIES  MX UHD
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/150117.ts
+#EXTINF:-1,CINE: TCM UHD
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/150119.ts
+#EXTINF:-1,CINE: TCM MX UHD
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/150120.ts
+#EXTINF:-1,CINE: FX  UHD
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/150121.ts
+#EXTINF:-1,CINE: FX MX UHD
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/150122.ts
+#EXTINF:-1,CINE: COMEDY CENTRAL
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/150323.ts
+#EXTINF:-1,CINE: COMEDY CENTRAL MX
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/150324.ts
+#EXTINF:-1,CINE: DISTRITO COMEDIA MX
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/150325.ts
+#EXTINF:-1,CINE: UNIVERSAL COMEDY UHD
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/153454.ts
+#EXTINF:-1,CINE: CINE TOP UHD
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/153564.ts
+#EXTINF:-1,CINE: DHE HD
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/153595.ts
+#EXTINF:-1,CINE: LIFETIME HD
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/154828.ts
+#EXTINF:-1,CINE: LIFETIME HD
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/154829.ts
+#EXTINF:-1,CINE: CINE DINAMITA
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/155201.ts
+#EXTINF:-1,CINE: CINE LATINO
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/155202.ts
+#EXTINF:-1,CINE: UNIVERSAL PREMIER
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/155203.ts
+#EXTINF:-1,CINE: LIFETIME HD
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/155401.ts
+#EXTINF:-1,CINE: TBS UHD
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/155879.ts
+#EXTINF:-1,CINE: BITME UHD
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/155964.ts
+#EXTINF:-1,CINE: STUDIO UNIVERSAL
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/157470.ts
+#EXTINF:-1,CINE: UNIVERSAL CINEMA HD
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/158530.ts
+#EXTINF:-1,CINE: UNIVERSAL REALITY (HVEC)
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/158528.ts
+#EXTINF:-1,CINE: UNIVERSAL CRIME (HD)
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/158526.ts
+#EXTINF:-1,CINE: UNIVERSAL PREMIERE (ᴴ.²⁶⁵)
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/158525.ts
+#EXTINF:-1,CINE: MY TIME LATINO UHD
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/162072.ts
+#EXTINF:-1,CINE: CINE ESTRELLA TV UHD®
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/183060.ts
+#EXTINF:-1,Cᴜʟᴛᴜʀᴀ | NAT GEO WILD UHD
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/2012.ts
+#EXTINF:-1,Cᴜʟᴛᴜʀᴀ | NAT GEO MUNDO UHD
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/2013.ts
+#EXTINF:-1,Cᴜʟᴛᴜʀᴀ | NATIONAL GEOGRAPHIC (ARG)
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/2014.ts
+#EXTINF:-1,Cᴜʟᴛᴜʀᴀ | NATIONAL GEOGRAPHIC (MX)
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/2015.ts
+#EXTINF:-1,Cᴜʟᴛᴜʀᴀ | DISCOVERY CHANNEL (MX)
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/2020.ts
+#EXTINF:-1,Cᴜʟᴛᴜʀᴀ | DISCOVERY CHANNEL (ARG)
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/2024.ts
+#EXTINF:-1,Cᴜʟᴛᴜʀᴀ |  DISCOVERY HOME & HEALTH UHD®
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/2025.ts
+#EXTINF:-1,Cᴜʟᴛᴜʀᴀ |  DISCOVERY HOME & HEALTH MX UHD®
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/2026.ts
+#EXTINF:-1,Cᴜʟᴛᴜʀᴀ | DISCOVERY FAMILIA UHD
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/2029.ts
+#EXTINF:-1,Cᴜʟᴛᴜʀᴀ | DISCOVERY THEATER UHD®
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/2032.ts
+#EXTINF:-1,Cᴜʟᴛᴜʀᴀ | DISCOVERY INVESTIGATION MX  UHD
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/3605.ts
+#EXTINF:-1,Cᴜʟᴛᴜʀᴀ | DISCOVERY WORLD MX UHD®
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/3606.ts
+#EXTINF:-1,Cᴜʟᴛᴜʀᴀ | DISCOVERY TURBO UHD
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/3702.ts
+#EXTINF:-1,Cᴜʟᴛᴜʀᴀ | DISCOVERY SCIENCE UHD
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/3713.ts
+#EXTINF:-1,Cᴜʟᴛᴜʀᴀ | DISCOVERY TLC UHD
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/3741.ts
+#EXTINF:-1,Cᴜʟᴛᴜʀᴀ | FOOD NETWORK MX UHD®
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/3746.ts
+#EXTINF:-1,Cᴜʟᴛᴜʀᴀ | HISTORY CHANNEL UHD
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/3764.ts
+#EXTINF:-1,Cᴜʟᴛᴜʀᴀ | HISTORY CHANNEL UHD
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/3768.ts
+#EXTINF:-1,Cᴜʟᴛᴜʀᴀ | HISTORY CHANNEL 2 UHD
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/3778.ts
+#EXTINF:-1,Cᴜʟᴛᴜʀᴀ | HISTORY CHANNEL SUR UHD
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/132332.ts
+#EXTINF:-1,Cᴜʟᴛᴜʀᴀ | GARAGE TV MX UHD
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/136487.ts
+#EXTINF:-1,Cᴜʟᴛᴜʀᴀ | HOLA TV MX UHD®
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/140819.ts
+#EXTINF:-1,Cᴜʟᴛᴜʀᴀ | HGTV UHD
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/149648.ts
+#EXTINF:-1,Cᴜʟᴛᴜʀᴀ | SMITHSONIAN CHANNEL HD
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/149649.ts
+#EXTINF:-1,Cᴜʟᴛᴜʀᴀ | LOVE NATURE MX 4K
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/150269.ts
+#EXTINF:-1,Cᴜʟᴛᴜʀᴀ | DISCOVERY HOME & HEALTH
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/153597.ts
+#EXTINF:-1,Cᴜʟᴛᴜʀᴀ | ANIMAL PLANET UHD
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/153674.ts
+#EXTINF:-1,Cᴜʟᴛᴜʀᴀ | EL GOURMET MX UHD®
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/155204.ts
+#EXTINF:-1,Cᴜʟᴛᴜʀᴀ | E! ENTERTAINMENT UHD
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/155962.ts
+#EXTINF:-1,Cᴜʟᴛᴜʀᴀ | TRUTV UHD
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/155963.ts
+#EXTINF:-1,Cᴜʟᴛᴜʀᴀ | MAS CHIC UHD
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/155965.ts
+#EXTINF:-1,Cᴜʟᴛᴜʀᴀ | TASTEMADE HD
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/155986.ts
+#EXTINF:-1,Cᴜʟᴛᴜʀᴀ | MEGA TV MIAMI
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/156068.ts
+#EXTINF:-1,Cᴜʟᴛᴜʀᴀ | MIAMI TV UHD
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/156069.ts
+#EXTINF:-1,Cᴜʟᴛᴜʀᴀ | SUN CHANNEL UHD
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/162379.ts
+#EXTINF:-1,Nᵒᵛᵉˡᵃˢ Hᴰ | TLNOVELAS
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/3798.ts
+#EXTINF:-1,Nᵒᵛᵉˡᵃˢ Hᴰ | TELENOVELAS SONY
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/2050.ts
+#EXTINF:-1,Nᵒᵛᵉˡᵃˢ Hᴰ | TELENOVELAS
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/8015.ts
+#EXTINF:-1,Nᵒᵛᵉˡᵃˢ Hᴰ | RCN NOVELAS
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/4896.ts
+#EXTINF:-1,Nᵒᵛᵉˡᵃˢ Hᴰ | TELENOVELAS
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/3678.ts
+#EXTINF:-1,Nᵒᵛᵉˡᵃˢ Hᴰ | UNIV. TELENOVELAS
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/126910.ts
+#EXTINF:-1,Nᵒᵛᵉˡᵃˢ Hᴰ | RCN NOVELAS
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/129383.ts
+#EXTINF:-1,Nᵒᵛᵉˡᵃˢ Hᴰ | TELENOVELAS USA
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/131156.ts
+#EXTINF:-1,Nᵒᵛᵉˡᵃˢ Hᴰ | UNIVISION TELENOVELAS
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/140866.ts
+#EXTINF:-1,Nᵒᵛᵉˡᵃˢ Hᴰ | TELENOVELAS DE ORO
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/150865.ts
+#EXTINF:-1,Nᵒᵛᵉˡᵃˢ Hᴰ | TELENOVELAS TELEMUNDO
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/150866.ts
+#EXTINF:-1,Nᵒᵛᵉˡᵃˢ Hᴰ | TELENOVELAS ÉXITOS
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/151067.ts
+#EXTINF:-1,Nᵒᵛᵉˡᵃˢ Hᴰ | KANAL D DRAMA
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/152801.ts
+#EXTINF:-1,Nᵒᵛᵉˡᵃˢ Hᴰ | PASIONES
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/156061.ts
+#EXTINF:-1,Nᵒᵛᵉˡᵃˢ Hᴰ | NOVELISIMA
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/160400.ts
+#EXTINF:-1,Nᵒᵛᵉˡᵃˢ Hᴰ | TODO NOVELAS HD
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/161861.ts
+#EXTINF:-1,Nᵒᵛᵉˡᵃˢ Hᴰ | TELEVISA NOVELAS MX HD
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/161862.ts
+#EXTINF:-1,Nᵒᵛᵉˡᵃˢ Hᴰ | NOVELAS SEO 3 TV
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/161863.ts
+#EXTINF:-1,Nᵒᵛᵉˡᵃˢ Hᴰ | TNT NOVELAS Fᴴᴰ
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/162246.ts
+#EXTINF:-1,Nᵒᵛᵉˡᵃˢ Hᴰ |  NOVELAS TELEVISA EUROPA
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/162265.ts
+#EXTINF:-1,Nᵒᵛᵉˡᵃˢ Hᴰ | TNT NOVELAS
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/162944.ts
+#EXTINF:-1,Nᵒᵛᵉˡᵃˢ Hᴰ | TLNOVELAS Televisa Europa
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/166394.ts
+
+
+
+
+
+#EXTM3U
+#EXTINF:-1,Space 2 HD
+http://38.41.8.1:8000/play/a00a
+#EXTINF:-1,A&E HD
+http://38.41.8.1:8000/play/a006
+#EXTINF:-1,AMC 1
+http://38.41.8.1:8000/play/a01s
+#EXTINF:-1,AXN 1 HD
+http://38.41.8.1:8000/play/a009
+#EXTINF:-1,HBO Pop
+http://38.41.8.1:8000/play/a00d
+#EXTINF:-1,FX HD
+http://38.41.8.1:8000/play/a01h
+#EXTINF:-1,Animal Planet HD
+http://38.41.8.1:8000/play/a023
+#EXTINF:-1,Cinecanal 1 HD
+http://38.41.8.1:8000/play/a01r
+#EXTINF:-1,Cinecanal 2 HD
+http://38.41.8.1:8000/play/a00y
+#EXTINF:-1,Discovery Channel
+http://38.41.8.1:8000/play/a07l
+#EXTINF:-1,Discovery H&H HD
+http://38.41.8.1:8000/play/a017
+#EXTINF:-1,Discovery Theater HD
+http://38.41.8.1:8000/play/a018
+#EXTINF:-1,History Channel HD
+http://38.41.8.1:8000/play/a005
+#EXTINF:-1,Nat Geo HD
+http://38.41.8.1:8000/play/a01p
+#EXTINF:-1,STAR CHANNEL HD 1
+http://38.41.8.1:8000/play/a019
+#EXTINF:-1,STAR CHANNEL HD 2
+http://38.41.8.1:8000/play/a02s
+#EXTINF:-1,Studio Universal HD
+http://38.41.8.1:8000/play/a01y
+#EXTINF:-1,#EXTINF:-1 tvg-id="UNIVERSAL CHANNEL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/1280px-Universal_TV_logo.svg.png" group-title="UNIVERSAL CHANNEL HD
+http://38.41.8.1:8000/play/a01a
+#EXTINF:-1,Sun Channel HD
+http://38.41.8.1:8000/play/a015
+#EXTINF:-1,SyFy
+http://38.41.8.1:8000/play/a057
+#EXTINF:-1,TBS
+http://38.41.8.1:8000/play/a074
+#EXTINF:-1,TCM
+http://38.41.8.1:8000/play/a04x
+#EXTINF:-1,TNT HD
+http://38.41.8.1:8000/play/a00s
+#EXTINF:-1,Warner Channel HD
+http://38.41.8.1:8000/play/a008
+#EXTINF:-1,Fashion tv[800x453]
+http://lb.streaming.sk/fashiontv/stream/chunklist_w1702070444.m3u8
+#EXTINF:-1,Fashion tv 1[800x453]
+http://80.94.54.42/fashiontv/stream/playlist.m3u8
+#EXTINF:-1,Chilevision
+https://jireh-1-hls-video-cl-claro.dps.live/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/chvn/chvn.smil/playlist.m3u8
+#EXTINF:-1,Canal 13 Deporte
+https://origin.dpsgo.com/ssai/event/uFiYkh4CQPCPgbs7WPKhXw/master.m3u8
+#EXTINF:-1,Holvoet tv
+http://unlimited1-cl-isp.dps.live/holvoettv/holvoettv.smil/playlist.m3u8
+#EXTINF:-1,Nativa
+https://oneplay.iptvperu.tv:1936/static/nativa1.stream/playlist.m3u8
+#EXTINF:-1,Canal 9 bío-bío
+https://unlimited6-cl.dps.live/c9/c9.smil/playlist.m3u8
+#EXTINF:-1,DW (español)
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
+#EXTINF:-1,RT (español)
+https://rt-esp.rttv.com/dvr/rtesp/playlist.m3u8
+#EXTINF:-1,Dramas coreanos (pluto tv)
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6185a9a88b2ce30007de5128/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PS
+#EXTINF:-1,CGTN
+https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
+#EXTINF:-1,11 de Septiembre La hora cero
+http://archive.org/download/kfjchjdxjfjxjx0kfjchjdxjfjxjx1kfjchjdxjfjxjx/kfjchjdxjfjxjx0kfjchjdxjfjxjx5kfjchjdxjfjxjx.mp4
+#EXTINF:-1,95 Mundos
+http://archive.org/download/jcbdkfjbfhfdncn0jcbdkfjbfhfdncn1jcbdkfjbfhfdncn/jcbdkfjbfhfdncn0jcbdkfjbfhfdncn1jcbdkfjbfhfdncn.mp4
+#EXTINF:-1,A la conquista del congreso (2019)
+http://archive.org/download/mogaman_poke_live_1/5tr34m1ngW11/P/AOC.mkv
+#EXTINF:-1,Así se hizo La Tierra (2009)
+http://archive.org/download/jcbdkfjbfhfdncn0jcbdkfjbfhfdncn1jcbdkfjbfhfdncn/jcbdkfjbfhfdncn0jcbdkfjbfhfdncn9jcbdkfjbfhfdncn.mp4
+#EXTINF:-1,Como inicio la segunda guerra mundial
+http://archive.org/download/kfjchjdxjfjxjx0kfjchjdxjfjxjx1kfjchjdxjfjxjx/kfjchjdxjfjxjx0kfjchjdxjfjxjx7kfjchjdxjfjxjx.mp4
+#EXTINF:-1,Congo salvaje: río de Monstruos
+http://archive.org/download/jcbdkfjbfhfdncn0jcbdkfjbfhfdncn1jcbdkfjbfhfdncn/jcbdkfjbfhfdncn0jcbdkfjbfhfdncn2jcbdkfjbfhfdncn.mp4
+#EXTINF:-1,El territorio de la manada
+http://archive.org/download/jcbdkfjbfhfdncn0jcbdkfjbfhfdncn1jcbdkfjbfhfdncn/jcbdkfjbfhfdncn0jcbdkfjbfhfdncn7jcbdkfjbfhfdncn.mp4
+#EXTINF:-1,El valle de los elefantes
+http://archive.org/download/jcbdkfjbfhfdncn0jcbdkfjbfhfdncn1jcbdkfjbfhfdncn/jcbdkfjbfhfdncn0jcbdkfjbfhfdncn5jcbdkfjbfhfdncn.mp4
+#EXTINF:-1,Hasta Plutón y más allá
+http://archive.org/download/jcbdkfjbfhfdncn0jcbdkfjbfhfdncn1jcbdkfjbfhfdncn/jcbdkfjbfhfdncn0jcbdkfjbfhfdncn4jcbdkfjbfhfdncn.mp4
+#EXTINF:-1,Hiroshima tras la bomba atómica
+http://archive.org/download/kfjchjdxjfjxjx0kfjchjdxjfjxjx1kfjchjdxjfjxjx/kfjchjdxjfjxjx0kfjchjdxjfjxjx6kfjchjdxjfjxjx.mp4
+#EXTINF:-1,La Red salvaje
+http://archive.org/download/jcbdkfjbfhfdncn0jcbdkfjbfhfdncn1jcbdkfjbfhfdncn/jcbdkfjbfhfdncn0jcbdkfjbfhfdncn6jcbdkfjbfhfdncn.mp4
+#EXTINF:-1,La segunda guerra mundial desde el espacio
+http://archive.org/download/kfjchjdxjfjxjx0kfjchjdxjfjxjx1kfjchjdxjfjxjx/kfjchjdxjfjxjx0kfjchjdxjfjxjx8kfjchjdxjfjxjx.mp4
+#EXTINF:-1,Las últimas horas de Kennedy
+http://archive.org/download/kfjchjdxjfjxjx0kfjchjdxjfjxjx1kfjchjdxjfjxjx/kfjchjdxjfjxjx0kfjchjdxjfjxjx9kfjchjdxjfjxjx.mp4
+#EXTINF:-1,Neptuno y Urano
+http://archive.org/download/jcbdkfjbfhfdncn0jcbdkfjbfhfdncn1jcbdkfjbfhfdncn/jcbdkfjbfhfdncn0jcbdkfjbfhfdncn3jcbdkfjbfhfdncn.mp4
+#EXTINF:-1,Nuestro planeta
+http://archive.org/download/jcbdkfjbfhfdncn0jcbdkfjbfhfdncn1jcbdkfjbfhfdncn/jcbdkfjbfhfdncn1jcbdkfjbfhfdncn0jcbdkfjbfhfdncn.mp4
+#EXTINF:-1,Tiburones
+http://pastebin.com/raw/gP8gY1M4
+#EXTINF:-1,Viaje a los límites del universo
+http://archive.org/download/jcbdkfjbfhfdncn0jcbdkfjbfhfdncn1jcbdkfjbfhfdncn/jcbdkfjbfhfdncn1jcbdkfjbfhfdncn1jcbdkfjbfhfdncn.mp4
+#EXTINF:-1,Vida y muerte en la sabana
+http://archive.org/download/jcbdkfjbfhfdncn0jcbdkfjbfhfdncn1jcbdkfjbfhfdncn/jcbdkfjbfhfdncn0jcbdkfjbfhfdncn8jcbdkfjbfhfdncn.mp4
+#EXTINF:-1,#EXTM3U
+http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
+#EXTINF:-1,22.1 Canal 22
+https://5fc584f3f19c9.streamlock.net/canal22/videocanal22/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMS8yMDIxIDExOjQ2OjAzIFBNJmhhc2hfdmFsdWU9WmpCTERYMHh6UVVzcTJ0cmtNd25mQT09JnZhbGlkbWludXRlcz01JmlkPQ==
+#EXTINF:-1,22.2 Canal 22 +
+https://5fc584f3f19c9.streamlock.net/canal222/videocanal222/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMS8yMDIxIDExOjQ5OjA5IFBNJmhhc2hfdmFsdWU9dmZ0MEZRMTMwZ3J6V3hXNndXeDFIUT09JnZhbGlkbWludXRlcz01JmlkPQ==
+#EXTINF:-1,34.1 Mexiquense TV
+https://5e50264bd6766.streamlock.net/mexiquense/videomexiquense/playlist.m3u8
+#EXTINF:-1,34.1 Mexiquense TV op
+https://5e50264bd6766.streamlock.net/mexiquense/videomexiquense/chunklist_w376735839.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xMS8yMDIyIDQ6MDg6MTEgQU0maGFzaF92YWx1ZT1ySG13SHNrSE5yTWx5RWJYcTQvZkhRPT0mdmFsaWRtaW51dGVzPTUmaWQ9
+#EXTINF:-1,34.2 AMX Noticias
+https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
+#EXTINF:-1,40.1 ADN 40
+https://pubads.g.doubleclick.net/ssai/event/XZLLJIhJRNqz33DGp6NdkA/master.m3u8
+#EXTINF:-1,AGU: Presumiendo Mexico
+https://5ca39be538307.streamlock.net/telemetrika/smil:telemetrika.smil/playlist.m3u8
+#EXTINF:-1,AGU: Canal 26
+http://streamingcws10.com:1935/telemetrika3/videotelemetrika3/.m3u8
+#EXTINF:-1,CAM: TRC Television
+https://stream.oursnetworktv.com/latin/SRTC/playlist.m3u8
+#EXTINF:-1,CHP: Canal 10
+https://5ca9af4645e15.streamlock.net/chiapas/videochiapas/playlist.m3u8
+#EXTINF:-1,CHH: CANAL 44
+https://5e50264bd6766.streamlock.net/canal442/videocanal442/playlist.m3u8
+#EXTINF:-1,CMX: Efekto TV
+https://cdn.jwplayer.com/manifests/bez1terN.m3u8
+#EXTINF:-1,COA: 15TV Sabinas
+https://hls.gvstream.live/telesistemas/15tv.stream/playlist.m3u8
+#EXTINF:-1,DUR: Canal 10 Durango
+http://204.12.193.98:1935/TvHD/canal10/playlist.m3u8
+#EXTINF:-1,DUR: TV Lobo Durango
+http://streamingcws20.com:1935/lobodurango/videolobodurango/playlist.m3u8
+#EXTINF:-1,GUA: TV Cuatro 4.2 Cultura
+https://5f2c1b0d880e5.streamlock.net/tv42/videotv42_720p/playlist.m3u8
+#EXTINF:-1,PUE: Canal 16.1
+https://5d0d1d7a6be9e.streamlock.net/envivo/puecom/playlist.m3u8
+#EXTINF:-1,PUE: Canal 16.2
+https://5d0d1d7a6be9e.streamlock.net/live/setpuebla/playlist.m3u8
+#EXTINF:-1,PUE: Canal 26.1
+http://189.240.210.28:1935/envivo/puecom/chunklist_w166335976.m3u8
+#EXTINF:-1,PUE: Canal 26.2
+http://189.240.210.28:1935/envivo/puecom/chunklist_w745561738.m3u8
+#EXTINF:-1,PUE: TV comunicaciones Puebla
+http://189.240.210.28:1935/envivo/puecom/playlist.m3u8
+#EXTINF:-1,ROO: SipseTv Cancun
+https://webprod.sipse.com.mx:8080/show/tvcun.m3u8
+#EXTINF:-1,ROO: Canal 10 Cancun
+http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
+#EXTINF:-1,SLP: Nueve TV
+https://5ca9af4645e15.streamlock.net/nuevetv/videonuevetv/chunklist_w2067160029.m3u8
+#EXTINF:-1,SIN: TVP Mazatlan
+https://5ca3e84a76d30.streamlock.net/gpacifico4/smil:mazatlan.smil/playlist.m3u8
+#EXTINF:-1,SIN: TVP Culiacan
+https://5ca3e84a76d30.streamlock.net/gpacifico1/smil:gpculiacan.smil/playlist.m3u8
+#EXTINF:-1,SIN: TVP Los Mochis
+https://5ca3e84a76d30.streamlock.net/gpacifico2/smil:mochis.smil/playlist.m3u8
+#EXTINF:-1,SON: TVP Cd. Obregon
+https://5ca3e84a76d30.streamlock.net/gpacifico3/smil:obregon.smil/chunklist_w1903526755_b1428000_sleng.m3u8
+#EXTINF:-1,SON: Telemax Sonora
+http://s5.mexside.net:1935/telemax/telemax/chunklist_w586584359.m3u8
+#EXTINF:-1,TLA: Tlaxcala Television
+https://vid.mega00.com:5443/LiveApp/streams/928111829917388844551988/928111829917388844551988.m3u8
+#EXTINF:-1,VER: TVMAS Veracruz
+https://5ca9af4645e15.streamlock.net/rtv/videortv/playlist.m3u8
+#EXTINF:-1,ZAC: Canal 24 Zacatecas
+https://5ca9af4645e15.streamlock.net/zacatecas/videozacatecas/playlist.m3u8
+#EXTINF:-1,Radio ILCE | México
+http://radio.ilce.edu.mx:8000/radioilce.mp3
+#EXTINF:-1,Energeek Radio TV op | Chile
+https://stream.wifiexpert.cl/energeek/radio/playlist.m3u8
+#EXTINF:-1,Dreiko TV | Panamá
+https://cloudvideo.servers10.com:8081/8138/index.m3u8
+#EXTINF:-1,Frecuencia Musical Tv | USA
+https://s2.tvdatta.com:3307/hybrid/play.m3u8
+#EXTINF:-1,Geekdot TV | Brasil
+https://stream.ichibantv.com:3764/hybrid/play.m3u8
+#EXTINF:-1,Mi TV Television Clasica | Estados Unidos
+https://mitv.getstreamhosting.com:30443/live/livestream123/chunks.m3u8
+#EXTINF:-1,Sicardi TV
+https://vivo.solumedia.com:19360/sicarditv/sicarditv.m3u8
+#EXTINF:-1,Tigueritos TV | Republica Dominicana
+https://ss9.domint.net:3012/ttv_str/%20tigueritotv/playlist.m3u8
+#EXTINF:-1,TVS Retro | Guatemala
+https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
+#EXTINF:-1,Voice Over RTV | Costa Rica
+https://cloudvideo.servers10.com:8081/8198/index.m3u8
+#EXTINF:-1,Chiquilines | USA
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-chiquilines-ono/playlist.m3u8
+#EXTINF:-1,NTV | Chile
+https://marine2.miplay.cl/ntv/playlist.m3u8
+#EXTINF:-1,PBS Kids (Inglés) | Estados Unidos
+https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
+#EXTINF:-1,Pequeradio | Spain
+https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
+#EXTINF:-1,Toon Googles (espanol) | Estados Unidos
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=514
+#EXTINF:-1,Toon Googles (Inglés) | Estados Unidos
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=37&live=1&app_bundle=com.plexapp.desktop&did=df8e1a36-847d-5096-86a7-3803ed330ede&app_domain=app.plex.tv&app_name=plex&h=691&w=1224&content_title=MorUy57ijWhGe4ixZb_T&content_series=5eea605574085f0040ddc794&custom4=plex&gdpr=1&device_make=Windows&device_model=Firefox&coppa=1&us_privacy=1---
+#EXTINF:-1,Toon Googles Jr. (Inglés) | Estados Unidos
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=36&live=1&app_bundle=com.plexapp.desktop&did=df8e1a36-847d-5096-86a7-3803ed330ede&app_domain=app.plex.tv&app_name=plex&h=691&w=1224&content_title=MorUy57ijWhGe4ixZb_T&content_series=5f123330eca6a20040b328e8&custom4=plex&gdpr=1&device_make=Windows&device_model=Firefox&coppa=1&us_privacy=1---
+#EXTINF:-1,Zaz TV | Mexico
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=2701&live=1&avod=1&cb=[CACHEBUSTER]&app_bundle=[APP_BUNDLE]&app_name=[APP_NAME]&app_domain=[APP_DOMAIN]&app_version=[APP_VERSION]&app_category=[APP_CATEGORY]&app_store_url=[APP_STORE_URL]&hls_marker=1&pod_duration=[POD_DURATION]&ua=[%UA%]&ip=[IP]&min_ad_duration=6&max_ad_duration=120?is_lat=[LIMITED_AD_TRACKING]&player_width=[WIDTH]&player_height=[HEIGHT]&ua=[%UA%]&ip=[IP]&cb=[CACHEBUSTER]&hls_marker=1&app_version=[APP_VERSION]&app_store_url=[APP_STORE_URL]&app_name=[APP_NAME]&app_domain=[APP_DOMAIN]&app_category=[APP_CATEGORY]&did=[DID]&app_bundle=[APP_BUNDLE]&network_id=2701&live=1&avod=1&stream_url=https%3A%2F%2Fb81ea6a237a99f732a8a56c17e6e1733.7wzuvg.channel-assembly.mediatailor.us-east-1.amazonaws.com%2Fv1%2Fchannel%2FZAZ_Linear%2Findex-zaz-linear.m3u8
+#EXTINF:-1,Anime Zone TV | República Dominicana
+http://animezonetv.net/hls/stream.m3u8
+#EXTINF:-1,Anime TV | Brasil
+https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
+#EXTINF:-1,Loading Brasil | Brasil
+https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
+#EXTINF:-1,Locomotion op2 | República Dominicana
+http://51.222.85.85:81/hls/loco/index.m3u8
+#EXTINF:-1,Wording TV HD | Brasil
+https://tv02.zas.media:1936/wordingtv/wordingtv/playlist.m3u8
+#EXTINF:-1,Bayres TV | Argentina
+https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
+#EXTINF:-1,Bjgtjme | Argentina
+https://76af1d7e277b46a58a41c188c3ea4117.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/Samsung-es_BjgtjmePeliculasGratis/playlist.m3u8
+#EXTINF:-1,Extrema TV | Costa Rica
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+#EXTINF:-1,Mega Cine Tv | Republica Dominicana
+https://cloudflare.streamgato.us:3125/live/megacinetvlive.m3u8
+#EXTINF:-1,MOOVIMEX | Mexico
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-viziomoovimex/CDN/playlist.m3u8
+#EXTINF:-1,My Time Movie | Mexico
+https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
+#EXTINF:-1,Orbit TV | Republica Dominicana
+https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8
+#EXTINF:-1,Wow Tv | El Salvador
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w84588335.m3u8
+#EXTINF:-1,Buin Somos Todos | Chile
+https://bst.buin.cl/0.m3u8
+#EXTINF:-1,Canal 4 San Juan | Argentina
+http://streamlov.alsolnet.com/canal4sanjuan/live/chunklist_w1603184235.m3u8
+#EXTINF:-1,Caracola TV | Chile
+https://wifispeed.trapemn.tv:1936/comunales/caracola-tv/playlist.m3u8
+#EXTINF:-1,Colome TV | NY
+https://ss5.domint.net:3170/cotv_str/colometv/chunklist_w793077443.m3u8
+#EXTINF:-1,Global TV | RD
+https://ss3.domint.net:3136/gtv_str/globalhd/playlist.m3u8
+#EXTINF:-1,Iquique Tv | Chile
+https://marine2.miplay.cl/arcatel/iquiquetv720/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Neo TV | Argentina
+https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
+#EXTINF:-1,NET TV | Argentina
+https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream2/chunks.m3u8
+#EXTINF:-1,Norte Informativo TV | Costa Rica
+https://videohd.live:19360/8076/8076.m3u8
+#EXTINF:-1,MLB Channel | PlutoTV
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e66968a70f34c0007d050be/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc97d882-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=f1832274-98b7-4765-ad8b-c533c4382008&userId=&serverSideAds=true
+#EXTINF:-1,RED BULL TV | Austria
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
+#EXTINF:-1,Teletrak | Chile
+http://unlimited6-cl.dps.live/sportinghd/sportinghd.smil/playlist.m3u8
+#EXTINF:-1,Viasat sport | Suecia
+http://persik.by/stream/2944/263250/10249.m3u8
+#EXTINF:-1,24h TVE | Spain
+https://rtvelivestreamv3.akamaized.net/24h/24h_main_dvr.m3u8
+#EXTINF:-1,CGTN en Espanol | China
+https://livees.cgtn.com/1000e/prog_index.m3u8
+#EXTINF:-1,CNN en Espanol | Estados Unidos
+https://turnerlive.akamaized.net/hls/live/2006634/cnnespanol/VIDEO_0_1964000.m3u8
+#EXTINF:-1,El Financiero Bloomberg | Mexico
+https://d19vc4shchm9pr.cloudfront.net/out/v1/a67ad47be66f4c3ea4a14c8f22984fa7/index.m3u8
+#EXTINF:-1,France 24 Espanol | Francia
+https://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8
+#EXTINF:-1,France 24 | Francia
+http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
+#EXTINF:-1,SKY News | Reino Unido
+https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8
+#EXTINF:-1,Fashion Tv | Francia
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist.m3u8
+#EXTINF:-1,Colosal TV | Costa Rica
+http://tv.ticosmedia.com:1935/COLOSAL/COLOSAL/playlist.m3u8
+#EXTINF:-1,FS1 | Austria
+http://stream.fs1.tv:8080/hls/webstream.m3u8
+#EXTINF:-1,KMK Radio TV | Costa Rica
+https://cloudvideo.servers10.com:8081/8120/index.m3u8
+#EXTINF:-1,RETRO MUSIC TV | Checoslovaquia
+http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
+#EXTINF:-1,Teleritmo | México
+http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
+#EXTINF:-1,Tu Musica HD | Latino
+https://cloudflare.streamgato.us:3735/live/tumusicahdlive.m3u8
+#EXTINF:-1,Radio Ranchito Morelia
+http://server.laradio.online:8157/live.mp3
+#EXTINF:-1,Radio La Grupera 93.1 Morelia
+http://www.tuasesorweb.com:8000/;stream/1
+#EXTINF:-1,Radio La Z Morelia
+http://srmx.ddns.net:8100/;
+#EXTINF:-1,Radio Kiss Morelia
+http://192.99.44.11:9861/stream/1/
+#EXTINF:-1,Radio 40 Principales Morelia
+http://s4.mexside.net:7040/;
+#EXTINF:-1,Radio Nicolaíta Morelia
+http://148.216.0.21:8000/rnic.m3u
+#EXTINF:-1,Radio Aguerrido Morelia
+https://srstreaming.com/proxy/guadalu1?mp=/stream&1609133961240
+#EXTINF:-1,Radio Maxima 100.9 fm Morelia
+http://omegaingenieria.com:8034/stream/1/
+#EXTINF:-1,Radio Candela 91.1 Uruapan
+http://167.114.116.223:3334/stream/1/streams.mp3
+#EXTINF:-1,Radio Los 40 Principales Uruapan
+http://5.79.86.14:8202/;stream.nsv
+#EXTINF:-1,Radio Comunitaria Jenpoj Mexico
+http://espora.org:8000/jenpojradio
+#EXTINF:-1,Radio Santa Ana - California
+http://s10.voscast.com:7688/;stream1575414865714/1
+#EXTINF:-1,Radio Exa Zamora
+http://live.exafmzamora.mx:55252/exafmzamora.mp3
+#EXTINF:-1,Radio La Candela 97.7 Zacapu
+http://s4.mexside.net:2094/;stream.nsv
+#EXTINF:-1,Radio Fantasia Zitacuaro
+http://162.212.56.146:8344/stream.mp3
+#EXTINF:-1,Radio Ranchito Guadalajara
+http://192.99.16.17:9870/;stream/1
+#EXTINF:-1,Radio La Ranchera de Monterrey
+http://streamingcwsradio20.com:9410/stream
+#EXTINF:-1,Radio Bonita Oaxaca
+http://node-19.zeno.fm/05g7pygka3quv?rj-ttl=5&rj-tok=AAABcjgJJpIAM_RurmDtn1qn5g
+#EXTINF:-1,Radio Colombia Bachata
+http://perseus.shoutca.st:8312/;stream/1
+#EXTINF:-1,Radio Viva El Mariachi
+http://node-03.zeno.fm/gs4xg5s0csmtv?rj-ttl=5&rj-tok=AAABeHBWouQA9m2GhtVlBW72EA
+#EXTINF:-1,Radio Banda Duranguense 93.3
+http://node-25.zeno.fm/ksykvw16avduv?rj-ttl=5&rj-tok=AAABeNiPueQAr80XAC6vekxRNQ
+#EXTINF:-1,Radio La Grupera MX
+https://centova.hostingelectrica.net/proxy/grupera12?mp=/stream
+#EXTINF:-1,Radio Merengue Tropicalisima
+http://23.237.150.178:8004/;?icy=http
+#EXTINF:-1,Radio Reggae Mix Station
+http://france1.coollabel-productions.com:8142/;
+#EXTINF:-1,Radio Rock Antenne Classic Perlen
+http://194.97.151.139/classic-perlen
+#EXTINF:-1,Radio Super Music FM
+http://node-09.zeno.fm:80/agdhpd11808uv
+#EXTINF:-1,Animax Radio
+http://node-13.zeno.fm:80/0guzsnntsnhvv
+#EXTINF:-1,Radio Michy Miau FM
+http://node-34.zeno.fm/s5494s8pta0uv?rj-ttl=5&rj-tok=AAABeMmnxIcAFJ64ThNbIiZ4sA
+#EXTINF:-1,Radio Voice Over Radio
+https://server1.streamingradio.online/proxy/voiceoverradio/stream
+#EXTINF:-1,Radio Pop
+http://node-15.zeno.fm/94abs07w82quv?rj-ttl=5&rj-tok=AAABdqgGbDsANLkFqNQ2h-p5IA
+#EXTINF:-1,CRONICAS DE NAVIDAD
+http://ia801502.us.archive.org/1/items/The.Predator.BRSf.Latino489498498494/Cr0nicaNav1dad.m1080p.Castellano64867489749486498.mp4
+#EXTINF:-1,Pluto TV Guía de canales
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e793a7cfbdf780007f7eb75/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1,Pluto TV Cine Clásico
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61373bb45168fe000773eecd/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1,Telemundo California
+https://d3i0aurg3nyoct.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-25zej4uwofrfd/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
+#EXTINF:-1,Telemundo Al Día
+https://d202koqm588atp.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched-publica/samsungtvplus_us_telemundoaldia_001.m3u8?ads.caid=TelemundoAlDia&ads.csid=samsungtvplus_us_telemundoaldia_ssai&ads.xumo_platform=samsung&ads._fw_is_lat=%7BTARGETOPT%7D&ads._fw_us_privacy=1YNY&ads._fw_coppa=0&ads._fw_did=%7BPSID%7D&ads._fw_content_category=IAB12&ads._fw_content_genre=news&ads._fw_content_language=es&ads._fw_content_rating=tv-g&ads._fw_deviceMake=samsung&ads._fw_gdpr=0&ads.appName=%7BAPP_NAME%7D&ads.xumo_contentId=2561&ads.xumo_contentName=TelemundoAlDia&ads.xumo_providerId=2561&ads.xumo_providerName=TelemundoAlDia&ads.xumo_channelId=9999544&ads.xumo_channelName=Telemundoaldia&ads.xumo_adsystem=mediatailor&ads.tpcl=MIDROLL&ads._fw_app_store_url=%7BAPP_DOMAIN%7D
+#EXTINF:-1,Estrella TV
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00567-estrellamedia-estrellatvsmsng-samsungus/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
+#EXTINF:-1,Estrella News
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/estrellaa-estrellanews-samsungus/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+#EXTINF:-1,Estrella Games
+https://dzvxsnyfypf89.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-capgn47t0bph3-ssai-prd/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
+#EXTINF:-1,Sony Canal Competencias
+https://db71bbef43434d4e9ff9d4a9b8f55bf0.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_SonyCanalCompetencias-1/playlist.m3u8?ads.wurl_channel=692&ads.wurl_name=SonyCanalCompetencias&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
+#EXTINF:-1,Sony Canal Novelas
+https://1d523b230b48436fa13d0bfa26aa9fb1.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_SonyCanalNovelas-1/playlist.m3u8?ads.wurl_channel=694&ads.wurl_name=SonyCanalNovelas-1&ads.coppa=0&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+#EXTINF:-1,Canela.TV
+https://d2134rcnlqol6j.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-b6l452oz4jqa1-ssai-prd/ctsa.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
+#EXTINF:-1,Cine Romantico
+https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_us_cineromantico_001.m3u8?ads.caid=CineRomantico&ads.csid=samsungtvplus_us_cineromantico_ssai&ads.xumo_platform=samsung&ads._fw_is_lat=%7BTARGETOPT%7D&ads._fw_us_privacy=1YNY&ads._fw_coppa=0&ads._fw_did=%7BPSID%7D&ads._fw_content_category=IAB1-7&ads._fw_content_genre=movies&ads._fw_content_language=en%2Ces%2Cfr&ads._fw_content_rating=pg-13&ads._fw_deviceMake=samsung&ads._fw_gdpr=0&ads.appName=%7BAPP_NAME%7D&ads.xumo_contentId=2068&ads.xumo_contentName=UpTVCineRomantico&ads.xumo_providerId=2068&ads.xumo_providerName=UpTVCineRomantico&ads.xumo_channelId=9999538&ads.xumo_adsystem=mediatailor&ads.tpcl=MIDROLL&ads._fw_app_store_url=%7BAPP_DOMAIN%7D
+#EXTINF:-1,Alacanti TV
+https://streaming01.gestec-video.com/hls/artequatreAlacanti.m3u8
+#EXTINF:-1,Canal Malaga
+http://canalmalaga-tv-live.flumotion.com/chunks.m3u8
+#EXTINF:-1,Cancionero TV
+http://89.140.229.5/hls1/cancionero.m3u8
+#EXTINF:-1,Elche 7 TV
+https://elche7tv.gestec-video.com/hls/canal2.m3u8
+#EXTINF:-1,Popular TV Cantabria
+https://limited12.todostreaming.es/live/ptvcantabria-livestream.m3u8
+#EXTINF:-1,Popular TV Melilla
+https://5940924978228.streamlock.net/8009/8009/chunklist_w1267857749.m3u8
+#EXTINF:-1,PTV Malaga HD
+https://streamer.zapitv.com/PTV-malaga/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Rakuten TV Cine Espanol
+https://1306133dcf0640fe9a264e1537bb9782.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/Samsung-es_Local/playlist.m3u8?ads.wurl_channel=794&ads.wurl_name=Local&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+#EXTINF:-1,Rakuten TV Familia
+http://rakuten-family-2-es.samsung.wurl.tv/3000.m3u8
+#EXTINF:-1,Solidaria tv Spain
+http://canadaremar2.todostreaming.es/live/solidariatv-webhd.m3u8
+#EXTINF:-1,TV Ferrol
+https://directo.tvferrol.es/tv.m3u8
+#EXTINF:-1,ATG (432p)
+https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free_3.m3u8
+#EXTINF:-1,Canal Motor (720p)
+http://digicom.hls.iptvdc.com/canalmotor/index.m3u8
+#EXTINF:-1,DD Sports (576p)
+http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8
+#EXTINF:-1,Fight Network (1080p)
+https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8
+#EXTINF:-1,fubo Sports Network (720p)
+https://dai2-xumo.fubo.tv/amagi_hls_data_xumo1212A-fubo/CDN/master.m3u8
+#EXTINF:-1,Glory Kickboxing (720p)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxglorykickboxing/CDN/playlist.m3u8
+#EXTINF:-1,Hard Knocks (1080p)
+https://d397e8970cd346fdac04c0af81290c3a.mediatailor.us-west-2.amazonaws.com/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Hard-Knocks-DistroTV/109.m3u8
+#EXTINF:-1,IMPACT! Wrestling (1080p)
+https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
+#EXTINF:-1,Nitro Circus (720p)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxnitrocircus/CDN/playlist.m3u8
+#EXTINF:-1,Pac 12 Insider (1080p)
+https://pac12-roku-us.amagi.tv/playlist.m3u8
+#EXTINF:-1,Players TV (1080p)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumo-playerstv/CDN/master.m3u8
+#EXTINF:-1,Red Bull TV (1080p)
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+#EXTINF:-1,Ski TV (1080p) [Not 24/7]
+https://d2xeo83q8fcni6.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/SkiTV-Zee/193.m3u8
+#EXTINF:-1,SportsGrid (1080p)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumosportsgrid/CDN/master.m3u8
+#EXTINF:-1,SportsGrid (1080p)
+https://sportsgrid-tribal.amagi.tv/playlist.m3u8
+#EXTINF:-1,Stadium (720p)
+https://dai2.xumo.com/amagi_hls_data_xumo1234A-stadiumsports/CDN/master.m3u8
+#EXTINF:-1,TDM Sports Macau (720p)
+http://live4.tdm.com.mo/ch4/_definst_/sport_ch4.live/playlist.m3u8
+#EXTINF:-1,Tennis Channel (720p)
+https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
+#EXTINF:-1,Trace Sport Stars (Australia) (1080p)
+https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1,Türkmenistan Sport (406p) [Not 24/7]
+http://217.174.225.146/hls/ch004_720/index.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.m3u8
+#EXTINF:-1,Wired2Fish (720p)
+https://linear-80.frequency.stream/dist/localnow/80/hls/master/playlist.m3u8
+#EXTINF:-1,TRC CAMPECHE
+https://stream.oursnetworktv.com/latin/SRTC/index.m3u8?
+#EXTINF:-1,Canal Del Congreso 45.1
+https://edgeplay.canaldelcongreso.gob.mx/live_hd1/smil:canal-hd1.smil/playlist.m3u8
+#EXTINF:-1,Canal Del Congreso 45.2
+https://edgeplay.canaldelcongreso.gob.mx/live_sd2/smil:canal-sd2.smil/playlist.m3u8
+#EXTINF:-1,CANAL 22
+https://5fc584f3f19c9.streamlock.net/canal22/smil:canal22.smil/playlist_1920x1080.m3u8?
+#EXTINF:-1,CANAL 22.2
+https://5fc584f3f19c9.streamlock.net/canal222/smil:canal222.smil/playlist_1920x1080.m3u8?
+#EXTINF:-1,MEXIQUENSE TELEVISIÓN 2
+https://5e50264bd6766.streamlock.net/mexiquense/videomexiquense/playlist.m3u8?
+#EXTINF:-1,CANAL 10 Y HERALDO Tv
+http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1,TV4.1 GUANAJUATO
+https://5f1af61612fb5.streamlock.net/tv4/smil:tv4.smil/playlist.m3u8
+#EXTINF:-1,TV4.2 GUANAJUATO
+https://5f2c1b0d880e5.streamlock.net/tv42/smil:tv42.smil/playlist.m3u8
+#EXTINF:-1,TV4.3 GUANAJUATO
+https://5f1af61612fb5.streamlock.net/tv43/smil:tv43.smil/playlist.m3u8
+#EXTINF:-1,CANAL 26 AGUASCALIENTES
+http://streamingcws10.com:1935/telemetrika3/videotelemetrika3/chunklist_w1756871323.m3u8
+#EXTINF:-1,MVS TV
+https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8
+#EXTINF:-1,OXIGENO
+https://vcp.myplaytv.com/oxigenotv/oxigenotv/.m3u8
+#EXTINF:-1,CIRCLE
+https://circle-roku.amagi.tv/playlist.m3u8
+#EXTINF:-1,VEVO 70's
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f32f26bcd8aea00071240e5/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c868321-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=1d158533-4c2c-4f85-8afd-5c0cbcdcb90a&userId=&serverSideAds=true
+#EXTINF:-1,VEVO 80'S
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fd7b8bf927e090007685853/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c8aa1d1-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=43501a2e-2968-4f0a-9974-5f5683f1f0db&userId=&serverSideAds=true
+#EXTINF:-1,VEVO 90's
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fd7bb1f86d94a000796e2c2/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c8aa1d2-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=350f636b-2a16-48a8-9dfd-208857d4c1a7&userId=&serverSideAds=true
+#EXTINF:-1,VEVO POP
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d93b635b43dd1a399b39eee/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c8068a2-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=f01ebfed-7ad5-4d03-b1ca-023870fcb436&userId=&serverSideAds=true
+#EXTINF:-1,VEVO 2K
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fd7bca3e0a4ee0007a38e8c/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c8b6520-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=085b69d0-8c20-45f3-b57d-7845972596d9&userId=&serverSideAds=true
+#EXTINF:-1,VEVO TRAP REGGAETON
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f32f397795b750007706448/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c868322-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=fc027a03-e512-45db-98af-879f6889407f&userId=&serverSideAds=true
+#EXTINF:-1,VEVO RnB
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5da0d83f66c9700009b96d0e/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c80b6c0-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=6bc0815e-fe9a-464b-9d20-af824e8dcdc5&userId=&serverSideAds=true
+#EXTINF:-1,90's THROWBACK
+https://d1xhnb4ptk05mw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/90sThrowback-Canada-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+#EXTINF:-1,80's FLASHBACK
+https://d19xo51z4ig5jl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/80sFlashback-Canada-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+#EXTINF:-1,ROCK ON
+https://delrqw6rbggz6.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/RockMetal-Canada-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+#EXTINF:-1,XITE XMAS
+https://d3hag8ccjvbxea.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/JustChill-Canada-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+#EXTINF:-1,POWER TV
+https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlists.m3u8
+#EXTINF:-1,QMUSIC
+https://dpp-qmusicnl-live.akamaized.net/streamx/QmusicNL.m3u8
+#EXTINF:-1,ÓČKO STAR
+https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko_gold.stream.1.smil/manifest.m3u8
+#EXTINF:-1,Azteca Uno Web
+https://dai.google.com/linear/hls/event/8FUmvMX3ShuQTgE3tEqxNg/master.m3u8
+#EXTINF:-1,Azteca 7 Web
+https://dai.google.com/linear/hls/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
+#EXTINF:-1,ADN 40 Web
+https://dai.google.com/linear/hls/event/XZLLJIhJRNqz33DGp6NdkA/master.m3u8
+#EXTINF:-1,Videos Chistosos
+https://linear-46.frequency.stream/dist/localnow/46/hls/master/playlist.m3u8
+#EXTINF:-1,CLARO SPORTS
+https://d225juk6ahds7e.cloudfront.net/out/v1/977f6b1ef10c4011aecc2103c06966ac/index_1.m3u8
+#EXTINF:-1,Motorvision TV
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=535&live=1&app_bundle=com.plexapp.android&did=62274240-07e7-5d94-8dc8-ef68cf19e175&app_domain=app.plex.tv&app_name=plex&h=&w=&content_title=eUhMzubzCLEWpUricwcK&content_series=603fb593a99efc002dbf90e4&custom4=plex&gdpr=0&device_make=&device_model=&coppa=0&us_privacy=1---&custom_6=eUhMzubzCLEWpUricwcK&custom_7=603fb593a99efc002dbf90e4
+#EXTINF:-1,Logos TV
+http://streamer1.streamhost.org/salive/logosH/playlist.m3u8
+#EXTINF:-1,Tlaxcala Televisión
+https://vid.mega00.com:5443/LiveApp/streams/928111829917388844551988/928111829917388844551988.m3u8?token=null
+#EXTINF:-1,Classic Arts Showcase
+https://gcamhls02-i.akamaihd.net/hls/live/1024257/ClassicArts/master.m3u8
+#EXTINF:-1,NHK World Japan (1080p)
+https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
+#EXTINF:-1,RT Documentary (1080p) [Geo-blocked]
+https://rt-rtd.rttv.com/live/rtdoc/playlist.m3u8
+#EXTINF:-1,TVM Internacional
+http://online.tvm.co.mz:1935/live/smil:Channel2.smil/playlist.m3u8
+#EXTINF:-1,Moovimex (432p)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokumoovimex/CDN/playlist.m3u8
+#EXTINF:-1,3ABN Latino (720p)
+https://moiptvhls-i.akamaihd.net/hls/live/652315/secure/master.m3u8
+#EXTINF:-1,Alcarria TV (576p)
+http://217.182.77.27/live/alcarriatv-livestream.m3u8
+#EXTINF:-1,DW English (1080p)
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+#EXTINF:-1,POP TV (542p)
+https://5ca3e84a76d30.streamlock.net/gpacifico3/smil:obregon.smil/playlist.m3u8
+#EXTINF:-1,RCG TV (1080p)
+https://video1.getstreamhosting.com:1936/8172/8172/playlist.m3u8
+#EXTINF:-1,RT en Español (1080p) [Geo-blocked]
+https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
+#EXTINF:-1,RT News (1080p) [Geo-blocked]
+https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
+#EXTINF:-1,Telemax (XEWH-TDT) (720p)
+http://s5.mexside.net:1935/telemax/telemax/playlist.m3u8
+#EXTINF:-1,TVP Los Mochis (720p)
+https://5ca3e84a76d30.streamlock.net/gpacifico2/mochis.smil/playlist.m3u8
+#EXTINF:-1,TVP Obregón (542p)
+https://5ca3e84a76d30.streamlock.net/gpacifico3/obregon.smil/playlist.m3u8
+#EXTINF:-1,TV UNAM
+https://5e50264bd6766.streamlock.net/tvunam2/videotvunam2/playlist.m3u8
+#EXTINF:-1,Canal 22
+https://5fc584f3f19c9.streamlock.net/canal22/videocanal22/playlist.m3u8
+#EXTINF:-1,Canal 22.2
+https://5fc584f3f19c9.streamlock.net/canal222/videocanal222/playlist.m3u8
+#EXTINF:-1,ESTRELLA TV
+https://estrellatv-roku.amagi.tv/playlist.m3u8
+#EXTINF:-1,EC| IEAN JESUS HD
+https://cloud37.ecuatel.com/iglesia2020/Stream1/chunklist_w1384570274_DVR.m3u8
+#EXTINF:-1,HECHOS TV
+https://stmv.streamingvip.click/hechosecuador/hechosecuador/playlist.m3u8
+#EXTINF:-1,AUSTRAL TV
+https://stmv3.voxtvhd.com.br/australtv/australtv/playlist.m3u8
+#EXTINF:-1,DW ESPAÑOL
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/streamPlaylist.m3u8
+#EXTINF:-1,CLOVER CHANNEL
+http://160.20.165.246:8000/play/a006/index.m3u8
+#EXTINF:-1,XTREME SPORT
+https://d12a2vxqkkh1bo.cloudfront.net/hls/1080p/playlist.m3u8
+#EXTINF:-1,Rakuten Tv Familia
+https://d8154a7f9a7c43318750859a24fcc504.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_RakutenFamily/playlist.m3u8?ads.wurl_channel%3D718%26ads.wurl_name%3DRakutenFamily%26ads.coppa%3D1%26ads.psid%3D%7BPSID%7D%26ads.targetopt%3D%7BTARGETOPT%7D%26ads.app_domain%3D%7BAPP_DOMAIN%7D%26ads.app_name%3D%7BAPP_NAME%7D%26ads.consent%3D%7BTC_STRING%7D
+#EXTINF:-1,Archivos del FBI
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1acbed25948a0007ffbe65/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1,Todopoderoso 1
+http://ia801404.us.archive.org/24/items/terugi_newairmail_14/14.mp4
+#EXTINF:-1,Sin escalas
+http://archive.org/download/3-ntr-3-n-4-nd-04-p-4-p-41-nf-4-n-71-l/N0N%24T0P4CC10N.mp4
+#EXTINF:-1,No manches Frida
+http://archive.org/download/zqu21148_zoqqa_3/su1id0_p4r4_stre4ming_a85/2.mp4
+#EXTINF:-1,No manches Frida 2
+http://archive.org/download/rasecaral42_gmail_45/P/NMF2.mkv
+#EXTINF:-1,5TV (Corrientes) (480p) [Not 24/7]
+http://www.coninfo.net:1935/tvcinco/live1/playlist.m3u8
+#EXTINF:-1,8 TV Cádiz (360p) [Not 24/7]
+https://5940924978228.streamlock.net/8289/smil:8289.smil/master.m3u8
+#EXTINF:-1,88 Stereo (720p) [Not 24/7]
+http://k3.usastreams.com/CableLatino/88stereo/playlist.m3u8
+#EXTINF:-1,ABC TV (720p)
+https://d2e809bgs49c6y.cloudfront.net/live/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851/live.isml/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851.m3u8
+#EXTINF:-1,AFV en Español (720p) [Not 24/7]
+https://linear-46.frequency.stream/dist/plex/46/hls/master/playlist.m3u8
+#EXTINF:-1,Alcarria TV (576p)
+http://cls.alcarria.tv/alcarriatv/livestream/playlist.m3u8
+#EXTINF:-1,Aliento Vision (720p) [Not 24/7]
+http://209.133.209.195:1935/AlientoSD/smil:AlientoSD.smil/playlist.m3u8
+#EXTINF:-1,Atacama TV (Copiapó) (720p) [Not 24/7]
+https://v2.tustreaming.cl/atacamatv/index.m3u8
+#EXTINF:-1,ATB (614p) [Not 24/7]
+http://186.121.206.197/live/daniel/index.m3u8
+#EXTINF:-1,Auténtica Televisión (720p) [Not 24/7]
+https://live.obslivestream.com/autenticatvmux/index.m3u8
+#EXTINF:-1,Bella Asuncion TV (720p) [Not 24/7]
+https://tvdatta.com:3602/stream/play.m3u8
+#EXTINF:-1,Bolivia TV (720p) [Not 24/7]
+http://boliviatv1.srfms.com:5735/live/livestream/playlist.m3u8
+#EXTINF:-1,Cadena Elite (720p) [Not 24/7]
+https://cloudvideo.servers10.com:8081/8004/index.m3u8
+#EXTINF:-1,Campus TV (Talca) (720p) [Not 24/7]
+https://pantera1-100gb-cl-movistar.dps.live/campustv/campustv.smil/playlist.m3u8
+#EXTINF:-1,Canal 2 (San Antonio) (720p) [Not 24/7]
+https://unlimited1-us.dps.live/canal2/canal2.smil/playlist.m3u8
+#EXTINF:-1,Canal 8 (720p)
+http://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
+#EXTINF:-1,Canal 9 TeleDanlí (720p) [Not 24/7]
+https://cloud2.streaminglivehd.com:1936/8224/8224/playlist.m3u8
+#EXTINF:-1,Canal 12 Puerto Madryn (720p) [Not 24/7]
+https://5f700d5b2c46f.streamlock.net/madryntv/madryntv/playlist.m3u8
+#EXTINF:-1,Canal 13 La Rioja (480p)
+http://arcast.net:1935/mp/mp/playlist.m3u8
+#EXTINF:-1,Canal 14 San Carlos (720p)
+http://tvn.obix.tv:1935/TVN/CH14.stream_720p/playlist.m3u8
+#EXTINF:-1,Canal 25 TV (Barbastro) (720p) [Not 24/7]
+https://common01.todostreaming.es/live/tvbarbastro-livestream.m3u8
+#EXTINF:-1,Canal 56 (576p) [Not 24/7]
+https://videos.canal56.com/directe/stream/index.m3u8
+#EXTINF:-1,Canal 2000 La Solana (720p)
+http://canal2000.berkano-systems.net/streaming/streams/canal2000.m3u8
+#EXTINF:-1,Canal SCÑ (San Carlos Ñuble) (720p)
+https://live.tvcontrolcp.com:1936/sancarlostv/sancarlostv/playlist.m3u8
+#EXTINF:-1,Canal SiTV (410p) [Not 24/7]
+https://5e85d90130e77.streamlock.net/6024/6024/playlist.m3u8
+#EXTINF:-1,Canela TV (720p)
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=65
+#EXTINF:-1,CDM International (480p) [Not 24/7]
+https://59825a54e4454.streamlock.net:8443/marcos536/marcos536/playlist.m3u8
+#EXTINF:-1,CDM TV (480p) [Not 24/7]
+http://205.164.56.130:1935/marcos536/marcos536/playlist.m3u8
+#EXTINF:-1,Chacra TV (480p) [Not 24/7]
+https://s8.stweb.tv/chacra/live/playlist.m3u8
+#EXTINF:-1,CTNi (Christian Television Network International) (480p) [Not 24/7]
+https://584097344c1f0.streamlock.net/48/smil:48.smil/playlist.m3u8
+#EXTINF:-1,Farra Play (720p) [Not 24/7]
+http://159.203.148.226/live/farra.m3u8
+#EXTINF:-1,Holvoet TV (Copiapó) (720p) [Not 24/7]
+https://unlimited1-us.dps.live/holvoettv/holvoettv.smil/playlist.m3u8
+#EXTINF:-1,ITV Patagonia (720p) [Not 24/7]
+https://unlimited1-us.dps.live/itv/itv.smil/playlist.m3u8
+#EXTINF:-1,La 1 Catalunya (576p) [Geo-blocked]
+https://rtvelivestreamv3.akamaized.net/cat/la1_cat_main_dvr.m3u8
+#EXTINF:-1,LTV (720p) [Not 24/7]
+https://5e85d90130e77.streamlock.net/6022/6022/playlist.m3u8
+#EXTINF:-1,LVM (720p)
+https://uni01rtmp.tulix.tv/playout2multi9/lavozdemaria.stream/playlist.m3u8
+#EXTINF:-1,M95 Televisión Marbella (576p) [Not 24/7]
+https://limited2.todostreaming.es/live/m95-livestream.m3u8
+#EXTINF:-1,MegaTV (720p) [Not 24/7]
+https://solo.disfrutaenlared.com:1936/tvcbba/tvcbba/playlist.m3u8
+#EXTINF:-1,NET TV (720p)
+https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream1/playlist.m3u8
+#EXTINF:-1,Noroeste TV (720p) [Not 24/7]
+https://cloudvideo.servers10.com:8081/8032/index.m3u8
+#EXTINF:-1,NorSelva RTV (Rioja) (288p) [Not 24/7]
+https://live.tvcontrolcp.com:1936/8140/8140/playlist.m3u8
+#EXTINF:-1,Ovacion TV (720p) [Not 24/7]
+http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
+#EXTINF:-1,Oxigeno TV (360p) [Not 24/7]
+https://vcp.myplaytv.com/oxigenotv/oxigenotv/playlist.m3u8
+#EXTINF:-1,Pluto TV Novelas Dramas (720p)
+http://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e84dbf4a838b60007ffbba1/master.m3u8?advertisingId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&appVersion=unknown&deviceDNT=0&deviceId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceUA=samsung/SM-T720/10&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain=https://play.google.com/store/apps/details?id=com.samsung.android.tvplus&samsung_app_name=Mobile+TV+Plus&us_privacy=1YNY
+#EXTINF:-1,PromarTV (Yaracuy) (728p) [Not 24/7]
+http://vcp1.myplaytv.com:1935/promar/promar/playlist.m3u8
+#EXTINF:-1,Pura Palabra (718p) [Not 24/7]
+https://59825a54e4454.streamlock.net:8443/william233/william233/playlist.m3u8
+#EXTINF:-1,Radio TV Neuquen (720p) [Not 24/7]
+http://media.neuquen.gov.ar/rtn/television/playlist.m3u8
+#EXTINF:-1,Red Advenir (360p) [Not 24/7]
+http://streamer1.streamhost.org:1935/salive/GMIredadvenirm/playlist.m3u8
+#EXTINF:-1,RNN (720p) [Not 24/7]
+https://ss2.domint.net:3202/rnn_str/canal27/playlist.m3u8
+#EXTINF:-1,RTN (Neuquén) (720p) [Not 24/7]
+http://media.neuquen.gov.ar/rtn/television/media.m3u8
+#EXTINF:-1,Santa María Televisión (720p) [Not 24/7]
+https://pantera1-100gb-cl-movistar.dps.live/smtv/smtv.smil/playlist.m3u8
+#EXTINF:-1,Solidaria TV (720p)
+https://canadaremar2.todostreaming.es/live/solidariatv-webhd.m3u8
+#EXTINF:-1,Tele Uno (720p) [Not 24/7]
+http://tv.teleunotv.cr:1935/TVUNO/TVUNO/playlist.m3u8
+#EXTINF:-1,Teletrak (720p)
+https://unlimited6-cl.dps.live/sportinghd/sportinghd.smil/playlist.m3u8
+#EXTINF:-1,Teleunion (480p) [Not 24/7]
+http://server3.prostudionetwork.com:1945/teleunion/TU/playlist.m3u8
+#EXTINF:-1,Thema Televisión (La Serena) (720p) [Not 24/7]
+https://unlimited1-us.dps.live/thema/thema.smil/playlist.m3u8
+#EXTINF:-1,TNE (720p) [Not 24/7]
+https://v2.tustreaming.cl/tnetv/index.m3u8
+#EXTINF:-1,Top FM TV (Atalaya) (240p) [Not 24/7]
+https://tvdatta.com:3084/live/toptvaguaytialive.m3u8
+#EXTINF:-1,Trece TV (576p)
+https://live-edge-bhs-1.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/playlist.m3u8
+#EXTINF:-1,TV Cosmos (720p) [Not 24/7]
+https://5790d294af2dc.streamlock.net/8134/8134/playlist.m3u8
+#EXTINF:-1,TV Sur Canal 9 (480p) [Not 24/7]
+http://tv.ticosmedia.com:1935/TVSUR/TVSUR/playlist.m3u8
+#EXTINF:-1,TV Sur Canal 14 (720p)
+https://5bf8041cb3fed.streamlock.net/TVSURCANAL14/TVSURCANAL14/playlist.m3u8
+#EXTINF:-1,TVenLinea (Cuzco) (720p) [Not 24/7]
+https://s1.tvdatta.com:3883/live/tvenlinealive.m3u8
+#EXTINF:-1,TVGE (480p)
+http://rtmp.ott.mx1.com/tvge1/tvge1multi.smil/playlist.m3u8
+#EXTINF:-1,TVM Córdoba (414p) [Not 24/7]
+http://teledifusion.tv/cordoba/cordobalive/playlist.m3u8
+#EXTINF:-1,TVU Universidad Nacional de La Plata (720p) [Not 24/7]
+https://stratus.stream.cespi.unlp.edu.ar/hls/tvunlp.m3u8
+#EXTINF:-1,UCV3 TV (480p)
+http://unlimited6-cl.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8
+#EXTINF:-1,Vallevision Canal 10 (720p) [Not 24/7]
+https://streaming.telecablecentral.com.do/Vallevision/ValleHD/playlist.m3u8
+#EXTINF:-1,VerTV (VTV) (720p) [Not 24/7]
+https://5f700d5b2c46f.streamlock.net/vertv/vertv/playlist.m3u8
+#EXTINF:-1,Vía Altomayo (720p) [Not 24/7]
+https://live.obslivestream.com/viaaltomayomux/index.m3u8
+#EXTINF:-1,Video Tour Channel (720p) [Not 24/7]
+http://k4.usastreams.com/videotour/videotour/playlist.m3u8
+#EXTINF:-1,VM Latino (720p) [Not 24/7]
+https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8
+#EXTINF:-1,VTV Valle de Aconcagua (720p) [Not 24/7]
 https://unlimited1-us.dps.live/vtv/vtv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="VTVValledeAconcagua.cl",VTV Valle de Aconcagua (720p) [Not 24/7]
-https://unlimited6-cl.dps.live/vtv/vtv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Wapp.cl",Wapp (1080p)
-https://mdstrm.com/live-stream-playlist/6046495ddf98b007fa2fe807.m3u8
-#EXTINF:-1 tvg-id="YungayOnline.cl",Yungay Online
-https://mediacpstreamchile.com:1936/8028/8028/playlist.m3u8
-#EXTINF:-1 tvg-id="ZappingMusic.cl",Zapping Music (720p)
-https://zmlive.zappingtv.com/zm-free/zm.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="ZonaPlayTV.cl",Zona Play TV (720p)
-https://paneltv.online:1936/8100/8100/playlist.m3u8
+#EXTINF:-1,WOW TV (576p) [Not 24/7]
+https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
+#EXTINF:-1,WTV Canal 20 (720p)
+https://cloudvideo.servers10.com:8081/8130/index.m3u8
+#EXTINF:-1,Zol106 (720p) [Not 24/7]
+https://ss3.domint.net:3108/zol_str/vzol/playlist.m3u8
+#EXTINF:-1,FIGHT TV
+https://shls-fight-sports-ak.akamaized.net/out/v1/ee7e6475b12e484bbfa5c31461ad4306/index.m3u8
+#EXTINF:-1,Canal 2 (720p) [Not 24/7]
+https://video13.virtualtronics.com/streamer/canal2.m3u8
+#EXTINF:-1,Canal 4 Mancha Centro (720p) [Not 24/7]
+https://5924d3ad0efcf.streamlock.net/canal4/canal4live/playlist.m3u8
+#EXTINF:-1,Omega Tv (720p) [Not 24/7]
+https://5caf24a595d94.streamlock.net:1937/8142/8142/playlist.m3u8
+#EXTINF:-1,Popular TV Melilla (720p) [Not 24/7]
+http://5940924978228.streamlock.net:1935/8009/8009/playlist.m3u8
+#EXTINF:-1,ARABICA TV
+http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8
+#EXTINF:-1,Mexiquense TV (720p)
+https://5ca3e84a76d30.streamlock.net/mexiquense/videomexiquense/playlist.m3u8
+#EXTINF:-1,Capitan America: Guerra civil (4K)
+http://vod.tuxchannel.mx/peliculas4k/captain%20america%20civil%20war.mkv
+#EXTINF:-1,Guardianes de la galaxia (4K)
+http://vod.tuxchannel.mx/peliculas4k/guardians%20of%20the%20galaxy.mkv
+#EXTINF:-1,Guardianes de la galaxia vol.2 (4K)
+http://vod.tuxchannel.mx/peliculas4k/guardians%20of%20the%20galaxy%20vol%202.mkv
+#EXTINF:-1,Thor (4K)
+http://vod.tuxchannel.mx/peliculas4k/thor.mkv
+#EXTINF:-1,Thor: El mundo oscuro (4K)
+http://vod.tuxchannel.mx/peliculas4k/thor%20the%20dark%20world.mkv
+#EXTINF:-1,Jurassic World (4K)
+http://vod.tuxchannel.mx/peliculas4k/jurassic%20world.mkv
+#EXTINF:-1,Resident evil 1: El huesped maldito (4K)
+http://vod.tuxchannel.mx/peliculas4k/resident%20evil.mkv
+#EXTINF:-1,Resident evil 2: Apocalipsis (4K)
+http://vod.tuxchannel.mx/peliculas4k/resident%20evil%20apocalypse.mkv
+#EXTINF:-1,Resident evil 3: Extincion (4K)
+http://vod.tuxchannel.mx/peliculas4k/resident%20evil%20extinction.mkv
+#EXTINF:-1,Resident evil 4: Resurreccion (4K)
+http://vod.tuxchannel.mx/peliculas4k/resident%20evil%20afterlife.mkv
+#EXTINF:-1,Resident evil 5: Venganza (4K)
+http://vod.tuxchannel.mx/peliculas4k/resident%20evil%20retribution.mkv
+#EXTINF:-1,Resident evil 6: Capitulo final (4K)
+http://vod.tuxchannel.mx/peliculas4k/resident%20evil%20the%20final%20chapter.mkv
+#EXTINF:-1,Los Vengadores (2012)
+http://vod.tuxchannel.mx/peliculas/720/the%20avengers.mkv
+#EXTINF:-1,Vengadores: La era de Ultrón (4K)
+http://vod.tuxchannel.mx/peliculas4k/avengers%20age%20of%20ultron.mkv
+#EXTINF:-1,Vengadores: Infinity war (2018)
+http://vod.tuxchannel.mx/peliculas/720/avengers%20infinity%20war.mkv
+#EXTINF:-1,Multimedios Plus
+https://hls.gvstream.live/telesistemas/15tv.stream/chunklist_w2102162107.m3u8
+#EXTINF:-1,Azteca 7
+https://pubads.g.doubleclick.net/ssai/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
+#EXTINF:-1,Azteca Internacional
+https://dujft6o2exhah.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0lvc4h1b07aou/mun.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+#EXTINF:-1,Clic
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4827
+#EXTINF:-1,Corazón
+https://d2qb5pmzx6v5zn.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2zeijagmuihdw/cz.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+#EXTINF:-1,Cinema
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4829
+#EXTINF:-1,Azteca Monterrey
+https://live.info7.mx/info7/stream.m3u8
+#EXTINF:-1,CANAL 22
+https://5fc584f3f19c9.streamlock.net/canal22/smil:canal22.smil/playlist.m3u8
+#EXTINF:-1,TV Mexiquense
+https://5ca3e84a76d30.streamlock.net/mexiquense/videomexiquense/media_w640179649_5533.m3u8
+#EXTINF:-1,Telemax (XEWH)
+http://s5.mexside.net:1935/telemax/telemax/chunklist_w1982711424.m3u8
+#EXTINF:-1,TVP
+https://5ca3e84a76d30.streamlock.net/gpacifico3/smil:obregon.smil/playlist.m3u8?DVR
+#EXTINF:-1,Pluto TV Series Latinas
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dd837642c6e9300098ad484/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1,Telemundo PR
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
+#EXTINF:-1,ESTRELLA TV
+https://estrellatv-plex.amagi.tv/playlist.m3u8
+#EXTINF:-1,Canal 57
+https://167790.global.ssl.fastly.net/6189746bccf0424c112f5476/live_50bbca50292011ed8d265962bedee5f9/tracks-v2a1/mono.m3u8
+#EXTINF:-1,Telemundo California
+https://d3i0aurg3nyoct.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-25zej4uwofrfd/playlist.m3u8?k8ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
+#EXTINF:-1,WOW TV
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
+#EXTINF:-1,AMC en Español
+https://d38fxgxhpllpfu.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4w47pf3x50sko/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
+#EXTINF:-1,WARNER CHANNEL HD
+http://45.166.92.22:58001/play/a049/index.m3u8
+#EXTINF:-1,HBO Family HD
+http://181.78.105.146:6060/play/a00k
+#EXTINF:-1,HBO Xtreme
+http://181.78.105.146:6060/play/a00l
+#EXTINF:-1,Canela Cinema
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3134&avod=1&coppa=0&is_lat=0&dnt=0&us_privacy=1yn-&did=9b43ed4af96bbfcbcf07eec0a811b26f&app_bundle=com.canela.ott&app_store_url=https%3A%2F%2Fwww.canela.tv%2Fdevices&app_domain=canela.tv&app_name=canelatv&custom_targeting=web&custom_4=internal&h=720&w=1280&content_channel=canelatv&content_dist_name=internal&device_make=&device_model=&preferred_language=en&consent=1&gdpr=0&custom_12=0&custom_15=es&custom_16=en&custom_17=es&site_page=https%253a%252f%252fwww.canela.tv%252f%253fsection%253dcanalesepg&gender=not_specified&yob=0&livestream=1&custom_param_0=&custom_param_1=handset&custom_param_2=&custom_param_3=&custom_param_4=internal&custom_param_5=web&custom_param_6=Central%2520America&timestamp=1694837990&id=34456&ip=201.148.42.147&override_expiration=1500&deliveryProfileId=23762&sign=ObGzNpFF8fg8b4ZyNTOqjh2Gmhd5fHMHg6tx9Gl0vI8%3D
+#EXTINF:-1,Acción Mexicana
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5397&avod=1&coppa=0&is_lat=0&dnt=0&us_privacy=1yn-&did=9b43ed4af96bbfcbcf07eec0a811b26f&app_bundle=com.canela.ott&app_store_url=https%3A%2F%2Fwww.canela.tv%2Fdevices&app_domain=canela.tv&app_name=canelatv&custom_targeting=web&custom_4=internal&h=720&w=1280&content_channel=canelatv&content_dist_name=internal&device_make=&device_model=&preferred_language=en&consent=1&gdpr=0&custom_12=0&custom_15=es&custom_16=en&custom_17=en&site_page=https%253a%252f%252fwww.canela.tv%252f%253fsection%253dcanalesepg&gender=not_specified&yob=0&livestream=1&custom_param_0=&custom_param_1=handset&custom_param_2=&custom_param_3=&custom_param_4=internal&custom_param_5=web&custom_param_6=Central%2520America&timestamp=1694838351&id=51367&ip=201.148.42.147&override_expiration=1500&deliveryProfileId=23762&sign=FUb7GjYJO6ib%2BO5NtKFL0JklQN794s1JGMJJkqVIESE%3D
+#EXTINF:-1,Canela Familia
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=654&avod=1&coppa=1&is_lat=1&dnt=1&us_privacy=1---&did=9b43ed4af96bbfcbcf07eec0a811b26f&app_bundle=com.canela.ott&app_store_url=https%3A%2F%2Fwww.canela.tv%2Fdevices&app_domain=canela.tv&app_name=canelatv&custom_targeting=web&custom_4=internal&h=720&w=1280&content_channel=canelatv&content_dist_name=internal&device_make=&device_model=&preferred_language=en&consent=1&gdpr=0&custom_12=0&custom_15=es&custom_16=en&custom_17=es&site_page=https%253a%252f%252fwww.canela.tv%252f%253fsection%253dcanelakids&livestream=1&custom_param_0=&custom_param_1=handset&custom_param_2=&custom_param_3=&custom_param_4=internal&custom_param_5=web&custom_param_6=Central%2520America&timestamp=1694838782&id=13489&ip=201.148.42.147&override_expiration=1500&deliveryProfileId=23762&sign=1MazFi6NC4S08MxbWWzCoEOXqn1U3ga6IPnDAEeXTFY%3D
+#EXTINF:-1,Pelimex
+https://5649a38847154602a389db073b038f46.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/CanelaTV_PeliMex/playlist.m3u8?ads.wurl_channel=1184&ads.wurl_name=PeliMex&ads.coppa=0&ads.device_id=9b43ed4af96bbfcbcf07eec0a811b26f&ads.dnt=0&ads.us_privacy=1yn-&ads.gdpr=0&ads.consent=1&ads.app_name=canelatv&ads.app_bundle=com.canela.ott&ads.app_store_url=https%3A%2F%2Fwww.canela.tv%2Fdevices&ads.ifa_type=dpid&ads.custom=%7BCUSTOM%7D&ads.device_make=&ads.device_model=&ads.content_livestream=1&ads.content_producer_name=0&ads.content_rating=not_rated&ads.language=en&ads.device_manufacturer=&ads.device_type=handset&ads.partner=internal&ads.platform=web&ads.device_width=1280&ads.device_height=720&timestamp=1694839009&id=38655&ip=201.148.42.147&override_expiration=1500&deliveryProfileId=23762&sign=5FwWTQiJh1MHp%2BII7o53LsRo2rhC%2FVkmXog7ZxKnQ5g%3D
+#EXTINF:-1,Runtime Accion
+https://d10po0m73eydog.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-9veh3t1iih14b/ra_es.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+#EXTINF:-1,TigueritosTV
+https://ss9.domint.net:3012/ttv_str/%20tigueritotv/.m3u8
+#EXTINF:-1,Telecolor
+https://live.obslivestream.com/telecolormux/index.m3u8?PlaylistM3UCL
+#EXTINF:-1,ACS Network
+https://5790d294af2dc.streamlock.net/acsnetwork/acsnetwork/playlist.m3u8
+#EXTINF:-1,Dreiko TV
+https://cloudvideo.servers10.com:8081/8138/index.m3u8?PlaylistM3UCL
+#EXTINF:-1,Now 80s
+https://lightning-now80s-samsunguk.amagi.tv/hls/amagi_hls_data_samsunguk-lightning-now80s-samsunguk/CDN/playlist.m3u8?device%5Bdid%5D=%7BPSID%7D&device%5Bdnt%5D=%7BTARGETOPT%7D&app_name=%7BAPP_NAME%7D&tc_string=%7BTC_STRING%7D&coppa=0
+#EXTINF:-1,Vevo 90S & 00s
+https://d2yw87dguyr3x7.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gm31ezw31rx7a/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+#EXTINF:-1,Vclassic TV
+https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1,MTV Hits
+http://0f3f161d.cbilant.com/iptv/DNKSGWXK47B9GH/153/index.m3u8
+#EXTINF:-1,MTV Live
+http://0f3f161d.cbilant.com/iptv/DNKSGWXK47B9GH/221/index.m3u8
+#EXTINF:-1,MTV Music
+http://0f3f161d.cbilant.com/iptv/DNKSGWXK47B9GH/19192/index.m3u8
+#EXTINF:-1,MTV Classic
+http://0f3f161d.cbilant.com/iptv/DNKSGWXK47B9GH/19148/index.m3u8
+#EXTINF:-1,Vevo Pop
+https://d2g0vxybsz6hsr.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-x9zzce8l5rccc/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+#EXTINF:-1,JP:A&E
+http://redima.pro:8880/5555/5555/357
+#EXTINF:-1,JP:HTV
+https://stmv.video.gmpro.top/global/global/playlist.m3u8
+#EXTINF:-1,JP:CONCERT CHANNEL
+https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
+#EXTINF:-1,JP:TELEHIT
+https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
+#EXTINF:-1,JP:TCM
+http://redima.pro:8880/5555/5555/371
+#EXTINF:-1,JP:DREIKO TV
+https://cloudvideo.servers10.com:8081/8138/tracks-v1a1/mono.m3u8
+#EXTINF:-1,JP:FM FUSION
+https://s2.tvdatta.com:3307/hybrid/play.m3u8?WebM3UCL
+#EXTINF:-1,JP:VISION TV
+https://cdn.streamhispanatv.net:3076/live/visiontvlive.m3u8
+#EXTINF:-1,JP:FILMRISE ESPAÑOL
+https://d2spdq8rliqjem.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-therokuchannel/master.m3u8?ads.xumo_channelId=88884070
+#EXTINF:-1,JP:UFC
+http://cord-cutter.net:8080/Pdriver204@gmail.com/paul@2022/146291
+#EXTINF:-1,JP:MERIDIANO
+http://cord-cutter.net:8080/Pdriver204@gmail.com/paul@2022/164930
+#EXTINF:-1,JP:GLOBOVISION
+http://cord-cutter.net:8080/Pdriver204@gmail.com/paul@2022/164934
+#EXTINF:-1,JP:KANAL D DRAMA
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8
+#EXTINF:-1,JP:MY TIME MOVIE NETWORK
+https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1,JP:ESTRELLA TV
+https://estrellatv-glewed.amagi.tv/playlist.m3u8
+#EXTINF:-1,JP:GAMES ESTRELLA
+https://estrella-games-oando.amagi.tv/playlist.m3u8
+#EXTINF:-1,JP:STAR CHANNEL
+http://redima.pro:8880/5555/5555/343
+#EXTINF:-1,JP:STAR CHANNEL
+http://181.78.4.186:8000/play/a0dt/index.m3u8
+#EXTINF:-1,JP:TNT NOVELAS
+http://181.78.4.186:8000/play/a0fn/index.m3u8
+#EXTINF:-1,JP:PANAVISION
+https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTM3U
+
+#EXTINF:-1,Canal LMS 020924 | Mexico
+https://fl1001.bozztv.com/ssh101/canallms/playlist.m3u8
+#EXTINF:-1,ESTA LISTA ES DE USO PARTICULAR... NO SE VENDE Y NO TIENE UN SERVIDOR PROPIO... TODOS LOS LINKS SE ENCUENTRAN EN INTERNET Y SON DE DOMINIO PUBLICO
+http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
+#EXTINF:-1,7.1 Azteca 7
+https://tvazteca-live-cdn-mdstrm-com.akamaized.net/live-stream/609ad46a7a441137107d7a81/publish/media_1500.m3u8?aid=5fea09a071a9945deebf5f7c&pid=mz2kolSNR1nG6e4kZ8TkblHgPrL6b96N&sid=uUA2BfAtCxRwaNMPqy5eyKEOyPMuccxW&uid=zNI3pkvVCsT2dspkoAjLNGO31OMZxWbr&es=tvazteca-live-cdn-mdstrm-com.akamaized.net&ote=1703947467082&ot=yEqCQ8lT_iw3Yf-7CajfyA&proto=https&pz=us
+#EXTINF:-1,22.1 Canal 22
+https://5fc584f3f19c9.streamlock.net/canal22/videocanal22/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMS8yMDIxIDExOjQ2OjAzIFBNJmhhc2hfdmFsdWU9WmpCTERYMHh6UVVzcTJ0cmtNd25mQT09JnZhbGlkbWludXRlcz01JmlkPQ==
+#EXTINF:-1,22.2 Canal 22 +
+https://5fc584f3f19c9.streamlock.net/canal222/videocanal222/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMS8yMDIxIDExOjQ5OjA5IFBNJmhhc2hfdmFsdWU9dmZ0MEZRMTMwZ3J6V3hXNndXeDFIUT09JnZhbGlkbWludXRlcz01JmlkPQ==
+#EXTINF:-1,34.1 Mexiquense TV
+https://5e50264bd6766.streamlock.net/mexiquense/videomexiquense/playlist.m3u8
+#EXTINF:-1,34.1 Mexiquense TV op2
+https://5e50264bd6766.streamlock.net/mexiquense/videomexiquense/chunklist_w376735839.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xMS8yMDIyIDQ6MDg6MTEgQU0maGFzaF92YWx1ZT1ySG13SHNrSE5yTWx5RWJYcTQvZkhRPT0mdmFsaWRtaW51dGVzPTUmaWQ9
+#EXTINF:-1,34.2 AMX Noticias
+https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
+#EXTINF:-1,40.1 ADN 40
+https://pubads.g.doubleclick.net/ssai/event/XZLLJIhJRNqz33DGp6NdkA/master.m3u8
+#EXTINF:-1,45.1 Canal del Congreso1
+https://edgeplay.canaldelcongreso.gob.mx/live_sd1/smil:canal-sd1.smil/chunklist_w799228120_b3003000.m3u8
+#EXTINF:-1,45.2 Canal del Congreso2
+https://edgeplay.canaldelcongreso.gob.mx/live_sd2/smil:canal-sd2.smil/chunklist_w85973282_b3003000.m3u8
+#EXTINF:-1,45.3 Canal del Congreso3
+https://edgeplay.canaldelcongreso.gob.mx/live_hd1/smil:canal-hd1.smil/chunklist_w1501984986_b3003000.m3u8
+#EXTINF:-1,AGU: Presumiendo Mexico
+http://streamingcws10.com:1935/telemetrika/videotelemetrika/playlist.m3u8
+#EXTINF:-1,AGU: Presumiendo Mexico
+https://5ca39be538307.streamlock.net/telemetrika/smil:telemetrika.smil/playlist.m3u8
+#EXTINF:-1,AGU: Canal 26
+http://streamingcws10.com:1935/telemetrika3/videotelemetrika3/.m3u8
+#EXTINF:-1,BCS: CANAL 66
+https://60417ddeaf0d9.streamlock.net/canal66/smil:canal66.smil/chunklist_w1330964906_b878000_sleng.m3u8
+#EXTINF:-1,CAM: TRC Television
+https://stream.oursnetworktv.com/latin/SRTC/playlist.m3u8
+#EXTINF:-1,CHP: Canal 10
+https://5ca9af4645e15.streamlock.net/chiapas/videochiapas/playlist.m3u8
+#EXTINF:-1,CHH: CANAL 44
+https://5e50264bd6766.streamlock.net/canal442/videocanal442/playlist.m3u8
+#EXTINF:-1,CMX: Efekto TV
+https://cdn.jwplayer.com/manifests/bez1terN.m3u8
+#EXTINF:-1,COA: 15TV Sabinas
+https://hls.gvstream.live/telesistemas/15tv.stream/playlist.m3u8
+#EXTINF:-1,DUR: Canal 10 Durango
+http://204.12.193.98:1935/TvHD/canal10/playlist.m3u8
+#EXTINF:-1,DUR: TV Lobo Durango
+http://streamingcws20.com:1935/lobodurango/videolobodurango/playlist.m3u8
+#EXTINF:-1,GUA: TV Cuatro 4.1 Noticias
+https://5f1af61612fb5.streamlock.net/tv4/smil:tv4.smil/chunklist_w2069453657_b1428000_sleng.m3u8
+#EXTINF:-1,GUA: TV Cuatro 4.2 Cultura
+https://5f2c1b0d880e5.streamlock.net/tv42/videotv42_720p/playlist.m3u8
+#EXTINF:-1,GUA: TV Cuatro 4.2 Cultura
+https://5f2c1b0d880e5.streamlock.net/tv42/smil:tv42.smil/chunklist_w2048905456_b3428000_sleng.m3u8
+#EXTINF:-1,JAL: Quiero TV
+https://stream.oursnetworktv.com/latin/encoder12/playlist.m3u8
+#EXTINF:-1,MIC: CBTV Michoacan
+https://5ca3e84a76d30.streamlock.net/cbtv/videocbtv/chunklist_w233916547.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xNy8yMDIzIDE6MTY6MTYgUE0maGFzaF92YWx1ZT1TRG9tVW16WXcxdldkdkQ5N3VwdjlnPT0mdmFsaWRtaW51dGVzPTEwJmlkPQ%3D%3D
+#EXTINF:-1,MIC: Canal 6
+https://5f1af61612fb5.streamlock.net/canal6mich2/videocanal6mich2/chunklist_w119129650.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xNy8yMDIzIDE6MjA6MzUgUE0maGFzaF92YWx1ZT1pLyttRnh1STUrS1gwNFdWZnFnbGRnPT0mdmFsaWRtaW51dGVzPTEwJmlkPQ%3D%3D
+#EXTINF:-1,MIC: Media Group Radio
+https://5ca3e84a76d30.streamlock.net/canal6mich/videocanal6mich/playlist.m3u8
+#EXTINF:-1,MIC: Media Group Radio
+https://5ca3e84a76d30.streamlock.net/canal6mich/videocanal6mich/chunklist_w157206410.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xNy8yMDIzIDE6MTk6MjQgUE0maGFzaF92YWx1ZT1yUmh6dG1ERHhBTEJMRUNSWlpxUXRRPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0%3D
+#EXTINF:-1,NAY: 8 NTV Nayarit
+https://60417ddeaf0d9.streamlock.net/ntv/videontv/playlist.m3u8
+#EXTINF:-1,OAX: MVM Noticias Oaxaca
+https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8
+#EXTINF:-1,PUE: Canal 16.1
+https://5d0d1d7a6be9e.streamlock.net/envivo/puecom/playlist.m3u8
+#EXTINF:-1,PUE: Canal 16.2
+https://5d0d1d7a6be9e.streamlock.net/live/setpuebla/playlist.m3u8
+#EXTINF:-1,PUE: Canal 26.1
+http://189.240.210.28:1935/envivo/puecom/chunklist_w166335976.m3u8
+#EXTINF:-1,PUE: Canal 26.2
+http://189.240.210.28:1935/envivo/puecom/chunklist_w745561738.m3u8
+#EXTINF:-1,PUE: TV comunicaciones Puebla
+http://189.240.210.28:1935/envivo/puecom/playlist.m3u8
+#EXTINF:-1,ROO: SIPSE TV 8.1 (1080p) [Not 24/7]
+https://webprod.sipse.com.mx:8080/show/merida.m3u8
+#EXTINF:-1,ROO: Canal 10 Cancun
+http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
+#EXTINF:-1,SLP: Nueve TV
+https://5ca9af4645e15.streamlock.net/nuevetv/videonuevetv/chunklist_w2067160029.m3u8
+#EXTINF:-1,SIN: TVP Mazatlan
+https://5ca3e84a76d30.streamlock.net/gpacifico4/smil:mazatlan.smil/playlist.m3u8
+#EXTINF:-1,SIN: TVP Culiacan
+https://5ca3e84a76d30.streamlock.net/gpacifico1/smil:gpculiacan.smil/playlist.m3u8
+#EXTINF:-1,SIN: TVP Los Mochis
+https://5ca3e84a76d30.streamlock.net/gpacifico2/smil:mochis.smil/playlist.m3u8
+#EXTINF:-1,SON: TVP Cd. Obregon
+https://5ca3e84a76d30.streamlock.net/gpacifico3/smil:obregon.smil/chunklist_w1903526755_b1428000_sleng.m3u8
+#EXTINF:-1,SON: Telemax Sonora
+http://s5.mexside.net:1935/telemax/telemax/chunklist_w586584359.m3u8
+#EXTINF:-1,TLA: Tlaxcala Television
+https://vid.mega00.com:5443/LiveApp/streams/928111829917388844551988/928111829917388844551988.m3u8
+#EXTINF:-1,VER: TVMAS Veracruz
+https://5ca9af4645e15.streamlock.net/rtv/videortv/playlist.m3u8
+#EXTINF:-1,ZAC: Canal 24 Zacatecas
+https://5ca9af4645e15.streamlock.net/zacatecas/videozacatecas/playlist.m3u8
+#EXTINF:-1,EnerGeek Retro op2 | Chile
+https://streaming-cl.sh1ny.space/memfs/e8a8e789-170b-4de4-a33b-90a9a475ce65.m3u8
+#EXTINF:-1,Energeek Radio TV op2 | Chile
+https://streaming-cl.sh1ny.space/memfs/75b105a4-2fd3-4538-a55c-480f3903a262.m3u8
+#EXTINF:-1,Fanpop TV op2 | Chile
+https://streaming-cl.sh1ny.space/memfs/e16d2f72-70b5-4bf5-b9c5-107b6390a10f.m3u8
+#EXTINF:-1,ACS Network Tv | Puerto Rico
+https://5790d294af2dc.streamlock.net/acsnetwork/acsnetwork/playlist.m3u8
+#EXTINF:-1,BTV Baradero Tv | Argentina
+https://fl1001.bozztv.com/ssh101/btvdigital/playlist.m3u8
+#EXTINF:-1,Canal 5 del Pueblo op2 | Argentina
+https://stmv4.voxtvhd.com.br/canal5pueblo/canal5pueblo/playlist.m3u8
+#EXTINF:-1,Canal Mas | Uruguay
+https://clientestv.bachistreaming.com:3721/hybrid/play.m3u8
+#EXTINF:-1,Casa Grande TV | Argentina
+https://fl1001.bozztv.com/ssh101/cgtve/playlist.m3u8
+#EXTINF:-1,Classic Channel HD | Chile
+https://paneltv.online:1936/8046/8046/playlist.m3u8
+#EXTINF:-1,Conectate TV | Puerto Rico
+https://5790d294af2dc.streamlock.net/conectatetv/conectatetv/playlist.m3u8
+#EXTINF:-1,Diti TV | Argentina
+https://fl1001.bozztv.com/ssh101/dititv/playlist.m3u8
+#EXTINF:-1,Estacion Mix Tv | Argentina
+https://fl1001.bozztv.com/ssh101/estacionmixtv/playlist.m3u8
+#EXTINF:-1,Frecuencia Musical Tv | USA
+https://s2.tvdatta.com:3307/hybrid/play.m3u8
+#EXTINF:-1,Frecuencia Musical Tv op2 | USA
+https://s2.tvdatta.com:3307/live/fmtvmatrizlive.m3u8
+#EXTINF:-1,Gogoplay TV | Bolivia
+https://fl1001.bozztv.com/ssh101/gogoplay/playlist.m3u8
+#EXTINF:-1,Latino Kids TV | Uruguay
+https://cloud5.streaminglivehd.com:3555/hybrid/play.m3u8
+#EXTINF:-1,Lena Radio TV | Republica Dominicana
+https://5790d294af2dc.streamlock.net/lenaradiotv/lenaradiotv/playlist.m3u8
+#EXTINF:-1,Magic Kids Tv | Argentina
+https://fl1001.bozztv.com/ssh101/magic2019/playlist.m3u8
+#EXTINF:-1,Magic Kids | Argentina
+https://magicstream.ddns.net:443/magicstream/stream.m3u8
+#EXTINF:-1,Maxima TV | Argentina
+https://fl1001.bozztv.com/ssh101/maxtvstreaming/playlist.m3u8
+#EXTINF:-1,Mi TV Television Clasica | USA
+https://mitv.getstreamhosting.com:30443/live/livestream123/chunks.m3u8
+#EXTINF:-1,Moni TV HD | Argentina
+https://stream.skarnetchile.com:19360/monitvhd/monitvhd.m3u8
+#EXTINF:-1,Now 70 | ND
+https://lightning-now70s-samsungnz.amagi.tv/playlist720p.m3u8
+#EXTINF:-1,Now 80 | ND
+https://lightning-now80s-samsungnz.amagi.tv/playlist720p.m3u8
+#EXTINF:-1,Now Rock | ND
+https://lightning-now90s-samsungnz.amagi.tv/playlist720p.m3u8
+#EXTINF:-1,Radio Old Time | Argentina
+https://5f700d5b2c46f.streamlock.net/tvoldtime/tvoldtime/chunklist_w1126196422.m3u8
+#EXTINF:-1,Retro Canal 2 | ND
+https://fl1001.bozztv.com/ssh101/variado/playlist.m3u8
+#EXTINF:-1,Retro Magico | Argentina
+https://fl1001.bozztv.com/ssh101/retromagicochnl/playlist.m3u8
+#EXTINF:-1,Retro Tv Online | ND
+https://fl1001.bozztv.com/ssh101/retrotvcr/playlist.m3u8
+#EXTINF:-1,RetroX TV | Costa Rica
+https://fl1001.bozztv.com/ssh101/retroxcr/playlist.m3u8
+#EXTINF:-1,Sicardi TV | Argentina
+https://vivo.solumedia.com:19360/sicarditv/sicarditv.m3u8
+#EXTINF:-1,Sueños Grup | Argentina
+https://fl1002.bozztv.com:443/ssh101/suenosgrup/index.m3u8
+#EXTINF:-1,Teleclasica | Mexico
+https://fl1001.bozztv.com/ssh101/teleclasik/playlist.m3u8
+#EXTINF:-1,Tele N HD | Argentina
+https://glb.bozztv.com/glb/ssh101/telentv/index.m3u8
+#EXTINF:-1,Tigueritos TV | Republica Dominicana
+https://ss9.domint.net:3012/ttv_str/%20tigueritotv/playlist.m3u8
+#EXTINF:-1,Toonizaki HD | Argentina
+https://mitv.zplay.cl/ZRetro/video.m3u8?token=D4lm1R0m-tFJES
+#EXTINF:-1,TV Retro Palmares | Costa Rica
+https://fl1001.bozztv.com/ssh101/tvretropalmares/playlist.m3u8
+#EXTINF:-1,TVS Retro | Guatemala
+https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
+#EXTINF:-1,Voice Over Radio TV | Costa Rica
+https://cloudvideo.servers10.com:8081/8198/index.m3u8
+#EXTINF:-1,Wow Movies | Colombia
+https://fl1001.bozztv.com/ssh101/wowchannelsd/playlist.m3u8
+#EXTINF:-1,Big TV | Argentina
+https://fl1001.bozztv.com/ssh101/bigchannel/playlist.m3u8
+#EXTINF:-1,Canal Ipe | Peru
+https://cdnhd.iblups.com/hls/3f2cb1658d114f2693eff18d83199e67.m3u8
+#EXTINF:-1,Chiquilines | USA
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-chiquilines-ono/playlist.m3u8
+#EXTINF:-1,Clan Latinoamerica | Mexico
+http://190.211.250.102:8000/play/a01j
+#EXTINF:-1,Clan TVE | Spain
+https://d3nnqrdb77sy13.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-eimbp20cszixb/Clan_ES.m3u8
+#EXTINF:-1,NTV | Chile
+https://marine2.miplay.cl/ntv/playlist.m3u8
+#EXTINF:-1,PBS Kids (Inglés) | USA
+https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
+#EXTINF:-1,Pequeradio | Spain
+https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
+#EXTINF:-1,Planeta Junior TV | ND
+https://daiconnect.com/live/hls/tvup/tvfy-pljr/.m3u8
+#EXTINF:-1,Toon Googles (espanol) | USA
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=514
+#EXTINF:-1,Toon Googles (Inglés) | USA
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=37&live=1&app_bundle=com.plexapp.desktop&did=df8e1a36-847d-5096-86a7-3803ed330ede&app_domain=app.plex.tv&app_name=plex&h=691&w=1224&content_title=MorUy57ijWhGe4ixZb_T&content_series=5eea605574085f0040ddc794&custom4=plex&gdpr=1&device_make=Windows&device_model=Firefox&coppa=1&us_privacy=1---
+#EXTINF:-1,Toon Googles Jr. (Inglés) | USA
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=36&live=1&app_bundle=com.plexapp.desktop&did=df8e1a36-847d-5096-86a7-3803ed330ede&app_domain=app.plex.tv&app_name=plex&h=691&w=1224&content_title=MorUy57ijWhGe4ixZb_T&content_series=5f123330eca6a20040b328e8&custom4=plex&gdpr=1&device_make=Windows&device_model=Firefox&coppa=1&us_privacy=1---
+#EXTINF:-1,Toon Googles Movies (Inglés) | USA
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=285&avod=1&coppa=1&is_lat=1&us_privacy=1---&did=29d976831067d48c1669f305dcaea6f9&app_bundle=com.toongoggles.html5&app_store_url=http%3A%2F%2Fwww.toongoggles.com%2Fdevices&app_domain=toongoggles.com&app_name=toongoggles&custom_targeting=web&custom_4=internal&h=720&w=1280&content_channel=toongoggles&content_dist_name=internal&device_make=&device_model=&preferred_language=EN&livestream=1&timestamp=1616163335&id=264522&ip=92.38.148.59&override_expiration=1500&sign=z936zg2CSi4j4KGtT351mCqyum%2BVJv0Jj0HE4Pu92jQ%3D
+#EXTINF:-1,Zaz TV op2 | Mexico
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=2701&live=1&avod=1&cb=[CACHEBUSTER]&app_bundle=[APP_BUNDLE]&app_name=[APP_NAME]&app_domain=[APP_DOMAIN]&app_version=[APP_VERSION]&app_category=[APP_CATEGORY]&app_store_url=[APP_STORE_URL]&hls_marker=1&pod_duration=[POD_DURATION]&ua=[%UA%]&ip=[IP]&min_ad_duration=6&max_ad_duration=120?is_lat=[LIMITED_AD_TRACKING]&player_width=[WIDTH]&player_height=[HEIGHT]&ua=[%UA%]&ip=[IP]&cb=[CACHEBUSTER]&hls_marker=1&app_version=[APP_VERSION]&app_store_url=[APP_STORE_URL]&app_name=[APP_NAME]&app_domain=[APP_DOMAIN]&app_category=[APP_CATEGORY]&did=[DID]&app_bundle=[APP_BUNDLE]&network_id=2701&live=1&avod=1&stream_url=https%3A%2F%2Fb81ea6a237a99f732a8a56c17e6e1733.7wzuvg.channel-assembly.mediatailor.us-east-1.amazonaws.com%2Fv1%2Fchannel%2FZAZ_Linear%2Findex-zaz-linear.m3u8
+#EXTINF:-1,Zona de Accion | ND
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=4312
+#EXTINF:-1,Animax TV | Asia
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs15
+#EXTINF:-1,Anime TV | Brasil
+https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
+#EXTINF:-1,Ani Retro | Chile
+https://tv.streaming-chile.com:19360/8068/8068.m3u8
+#EXTINF:-1,Geekdot TV | Brasil
+https://stream.ichibantv.com:3764/hybrid/play.m3u8
+#EXTINF:-1,Anime Onegai Deportes | ND
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=11057
+#EXTINF:-1,Anime Onegai Accion | ND
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=11058
+#EXTINF:-1,Kpop Tv Play | Brasil
+https://fl1001.bozztv.com/ssh101/kpoptv/playlist.m3u8
+#EXTINF:-1,Loading Brasil | Brasil
+https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
+#EXTINF:-1,Locomotion | Republica Dominicana
+http://51.222.85.85:81/hls/loco/index.m3u8
+#EXTINF:-1,Locomotion op1 | Republica Dominicana
+http://85.239.54.197:81/live/loco_hi/index.m3u8
+#EXTINF:-1,Locomotion op2 | Republica Dominicana
+http://85.239.54.197:81/live/loco_low/index.m3u8
+#EXTINF:-1,Pandamax | Argentina
+https://stream.wifiexpert.cl/telenorte/pandamaxch/playlist.m3u8
+#EXTINF:-1,Taltal Tv HD | Argentina
+https://fl1001.bozztv.com/ssh101/taltal/playlist.m3u8
+#EXTINF:-1,Toonami Tv | ND
+https://fl1001.bozztv.com/ssh101/toonamitv/playlist.m3u8
+#EXTINF:-1,Toonami Tv op2 | ND
+https://glb.bozztv.com/glb/ssh101/toonamitv/index.m3u8
+#EXTINF:-1,Toei Channel (1080p) | Asia
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs27
+#EXTINF:-1,Tokyo MX1 (544p) | Asia
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd08
+#EXTINF:-1,TV Tokyo (544p) | Asia
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd07
+#EXTINF:-1,Wording TV HD | Brasil
+https://tv02.zas.media:1936/wordingtv/wordingtv/playlist.m3u8
+#EXTINF:-1,Argentinisima Satelital | Argentina
+https://stream1.sersat.com/hls/argentinisima.m3u8
+#EXTINF:-1,Buin Somos Todos | Chile
+https://bst.buin.cl/0.m3u8
+#EXTINF:-1,Caldera Vision op2 | Chile
+https://us.streaminghd.cl/calderavisiontv/video.m3u8
+#EXTINF:-1,Canal 4 San Juan | Argentina
+http://streamlov.alsolnet.com/canal4sanjuan/live/chunklist_w1603184235.m3u8
+#EXTINF:-1,Caracola TV | Chile
+https://wifispeed.trapemn.tv:1936/comunales/caracola-tv/playlist.m3u8
+#EXTINF:-1,Chamame Tv | Argentina
+https://srv2.zcast.com.br/chamame/chamame/chunklist_w477677262.m3u8
+#EXTINF:-1,Colome TV | Nueva York
+https://ss5.domint.net:3170/cotv_str/colometv/chunklist_w793077443.m3u8
+#EXTINF:-1,GenTV HD | Argentina
+https://cdnhd.iblups.com/hls/20HQGYYDF9.m3u8
+#EXTINF:-1,Global TV | Republica Dominicana
+https://ss3.domint.net:3136/gtv_str/globalhd/playlist.m3u8
+#EXTINF:-1,Iquique Tv | Chile
+https://marine2.miplay.cl/arcatel/iquiquetv720/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Neo TV | Argentina
+https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
+#EXTINF:-1,NET TV | Argentina
+https://unlimited1-cl-isp.dps.live/nettv/nettv.smil/playlist.m3u8
+#EXTINF:-1,Norte Informativo TV | Costa Rica
+https://videohd.live:19360/8076/8076.m3u8
+#EXTINF:-1,Presencia TV | Peru
+https://fl1001.bozztv.com/ssh101/mitvenvivo/playlist.m3u8
+#EXTINF:-1,Quantica TV | Argentina
+https://videostream.shockmedia.com.ar:19360/quanticatv/quanticatv.m3u8
+#EXTINF:-1,Retro Plus TV 3 | Chile
+https://scl.edge.grupoz.cl/retroplus16@grupoz.cl_retrolive/live/playlist.m3u8
+#EXTINF:-1,SuerTV | Argentina
+https://streamaction.ddns.net/suertv_hls/suertv.m3u8
+#EXTINF:-1,Telered | Costa Rica
+https://k20.usastreams.com:8081/telered/index.m3u8
+#EXTINF:-1,Telesistema | Costa Rica
+https://k20.usastreams.com:8081/telesistema/index.m3u8
+#EXTINF:-1,Tv Costa | Chile
+https://premium.tvcontrolcp.com:19360/tvcosta1/tvcosta1.m3u8
+#EXTINF:-1,Unetev HD | Argentina
+https://panel.tvstream.cl:1936/8070/8070/playlist.m3u8
+#EXTINF:-1,AYW Tv | Costa Rica
+https://5790d294af2dc.streamlock.net/AYBTV/AYBTV/playlist.m3u8
+#EXTINF:-1,Bayres TV | Argentina
+https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
+#EXTINF:-1,Bjgtjme | Argentina
+https://76af1d7e277b46a58a41c188c3ea4117.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/Samsung-es_BjgtjmePeliculasGratis/playlist.m3u8
+#EXTINF:-1,Cine Real | USA
+https://amg01024-olympusat-cinereallatam-ono-ad-z5.amagi.tv/playlist/amg01024-olympusat-cinereallatam-ono/cb553d167c6c64879ad43e63d9ef41a0d22411fc087a8d6933fb4b926bc10f41e2e5af97b20cac7822fb0fd87f0b66411f21c118de751fc7c76adf046727486b9898b37bd9981208a2ae56687fe525564eff0f10ce254136d8bb425c8764b72c4812bd593c1b63dcb80cb0270094d21788797a8baddf68687d5b0dcc5779df9a1be090a11f1c9e3df2f83e7eaf1b448efc5fc3fc2687d180188012c6369e4acccfa5a9eb2ab4f0d336fc33d46e71324c7c9d933786da62a6c8937f389f685a207431b79abdb31469ec364258ebb1caaf75c000da8637845f22a90cea0fee4e827fbe19b4bb01efbaacc80c472ba1c14f7769a3eaadc5ff3025b465feb1b3b3191b98f2073643c779aa414159c0a7b77eeac21185f820baa47b123cd5924089efd8e987b384449937cfc6f8c2752820620011c85cb28a52d93cd37ca4cb6157363947a2971bcb8ac05320775c879410f2011ebcefbdd992645ccb640814ec69dd2947068c313c2ce37da1c8693bd8760bd66068af0c638544a9ec7af7a5d8b70768ec88c618bc0586b40ec1b805ac632e5c70c598587057457ad9e06701356a8341e193ecf3720c34daadbd94a9523c1477145d1c9be39513f1ef90736a7ca65222733a05059a76ba03b5065b052bdd089daf0679b7e8404797cfc0cec90decaa9cb9c5b0e741ad76d0c08f4145597742cdfe81bb0ca9dba356ef2c433e5b50851d6d40bc7d282a6f4b7e84ebeb43cb846da93722376ad1e9553661ecb4d46be9f34bfa6698f830bc83c35fc3afae1b519c76c46b75cf85843ea8bfc8af3b7eb430da92c79e8007bc93fae7f5568cb0723aab9158030e3543498da351e756bad0a5e4228e3597ae6214c955b486eabfda6719b2df1a737b3e5c197b5d613f4c96ee95324e2ab7fc35f007b7bb0ce7121d731842dd890f11d4b8264ccc642e31e586c299a8cc0c08853fa520873071d53d6419e8c23ce594a1b3adf5097a3499e0e51dc1e4e2e6e1d9d02f72076d4aeae7564772de29e8cc4aa19a1472eb869cf69809b370f13eaf8ba624876df59bbc5716f75fb30575485c915036ff4dea/150/1920x1080_5824280/index.m3u8
+#EXTINF:-1,Extrema TV | Costa Rica
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+#EXTINF:-1,Free TV LQ | USA
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-chiquilines-distro/playlist.m3u8?ads.dpname=distrotv&c_producer=Chiquilines&dnt=0&app_bundle=undefined&app_name=DistroTV&app_store_url=undefined&did=93d0438a-d330-4392-8ca2-48109fa4781f&app_domain=&device_make=__DEVICE_MAKE__&device_model=&coppa=1&ads.gdprConsent=__GDPR_CONSENT__&ads.islive=1&ads.streamtype=live&ads.vf=20240712
+#EXTINF:-1,Mega Cine Tv | Republica Dominicana
+https://cloudflare.streamgato.us:3125/live/megacinetvlive.m3u8
+#EXTINF:-1,My Time Movie | Mexico
+https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
+#EXTINF:-1,Orbit TV | Republica Dominicana
+https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8
+#EXTINF:-1,Wow Tv | El Salvador
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w84588335.m3u8
+#EXTINF:-1,Video Club | Argentina
+https://videostream.shockmedia.com.ar:19360/videoclub/videoclub.m3u8
+#EXTINF:-1,Garage TV | Argentina
+https://stream1.sersat.com/hls/garagetv.m3u8
+#EXTINF:-1,MLB Channel | PlutoTV
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e66968a70f34c0007d050be/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc97d882-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=f1832274-98b7-4765-ad8b-c533c4382008&userId=&serverSideAds=true
+#EXTINF:-1,RED BULL TV | Austria
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
+#EXTINF:-1,Teletrak | Chile
+http://unlimited6-cl.dps.live/sportinghd/sportinghd.smil/playlist.m3u8
+#EXTINF:-1,Caras Tv | ND
+https://unlimited1-us.dps.live/carastv/carastv.smil/playlist.m3u8
+#EXTINF:-1,Caras Tv | ND
+https://unlimited1-us.dps.live/carastv/carastv.smil/carastv/livestream0/chunks.m3u8
+#EXTINF:-1,Fashion Tv | Francia
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist.m3u8
+#EXTINF:-1,Radio ILCE | Mexico
+http://radio.ilce.edu.mx:8000/radioilce.mp3
+#EXTINF:-1,Educa  TV | Ecuador
+https://vid2.ecuamedia.net/educatv/live/chunklist_w401884011.m3u8
+#EXTINF:-1,NASA | USA
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
+#EXTINF:-1,24h TVE | Spain
+https://rtvelivestreamv3.akamaized.net/24h/24h_main_dvr.m3u8
+#EXTINF:-1,CNN en Espanol | USA
+https://turnerlive.akamaized.net/hls/live/2006634/cnnespanol/VIDEO_0_1964000.m3u8
+#EXTINF:-1,DW Latino | Alemania
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
+#EXTINF:-1,El Financiero Bloomberg | Mexico
+https://d19vc4shchm9pr.cloudfront.net/out/v1/a67ad47be66f4c3ea4a14c8f22984fa7/index.m3u8
+#EXTINF:-1,France 24 Espanol | Francia
+https://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8
+#EXTINF:-1,France 24 | Francia
+http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
+#EXTINF:-1,RT en Espanol | Rusia
+https://rt-esp.rttv.com/dvr/rtesp/playlist.m3u8
+#EXTINF:-1,SKY News | Reino Unido
+https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8
+#EXTINF:-1,Colosal TV | Costa Rica
+http://tv.ticosmedia.com:1935/COLOSAL/COLOSAL/playlist.m3u8
+#EXTINF:-1,Conecta TV | Mexico
+https://fl1001.bozztv.com/ssh101/conectatvmx/playlist.m3u8
+#EXTINF:-1,FS1 | Austria
+http://stream.fs1.tv:8080/hls/webstream.m3u8
+#EXTINF:-1,KMK Radio TV | Costa Rica
+https://cloudvideo.servers10.com:8081/8120/index.m3u8
+#EXTINF:-1,La Mega Mundial | USA
+https://server40.servistreaming.com:3477/stream/play.m3u8
+#EXTINF:-1,RETRO MUSIC TV | Checoslovaquia
+http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
+#EXTINF:-1,The Retro Channel | Puerto Rico
+https://5fd5567570c0e.streamlock.net/theretrochannel/stream/playlist.m3u8
