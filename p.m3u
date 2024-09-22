@@ -1,4 +1,21 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://platform-static.cdn.mdstrm.com/player/logo/s-live-57a498c4d7b86d600e5461cb.png?2085" group-title="Chile", TVN Live
+https://mdstrm.com/live-stream-playlist/57a498c4d7b86d600e5461cb.m3u8?uid=2P5yF5ZOh2gIWroBKQA1v9DnyuTvlbny&sid=2adGWyqblZj2pB5emb96juRuSQQ3rc5h&pid=ggL9qJH1LtmCFpTisRgSQ4vulfiBT9sM&an=tvn-play-app-lg-tv&at=web-app&av=v6.0.57&ref=&res=1280x720&without_cookies=true&listenerid=&dnt=false&access_token=eDVyC8Arwqrczey1lIQLCdj1DSAi0IotEVZ6BmYIUUY3DhHhZhsbdWaXSCJCvws0MXBipfv1BSq
+#EXTINF:-1 tvg-logo="https://platform-static.cdn.mdstrm.com/player/logo/s-live-5653641561b4eba30a7e4929.png?1852" group-title="Chile", TVN3
+https://mdstrm.com/live-stream-playlist/5653641561b4eba30a7e4929.m3u8?uid=2P5yF5ZOh2gIWroBKQA1v9DnyuTvlbny&sid=2adGWyqblZj2pB5emb96juRuSQQ3rc5h&pid=8kqlSEN1eyZEHnhamkIi1BlSc4MyMwXc&an=tvn-play-app-lg-tv&at=web-app&av=v6.0.57&ref=&res=1280x720&without_cookies=true&listenerid=&dnt=false&access_token=eDVyC8Arwqrczey1lIQLCdj1DSAi0IotEVZ6BmYIUUY3DhHhZhsbdWaXSCJCvws0MXBipfv1BSq
+#EXTINF:-1 tvg-logo="https://platform-static.cdn.mdstrm.com/player/logo/s-live-5aaabe9e2c56420918184c6d.png?5887" group-title="Chile", NTV Chile
+https://mdstrm.com/live-stream-playlist/5aaabe9e2c56420918184c6d.m3u8?uid=2P5yF5ZOh2gIWroBKQA1v9DnyuTvlbny&sid=2adGWyqblZj2pB5emb96juRuSQQ3rc5h&pid=38DJekxs5IiKjOFYeo1qaO1TYZ4tkI6r&an=tvn-play-app-lg-tv&at=web-app&av=v6.0.57&ref=&res=1280x720&without_cookies=true&listenerid=&dnt=false&access_token=eDVyC8Arwqrczey1lIQLCdj1DSAi0IotEVZ6BmYIUUY3DhHhZhsbdWaXSCJCvws0MXBipfv1BSq
+#EXTINF:-1 tvg-logo="https://platform-static.cdn.mdstrm.com/player/logo/s-live-533adcc949386ce765657d7c.png?340" group-title="Chile", TV Chile
+https://mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8?uid=2P5yF5ZOh2gIWroBKQA1v9DnyuTvlbny&sid=2adGWyqblZj2pB5emb96juRuSQQ3rc5h&pid=6BloVMVnSQV1q0fwRejVVrCM6MtIzN0o&an=tvn-play-app-lg-tv&at=web-app&av=v6.0.57&ref=&res=1280x720&without_cookies=true&listenerid=&dnt=false&access_token=eDVyC8Arwqrczey1lIQLCdj1DSAi0IotEVZ6BmYIUUY3DhHhZhsbdWaXSCJCvws0MXBipfv1BSq
+#EXTINF:-1 tvg-logo="https://platform-static.cdn.mdstrm.com/player/logo/s-live-57d1a22064f5d85712b20dab.png?3014" group-title="Chile", 24 Play
+https://mdstrm.com/live-stream-playlist/57d1a22064f5d85712b20dab.m3u8?uid=2P5yF5ZOh2gIWroBKQA1v9DnyuTvlbny&sid=2adGWyqblZj2pB5emb96juRuSQQ3rc5h&pid=XFAz6sRG06UfsJz9DJ4SEEYB62XyuirQ&an=tvn-play-app-lg-tv&at=web-app&av=v6.0.57&ref=&res=1280x720&without_cookies=true&listenerid=&dnt=false&access_token=eDVyC8Arwqrczey1lIQLCdj1DSAi0IotEVZ6BmYIUUY3DhHhZhsbdWaXSCJCvws0MXBipfv1BSq
+#EXTINF:-1 tvg-logo="https://www.mega.cl" group-title="Chile", Mega.cl - Señal en vivo
+https://mdstrm.com/live-stream-playlist/53d2c1a32640614e62a0e000.m3u8?uid=LulNf2DtU5bcHz3kNiTzAj1PVUF2Mtbe&sid=fQHN3OeF3qJi2KM2qRLcNcJj5w9zQQQw&pid=wYRuTlB3r58RaZEsGO2wHWAlU5juloDw&an=default_app&at=web-app&av=v6.0.57&ref=&res=1280x720&without_cookies=true&listenerid=&dnt=false&access_token=YtD9d7kdLKHIPHtljMoVpucYZZNsa2rHCPPBVqFoKGEm6k06prvzAWsBwAk1Kv3mTVHGm5m7DkU
+#EXTINF:-1 tvg-logo="https://www.mega.cl" group-title="Chile", Meganoticias Ahora - Señal Online Digital
+https://mdstrm.com/live-stream-playlist/561430ae330428c223687e1e.m3u8?uid=EMc4iIbH0gt3oOMn60IuOdPuEFBhbVst&sid=SbYlwDdm03wa9HMXcTFfFdSokZd9gVq4&pid=wjnBbasuTWY9f7oKDHsARknTQQ2Y9mu8&an=default_app&at=web-app&av=v6.0.57&ref=&res=1280x720&without_cookies=true&listenerid=&dnt=false&access_token=WsDffuYtZ9yzNfVppJxMog3Bfp2bVa8bllUj02qFsdoPemHPWIVNxjziEEO3Whsa4g0rkMg3IYe
+#EXTINF:-1 tvg-logo="https://www.mega.cl" group-title="Chile", Megatiempo.cl - Señal Online Digital
+https://mdstrm.com/live-stream-playlist/56f97fc0b9bb39786b04a3b0.m3u8?uid=0H9ita9MRFpQzNnsABVKxk634k59F1Px&sid=T69J93S7HAkthV50g8eIbbqAnPy5SPG2&pid=NcNm2cKjdBHDfM7dOPK1Ap8ABVaOSTha&an=default_app&at=web-app&av=v6.0.57&ref=&res=1280x720&without_cookies=true&listenerid=&dnt=false&access_token=AJuUz7pqWCu9k2GIBhGPXGvTTrcN2eVcANnvjph5L3BIeXVDeZdnQ3IW8pP2EoBGC9nFKPO97uJ
+
 #EXTINF:-1 tvg-id="13C.cl",13C (1080p)
 https://origin.dpsgo.com/ssai/event/GI-9cp_bT8KcerLpZwkuhw/master.m3u8
 #EXTINF:-1 tvg-id="13E.cl",13 Entretención (720p)
