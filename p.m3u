@@ -5,8 +5,10 @@ https://unlimited6-cl.dps.live/cm/cm.smil/playlist.m3u8
 #EXTINF:-1 group-title="Chile",La Red
 https://unlimited1-cl-isp.dps.live/lared/lared.smil/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 group-title="Chile", Chilevision
+#EXTINF:-1 tvg-name="Chilevisión" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/Emblema_de_Chilevisi%C3%B3n.svg" tvg-id="UC8EdTmyUaFIfZvVttJ9lgIA" group-title="Chile", CHV
 https://marine2.miplay.cl/chvchile/index.m3u8
+#EXTINF:-1 tvg-name="CHV Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c7/CHV_Noticias_2018.png" tvg-id="chv_noticias" group-title="Chile", CHV Noticias
+https://mdstrm.com/live-stream-playlist/6491ced935a5833c47dd7f41.m3u8
 
 #EXTINF:-1 tvg-name="TVN 3" tvg-logo="https://i.imgur.com/84lWqRi.png" tvg-id="TVN3.cl" group-title="Chile",TVN 3
 https://mdstrm.com/live-stream-playlist/5653641561b4eba30a7e4929.m3u8
@@ -64,7 +66,6 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d103f031154a417
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HjBqieO.png" group-title="Chile", Chile Channel | Santiago
 https://v2.tustreaming.cl/chilechannel/index.m3u8
 
-
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/415_Puranoticia.png" group-title="Chile", Pura Noticias
 https://pnt.janusmedia.tv/hls/pnt.m3u8
 
@@ -88,4 +89,3 @@ https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5
 
 #EXTINF:-1 tvg-name="UCL" tvg-logo="https://i.imgur.com/JxqVHPX.png" tvg-id="UCL.uy" group-title="Chile",UCL
 https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/ucl/ucl.smil/playlist.m3u8
-
