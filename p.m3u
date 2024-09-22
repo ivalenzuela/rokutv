@@ -5,6 +5,9 @@ https://unlimited6-cl.dps.live/cm/cm.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/a6m1yWP.png" group-title="Canales Chilenos", Mega
 https://unlimited1-cl-isp.dps.live/mega/mega.smil/playlist.m3u8
 
+#EXTINF:-1 group-title="Chile",La Red | CL
+https://unlimited1-cl-isp.dps.live/lared/lared.smil/playlist.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PU2cqzN.png" group-title="Canales Chilenos", TVN 24 PLAY
 http://mdstrm.com/live-stream-playlist/57d1a22064f5d85712b20dab.m3u8
 
