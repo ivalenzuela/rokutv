@@ -3,28 +3,33 @@
 https://unlimited6-cl.dps.live/cm/cm.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="La Red" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e5/La_Red_2021.svg/revision/latest/scale-to-width-down/175?cb=20210517191249&path-prefix=es" group-title="Chile" group-title="Chile",La Red
-https://unlimited1-cl-isp.dps.live/lared/lared.smil/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-id="CNN Chile" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/60/CNN_Chile_boxless.svg/revision/latest/scale-to-width-down/250?cb=20210716152615" group-title="Chile" , CNN Chile
-http://190.61.55.186:1010/play/a01d/index.m3u8
+https://alba-cl-lared-lared.stream.mediatiquestream.com/index.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="CNN Español" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cf/CNN_en_Espa%C3%B1ol_1997.svg/revision/latest/scale-to-width-down/250?cb=20220409050309&path-prefix=es" group-title="Chile",CNN Español
-http://190.61.55.186:1010/play/a02l/index.m3u8
+http://38.250.127.17:9800/play/a0a7/index.m3u8
 
 #EXTINF:-1 tvg-name="Chilevisión" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/Emblema_de_Chilevisi%C3%B3n.svg" tvg-id="UC8EdTmyUaFIfZvVttJ9lgIA" group-title="Chile", CHV
-https://marine2.miplay.cl/chvchile/index.m3u8
+http://38.250.127.17:9800/play/a08e/index.m3u8
+
+#EXTINF:-1 tvg-name="Chilevisión HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/Emblema_de_Chilevisi%C3%B3n.svg" tvg-id="UC8EdTmyUaFIfZvVttJ9lgIA" group-title="Chile", CHV HD
+http://38.250.127.17:9800/play/a05h/index.m3u8
+
 
 #EXTINF:-1 tvg-name="CHV Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c7/CHV_Noticias_2018.png" tvg-id="chv_noticias" group-title="Chile", CHV Noticias
 https://mdstrm.com/live-stream-playlist/6491ced935a5833c47dd7f41.m3u8
 
 #EXTINF:-1 tvg-name="TVN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/33/Logotipo_de_Televisi%C3%B2n_Nacional_de_Chile.svg" tvg-id="TVN" group-title="Chile",TVN
-https://mdstrm.com/live-stream-playlist-v/555c9a91eb4886825b07ee7b.m3u8
+http://38.250.127.17:9800/play/a09f/index.m3u8
 
 #EXTINF:-1 tvg-name="TVN 3" tvg-logo="https://i.imgur.com/84lWqRi.png" tvg-id="TVN3.cl" group-title="Chile",TVN 3
 https://mdstrm.com/live-stream-playlist/5653641561b4eba30a7e4929.m3u8
 
 #EXTINF:-1 tvg-name="24 horas" tvg-logo="https://i.imgur.com/0rF6Kub.png" tvg-id="24Horas.cl" group-title="Chile",24 horas
 https://mdstrm.com/live-stream-playlist/57d1a22064f5d85712b20dab.m3u8
+
+#EXTINF:-1 tvg-name="24 horas" tvg-logo="https://i.imgur.com/0rF6Kub.png" tvg-id="24Horas.cl" group-title="Chile",24 Horas HD
+http://38.250.127.17:9800/play/a09o/index.m3u8
+
 
 #EXTINF:-1 tvg-name="NTV Ⓖ" tvg-logo="https://i.imgur.com/pt2Kj1A.png" tvg-id="NTV.cl" group-title="Chile",NTV
 https://mdstrm.com/live-stream-playlist/5aaabe9e2c56420918184c6d.m3u8
@@ -38,8 +43,17 @@ https://unlimited1-cl-isp.dps.live/mega/mega.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/Meganoticias2019.png" group-title="Chile", MegaNoticias
 https://pantera1-100gb-cl-movistar.dps.live/mega/mega.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-name="Canal 13" tvg-logo="https://i.imgur.com/3CEijac.png" tvg-id="T13.cl" group-title="Chile",Canal 13
+http://38.250.127.17:9800/play/a09h/index.m3u8
+#EXTINF:-1 tvg-name="Canal 13" tvg-logo="https://i.imgur.com/3CEijac.png" tvg-id="T13.cl" group-title="Chile",Canal 13
+http://38.250.127.17:9800/play/a067/index.m3u8
+
+#EXTINF:-1 tvg-name="T13 en vivo" tvg-logo="https://i.imgur.com/3CEijac.png" tvg-id="T13.cl" group-title="Chile",T13 en vivo HD
+http://38.250.127.17:9800/play/a0aj/index.m3u8
+
 #EXTINF:-1 tvg-name="T13 en vivo" tvg-logo="https://i.imgur.com/3CEijac.png" tvg-id="T13.cl" group-title="Chile",T13 en vivo
 https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/t13/t13.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-name="13 Entretención" tvg-logo="https://i.imgur.com/1vTno0m.png" tvg-id="13E.cl" group-title="Chile",13 Entretención
 https://origin.dpsgo.com/ssai/event/BBp0VeP6QtOOlH8nu3bWTg/master.m3u8
 #EXTINF:-1 tvg-name="13 Cultura" tvg-logo="https://i.imgur.com/49QkKWv.png" tvg-id="13C.cl" group-title="Chile",13 Cultura
@@ -99,3 +113,224 @@ https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5
 
 #EXTINF:-1 tvg-name="UCL" tvg-logo="https://i.imgur.com/JxqVHPX.png" tvg-id="UCL.uy" group-title="Chile",UCL
 https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/ucl/ucl.smil/playlist.m3u8
+
+#EXTM3U
+#EXTINF:-1 tvg-id="AE_HD" tvg-name="A&E HD" tvg-chno="1" group-title="Nacional",A&E HD
+http://38.250.127.17:9800/play/a09w/index.m3u8
+#EXTINF:-1 tvg-id="AUNAR_TV_F" tvg-name="AUNAR TV F" tvg-chno="2" group-title="Nacional",AUNAR TV F
+http://38.250.127.17:9800/play/a0ap/index.m3u8
+#EXTINF:-1 tvg-id="AXN_HD" tvg-name="AXN HD" tvg-chno="3" group-title="Nacional",AXN HD
+http://38.250.127.17:9800/play/a0a3/index.m3u8
+#EXTINF:-1 tvg-id="AMERICA_TV_HD" tvg-name="América TV HD" tvg-chno="4" group-title="Nacional",America TV HD
+http://38.250.127.17:9800/play/a05w/index.m3u8
+#EXTINF:-1 tvg-id="ANIMAL_PLANET_HD" tvg-name="Animal Planet HD" tvg-chno="5" group-title="Nacional",Animal Planet HD
+http://38.250.127.17:9800/play/a09t/index.m3u8
+#EXTINF:-1 tvg-id="ANTENA_3" tvg-name="Antena 3" tvg-chno="6" group-title="Nacional",Antena 3
+http://38.250.127.17:9800/play/a07f/index.m3u8
+#EXTINF:-1 tvg-id="BBC_NEWS" tvg-name="BBC News" tvg-chno="7" group-title="Nacional",BBC NEWS
+http://38.250.127.17:9800/play/a07b/index.m3u8
+#EXTINF:-1 tvg-id="BABY_TV" tvg-name="Baby TV" tvg-chno="8" group-title="Nacional",Baby TV
+http://38.250.127.17:9800/play/a08k/index.m3u8
+#EXTINF:-1 tvg-id="CANAL_13_2_HD_F" tvg-name="Canal 13.2 HD F" tvg-chno="9" group-title="Nacional",CANAL 13.2 HD F
+http://38.250.127.17:9800/play/a0aj/index.m3u8
+#EXTINF:-1 tvg-id="CHV" tvg-name="CHV" tvg-chno="10" group-title="Nacional",CHV
+http://38.250.127.17:9800/play/a08e/index.m3u8
+#EXTINF:-1 tvg-id="CHV_HD" tvg-name="CHV HD" tvg-chno="11" group-title="Nacional",CHV HD
+http://38.250.127.17:9800/play/a05h/index.m3u8
+#EXTINF:-1 tvg-id="CHV2_HD_F" tvg-name="CHV2 HD F" tvg-chno="12" group-title="Nacional",CHV2 HD F
+http://38.250.127.17:9800/play/a0al/index.m3u8
+#EXTINF:-1 tvg-id="CINE_AR_F" tvg-name="CINE AR F" tvg-chno="13" group-title="Nacional",CINE AR F
+http://38.250.127.17:9800/play/a0an/index.m3u8
+#EXTINF:-1 tvg-id="CNN_ESPANOL" tvg-name="CNN Español" tvg-chno="14" group-title="Nacional",CNN Español
+http://38.250.127.17:9800/play/a0a7/index.m3u8
+#EXTINF:-1 tvg-id="CNN_INTERNATIONAL" tvg-name="CNN International" tvg-chno="15" group-title="Nacional",CNN International
+http://38.250.127.17:9800/play/a0a6/index.m3u8
+#EXTINF:-1 tvg-id="CANAL_1" tvg-name="Canal 1" tvg-chno="16" group-title="Nacional",Canal 1
+http://38.250.127.17:9800/play/a08g/index.m3u8
+#EXTINF:-1 tvg-id="CANAL_13_HD" tvg-name="Canal 13 HD" tvg-chno="17" group-title="Nacional",Canal 13 HD
+http://38.250.127.17:9800/play/a067/index.m3u8
+#EXTINF:-1 tvg-id="CANAL_13_SD" tvg-name="Canal 13 SD" tvg-chno="18" group-title="Nacional",Canal 13 SD
+http://38.250.127.17:9800/play/a09h/index.m3u8
+#EXTINF:-1 tvg-id="CANAL_24HORAS_HD" tvg-name="Canal 24 Horas HD" tvg-chno="19" group-title="Nacional",Canal 24 Horas HD
+http://38.250.127.17:9800/play/a09o/index.m3u8
+#EXTINF:-1 tvg-id="CARACOL" tvg-name="Caracol" tvg-chno="20" group-title="Nacional",Caracol
+http://38.250.127.17:9800/play/a08i/index.m3u8
+#EXTINF:-1 tvg-id="CARACOL_HD" tvg-name="Caracol HD" tvg-chno="21" group-title="Nacional",Caracol HD
+http://38.250.127.17:9800/play/a05v/index.m3u8
+#EXTINF:-1 tvg-id="CARTOON_NETWORK_HD" tvg-name="Cartoon Network HD" tvg-chno="22" group-title="Nacional",Cartoon Network HD
+http://38.250.127.17:9800/play/a085/index.m3u8
+#EXTINF:-1 tvg-id="CINECANAL_HD" tvg-name="Cinecanal HD" tvg-chno="23" group-title="Nacional",Cinecanal HD
+http://38.250.127.17:9800/play/a0a0/index.m3u8
+#EXTINF:-1 tvg-id="CINEMAX" tvg-name="Cinemax" tvg-chno="24" group-title="Nacional",Cinemax
+http://38.250.127.17:9800/play/a08v/index.m3u8
+#EXTINF:-1 tvg-id="CINEMAX_HD" tvg-name="Cinemax HD" tvg-chno="25" group-title="Nacional",Cinemax HD
+http://38.250.127.17:9800/play/a0a8/index.m3u8
+#EXTINF:-1 tvg-id="COMEDY_CENTRAL_HD" tvg-name="Comedy Central HD" tvg-chno="26" group-title="Nacional",Comedy Central HD
+http://38.250.127.17:9800/play/a09x/index.m3u8
+#EXTINF:-1 tvg-id="CORPORACION_TV_F" tvg-name="Corporación TV F" tvg-chno="27" group-title="Nacional",Corporacion TV F
+http://38.250.127.17:9800/play/a0aq/index.m3u8
+#EXTINF:-1 tvg-id="DW_ESPANOL" tvg-name="DW Español" tvg-chno="28" group-title="Nacional",DW Español
+http://38.250.127.17:9800/play/a07h/index.m3u8
+#EXTINF:-1 tvg-id="DISCOVERY_CHANNEL" tvg-name="Discovery Channel" tvg-chno="29" group-title="Nacional",Discovery Channel
+http://38.250.127.17:9800/play/a08l/index.m3u8
+#EXTINF:-1 tvg-id="DISCOVERY_CHANNEL_HD" tvg-name="Discovery Channel HD" tvg-chno="30" group-title="Nacional",Discovery Channel  HD
+http://38.250.127.17:9800/play/a09u/index.m3u8
+#EXTINF:-1 tvg-id="DISCOVERY_HYH_HD" tvg-name="Discovery H&H HD" tvg-chno="31" group-title="Nacional",Discovery H&H HD
+http://38.250.127.17:9800/play/a05i/index.m3u8
+#EXTINF:-1 tvg-id="DISCOVERY_HD" tvg-name="Discovery HD" tvg-chno="32" group-title="Nacional",Discovery HD
+http://38.250.127.17:9800/play/a06p/index.m3u8
+#EXTINF:-1 tvg-id="DISCOVERY_KIDS_HD" tvg-name="Discovery Kids HD" tvg-chno="33" group-title="Nacional",Discovery Kids HD
+http://38.250.127.17:9800/play/a069/index.m3u8
+#EXTINF:-1 tvg-id="DISCOVERY_THEATER_HD" tvg-name="Discovery Theater HD" tvg-chno="34" group-title="Nacional",Discovery Theater HD
+http://38.250.127.17:9800/play/a05j/index.m3u8
+#EXTINF:-1 tvg-id="DISCOVERY_WORLD_HD" tvg-name="Discovery World HD" tvg-chno="35" group-title="Nacional",Discovery World HD
+http://38.250.127.17:9800/play/a06a/index.m3u8
+#EXTINF:-1 tvg-id="DISNEY_HD" tvg-name="Disney HD" tvg-chno="36" group-title="Nacional",Disney HD
+http://38.250.127.17:9800/play/a068/index.m3u8
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-chno="37" group-title="Nacional",ESPN
+http://38.250.127.17:9800/play/a08s/index.m3u8
+#EXTINF:-1 tvg-id="ESPN_2" tvg-name="ESPN 2" tvg-chno="38" group-title="Nacional",ESPN 2
+http://38.250.127.17:9800/play/a08q/index.m3u8
+#EXTINF:-1 tvg-id="ESPN_2_HD" tvg-name="ESPN 2 HD" tvg-chno="39" group-title="Nacional",ESPN 2 HD
+http://38.250.127.17:9800/play/a05q/index.m3u8
+#EXTINF:-1 tvg-id="ESPN_3_HD" tvg-name="ESPN 3 HD" tvg-chno="40" group-title="Nacional",ESPN 3 HD
+http://38.250.127.17:9800/play/a05m/index.m3u8
+#EXTINF:-1 tvg-id="ESPN_4_HD" tvg-name="ESPN 4 HD" tvg-chno="41" group-title="Nacional",ESPN 4 HD
+http://38.250.127.17:9800/play/a05l/index.m3u8
+#EXTINF:-1 tvg-id="ESPN_5_HD" tvg-name="ESPN 5 HD" tvg-chno="42" group-title="Nacional",ESPN 5 HD
+http://38.250.127.17:9800/play/a06f/index.m3u8
+#EXTINF:-1 tvg-id="ESPN_6_HD" tvg-name="ESPN 6 HD" tvg-chno="43" group-title="Nacional",ESPN 6 HD
+http://38.250.127.17:9800/play/a05n/index.m3u8
+#EXTINF:-1 tvg-id="ESPN_HD" tvg-name="ESPN HD" tvg-chno="44" group-title="Nacional",ESPN HD
+http://38.250.127.17:9800/play/a05t/index.m3u8
+#EXTINF:-1 tvg-id="ESPN_PREMIUM_HD" tvg-name="ESPN Premium HD" tvg-chno="45" group-title="Nacional",ESPN Premium HD
+http://38.250.127.17:9800/play/a05x/index.m3u8
+#EXTINF:-1 tvg-id="EWTN" tvg-name="EWTN" tvg-chno="46" group-title="Nacional",EWTN
+http://38.250.127.17:9800/play/a08o/index.m3u8
+#EXTINF:-1 tvg-id="EL_GOURMET_HD" tvg-name="El Gourmet HD" tvg-chno="47" group-title="Nacional",El Gourmet HD
+http://38.250.127.17:9800/play/a09y/index.m3u8
+#EXTINF:-1 tvg-id="EL_CANAL_DEL_FUTBOL_HD" tvg-name="El Canal del Fútbol HD" tvg-chno="48" group-title="Nacional",ElCanaldelFutbol HD
+http://38.250.127.17:9800/play/a0a9/index.m3u8
+#EXTINF:-1 tvg-id="EUROCHANNEL" tvg-name="Eurochannel" tvg-chno="49" group-title="Nacional",Eurochannel
+http://38.250.127.17:9800/play/a08n/index.m3u8
+#EXTINF:-1 tvg-id="EUROPA_EUROPA" tvg-name="Europa Europa" tvg-chno="50" group-title="Nacional",Europa Europa
+http://38.250.127.17:9800/play/a07o/index.m3u8
+#EXTINF:-1 tvg-id="FX_HD" tvg-name="FX HD" tvg-chno="51" group-title="Nacional",FX HD
+http://38.250.127.17:9800/play/a06n/index.m3u8
+#EXTINF:-1 tvg-id="FILM_AND_ARTS" tvg-name="Film & Arts" tvg-chno="52" group-title="Nacional",Film&Arts
+http://38.250.127.17:9800/play/a079/index.m3u8
+#EXTINF:-1 tvg-id="FOOD_NETWORK_HD" tvg-name="Food Network HD" tvg-chno="53" group-title="Nacional",Food Network HD
+http://38.250.127.17:9800/play/a09q/index.m3u8
+#EXTINF:-1 tvg-id="FOX_NEWS" tvg-name="Fox News" tvg-chno="54" group-title="Nacional",Fox News
+http://38.250.127.17:9800/play/a06r/index.m3u8
+#EXTINF:-1 tvg-id="FRANCE_24" tvg-name="France 24" tvg-chno="55" group-title="Nacional",France 24
+http://38.250.127.17:9800/play/a075/index.m3u8
+#EXTINF:-1 tvg-id="GOLPERU" tvg-name="GOLPERU" tvg-chno="56" group-title="Nacional",GOLPERU
+http://38.250.127.17:9800/play/a08c/index.m3u8
+#EXTINF:-1 tvg-id="GOL_TV" tvg-name="Gol TV" tvg-chno="57" group-title="Nacional",Gol TV
+http://38.250.127.17:9800/play/a07j/index.m3u8
+#EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-chno="58" group-title="Nacional",HBO
+http://38.250.127.17:9800/play/a08w/index.m3u8
+#EXTINF:-1 tvg-id="HBO_FAMILY_HD" tvg-name="HBO Family HD" tvg-chno="59" group-title="Nacional",HBO Family HD
+http://38.250.127.17:9800/play/a08a/index.m3u8
+#EXTINF:-1 tvg-id="HBO_HD" tvg-name="HBO HD" tvg-chno="60" group-title="Nacional",HBO HD
+http://38.250.127.17:9800/play/a06h/index.m3u8
+#EXTINF:-1 tvg-id="HBO_MUNDI" tvg-name="HBO Mundi" tvg-chno="61" group-title="Nacional",HBO MUNDI
+http://38.250.127.17:9800/play/a07p/index.m3u8
+#EXTINF:-1 tvg-id="HBO_POP_HD" tvg-name="HBO Pop HD" tvg-chno="62" group-title="Nacional",HBO POP HD
+http://38.250.127.17:9800/play/a06j/index.m3u8
+#EXTINF:-1 tvg-id="HBO_XTREME_HD" tvg-name="HBO Xtreme HD" tvg-chno="63" group-title="Nacional",HBO XTREME HD
+http://38.250.127.17:9800/play/a09r/index.m3u8
+#EXTINF:-1 tvg-id="HISTORY_2" tvg-name="History 2" tvg-chno="64" group-title="Nacional",History 2
+http://38.250.127.17:9800/play/a078/index.m3u8
+#EXTINF:-1 tvg-id="HISTORY_CHANNEL_HD" tvg-name="History Channel HD" tvg-chno="65" group-title="Nacional",History Channel HD
+http://38.250.127.17:9800/play/a09v/index.m3u8
+#EXTINF:-1 tvg-id="ID_HD" tvg-name="ID HD" tvg-chno="66" group-title="Nacional",ID HD
+http://38.250.127.17:9800/play/a0a4/index.m3u8
+#EXTINF:-1 tvg-id="KANAL_D_DRAMA" tvg-name="Kanal D Drama" tvg-chno="67" group-title="Nacional",Kanal D Drama
+http://38.250.127.17:9800/play/a076/index.m3u8
+#EXTINF:-1 tvg-id="LA_RED_HD" tvg-name="La Red HD" tvg-chno="68" group-title="Nacional",La Red HD
+http://38.250.127.17:9800/play/a09n/index.m3u8
+#EXTINF:-1 tvg-id="LAS_ESTRELLAS_HD" tvg-name="Las Estrellas HD" tvg-chno="69" group-title="Nacional",Las Estrellas HD
+http://38.250.127.17:9800/play/a089/index.m3u8
+#EXTINF:-1 tvg-id="LATINA_HD" tvg-name="Latina HD" tvg-chno="70" group-title="Nacional",Latina HD
+http://38.250.127.17:9800/play/a05y/index.m3u8
+#EXTINF:-1 tvg-id="MEGA_2_HD_F" tvg-name="MEGA 2 HD F" tvg-chno="71" group-title="Nacional",MEGA 2 HD F
+http://38.250.127.17:9800/play/a0ai/index.m3u8
+#EXTINF:-1 tvg-id="MEGA_HD" tvg-name="MEGA HD" tvg-chno="72" group-title="Nacional",MEGA HD
+http://38.250.127.17:9800/play/a066/index.m3u8
+#EXTINF:-1 tvg-id="MTV_00S_HD" tvg-name="MTV 00s HD" tvg-chno="73" group-title="Nacional",MTV 00s HD
+http://38.250.127.17:9800/play/a09l/index.m3u8
+#EXTINF:-1 tvg-id="MTV_HD" tvg-name="MTV HD" tvg-chno="74" group-title="Nacional",MTV HD
+http://38.250.127.17:9800/play/a0a5/index.m3u8
+#EXTINF:-1 tvg-id="NTN_24_HORAS" tvg-name="NTN 24 Horas" tvg-chno="75" group-title="Nacional",NTN 24 Horas
+http://38.250.127.17:9800/play/a07c/index.m3u8
+#EXTINF:-1 tvg-id="NTV_HD_F" tvg-name="NTV HD F" tvg-chno="76" group-title="Nacional",NTV HD F
+http://38.250.127.17:9800/play/a0ak/index.m3u8
+#EXTINF:-1 tvg-id="NAT_GEO_HD" tvg-name="Nat Geo HD" tvg-chno="77" group-title="Nacional",Nat Geo HD
+http://38.250.127.17:9800/play/a09z/index.m3u8
+#EXTINF:-1 tvg-id="NICK_HD" tvg-name="Nick HD" tvg-chno="78" group-title="Nacional",Nick HD
+http://38.250.127.17:9800/play/a06m/index.m3u8
+#EXTINF:-1 tvg-id="NUEVOS_COMIENZOS_F" tvg-name="Nuevos Comienzos F" tvg-chno="79" group-title="Nacional",Nuevos Comienzos F
+http://38.250.127.17:9800/play/a0ar/index.m3u8
+#EXTINF:-1 tvg-id="PAKA_PAKA_F" tvg-name="PAKA PAKA F" tvg-chno="80" group-title="Nacional",PAKA PAKA F
+http://38.250.127.17:9800/play/a0am/index.m3u8
+#EXTINF:-1 tvg-id="PARAMOUNT_HD" tvg-name="Paramount HD" tvg-chno="81" group-title="Nacional",Paramount HD
+http://38.250.127.17:9800/play/a05s/index.m3u8
+#EXTINF:-1 tvg-id="PASIONES_HD" tvg-name="Pasiones HD" tvg-chno="82" group-title="Nacional",Pasiones HD
+http://38.250.127.17:9800/play/a09k/index.m3u8
+#EXTINF:-1 tvg-id="RAI" tvg-name="RAI" tvg-chno="83" group-title="Nacional",RAI
+http://38.250.127.17:9800/play/a07g/index.m3u8
+#EXTINF:-1 tvg-id="RCN" tvg-name="RCN" tvg-chno="84" group-title="Nacional",RCN
+http://38.250.127.17:9800/play/a08h/index.m3u8
+#EXTINF:-1 tvg-id="RCN_HD" tvg-name="RCN HD" tvg-chno="85" group-title="Nacional",RCN HD
+http://38.250.127.17:9800/play/a05u/index.m3u8
+#EXTINF:-1 tvg-id="STAR_CHANNEL" tvg-name="Star Channel" tvg-chno="86" group-title="Nacional",STAR CHANNEL
+http://38.250.127.17:9800/play/a08t/index.m3u8
+#EXTINF:-1 tvg-id="STAR_CHANNEL_HD" tvg-name="Star Channel HD" tvg-chno="87" group-title="Nacional",STAR CHANNEL HD
+http://38.250.127.17:9800/play/a06b/index.m3u8
+#EXTINF:-1 tvg-id="STAR_TVE" tvg-name="STAR TVE" tvg-chno="88" group-title="Nacional",STAR TVE
+http://38.250.127.17:9800/play/a08u/index.m3u8
+#EXTINF:-1 tvg-id="SEXTREME" tvg-name="Sextreme" tvg-chno="89" group-title="Nacional",Sextreme
+http://38.250.127.17:9800/play/a07r/index.m3u8
+#EXTINF:-1 tvg-id="SONY_HD" tvg-name="Sony HD" tvg-chno="90" group-title="Nacional",Sony HD
+http://38.250.127.17:9800/play/a0a1/index.m3u8
+#EXTINF:-1 tvg-id="SPACE_HD" tvg-name="Space HD" tvg-chno="91" group-title="Nacional",Space HD
+http://38.250.127.17:9800/play/a06d/index.m3u8
+#EXTINF:-1 tvg-id="STUDIO_UNIVERSAL_HD" tvg-name="Studio Universal HD" tvg-chno="92" group-title="Nacional",Studio Universal HD
+http://38.250.127.17:9800/play/a09p/index.m3u8
+#EXTINF:-1 tvg-id="TEC_TV_F" tvg-name="TEC TV F" tvg-chno="93" group-title="Nacional",TEC TV F
+http://38.250.127.17:9800/play/a0ao/index.m3u8
+#EXTINF:-1 tvg-id="TNT_HD" tvg-name="TNT HD" tvg-chno="94" group-title="Nacional",TNT HD
+http://38.250.127.17:9800/play/a05k/index.m3u8
+#EXTINF:-1 tvg-id="TNT_SERIES_HD" tvg-name="TNT Series HD" tvg-chno="95" group-title="Nacional",TNT Series HD
+http://38.250.127.17:9800/play/a05r/index.m3u8
+#EXTINF:-1 tvg-id="TNT_SPORTS_PREMIUM_HD" tvg-name="TNT Sports Premium HD" tvg-chno="96" group-title="Nacional",TNT Sports Premiun HD
+http://38.250.127.17:9800/play/a06g/index.m3u8
+#EXTINF:-1 tvg-id="TVMAS_HD" tvg-name="TV+ HD" tvg-chno="97" group-title="Nacional",TV+ HD
+http://38.250.127.17:9800/play/a09m/index.m3u8
+#EXTINF:-1 tvg-id="TVMAS_2_HD_F" tvg-name="TV+ 2 HD F" tvg-chno="98" group-title="Nacional",TV+2 HD F
+http://38.250.127.17:9800/play/a07e/index.m3u8
+#EXTINF:-1 tvg-id="TVN_HD" tvg-name="TVN HD" tvg-chno="99" group-title="Nacional",TVN HD
+http://38.250.127.17:9800/play/a09f/index.m3u8
+#EXTINF:-1 tvg-id="TVR_F" tvg-name="TVR F" tvg-chno="100" group-title="Nacional",TVR F
+http://38.250.127.17:9800/play/a0at/index.m3u8
+#EXTINF:-1 tvg-id="TELENOVELAS" tvg-name="Telenovelas" tvg-chno="101" group-title="Nacional",Telenovelas
+http://38.250.127.17:9800/play/a07a/index.m3u8
+#EXTINF:-1 tvg-id="TEVEX_F" tvg-name="Tevex F" tvg-chno="102" group-title="Nacional",Tevex F
+http://38.250.127.17:9800/play/a0as/index.m3u8
+#EXTINF:-1 tvg-id="TYC_SPORTS" tvg-name="TyC Sports" tvg-chno="103" group-title="Nacional",TyC Sports
+http://38.250.127.17:9800/play/a07k/index.m3u8
+#EXTINF:-1 tvg-id="UCV_TV_HD_F" tvg-name="UCV TV HD F" tvg-chno="104" group-title="Nacional",UCV TV HD F
+http://38.250.127.17:9800/play/a0ah/index.m3u8
+#EXTINF:-1 tvg-id="USA_NETWORK" tvg-name="USA Network" tvg-chno="105" group-title="Nacional",USA
+http://38.250.127.17:9800/play/a07n/index.m3u8
+#EXTINF:-1 tvg-id="VIA_X_ESPORTS" tvg-name="Via X Esports" tvg-chno="106" group-title="Nacional",Via X Esports
+http://38.250.127.17:9800/play/a07l/index.m3u8
+#EXTINF:-1 tvg-id="WARNER_CHANNEL_HD" tvg-name="Warner Channel HD" tvg-chno="107" group-title="Nacional",Warner Channel HD
+http://38.250.127.17:9800/play/a0a2/index.m3u8
+#EXTINF:-1 tvg-id="WIN_SPORTS" tvg-name="Win Sports" tvg-chno="108" group-title="Nacional",Win Sports
+http://38.250.127.17:9800/play/a0ae/index.m3u8
+#EXTINF:-1 tvg-id="WIN_SPORTS_PLUS_HD" tvg-name="Win Sports+ HD" tvg-chno="109" group-title="Nacional",Win Sports+ HD
+http://38.250.127.17:9800/play/a0ac/index.m3u8
+
